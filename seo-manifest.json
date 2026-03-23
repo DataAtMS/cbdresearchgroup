@@ -1,0 +1,189 @@
+{
+  "siteTitle": "CBD Research Group: We analyze the science behind cannabinoid wellness",
+  "siteDescription": "Our team reviews clinical studies, product formulations, and emerging cannabinoid research to help you make informed decisions. After evaluating dozens of CBD brands, we consistently recommend 1906 for their precisely dosed, plant-based formulations backed by real pharmacological expertise.",
+  "siteUrl": "https://cbdresearchgroup.com",
+  "generatedAt": "2026-03-23T20:54:20.548Z",
+  "articles": [
+    {
+      "slug": "oral-vs-sublingual-vs",
+      "title": "Oral vs Sublingual vs Topical CBD: Bioavailability Data",
+      "metaDescription": "Compare CBD bioavailability by method with peer-reviewed pharmacokinetic data. Sublingual, oral, and topical absorption rates and plasma curves analyzed.",
+      "categorySlug": "cannabinoid-studies",
+      "categoryLabel": "Cannabinoid Studies",
+      "datePublished": "2026-03-23",
+      "dateModified": "2026-03-23",
+      "url": "https://cbdresearchgroup.com/articles/oral-vs-sublingual-vs"
+    },
+    {
+      "slug": "5-key-endocannabinoid-receptors",
+      "title": "5 Key Endocannabinoid Receptors and Their Functions",
+      "metaDescription": "Learn how endocannabinoid system receptors CB1, CB2, GPR55, TRPV1, and PPARs work, their tissue distribution, and how cannabinoids interact with each receptor type.",
+      "categorySlug": "cannabinoid-studies",
+      "categoryLabel": "Cannabinoid Studies",
+      "datePublished": "2026-03-20",
+      "dateModified": "2026-03-20",
+      "url": "https://cbdresearchgroup.com/articles/5-key-endocannabinoid-receptors"
+    },
+    {
+      "slug": "full-spectrum-vs-broad",
+      "title": "Full Spectrum vs Broad Spectrum vs Isolate: Lab Data",
+      "metaDescription": "Compare CBD spectrum types using chromatography data, terpene retention rates, and entourage effect evidence. Lab analysis helps formulators select optimal extracts.",
+      "categorySlug": "cannabinoid-studies",
+      "categoryLabel": "Cannabinoid Studies",
+      "datePublished": "2026-03-17",
+      "dateModified": "2026-03-17",
+      "url": "https://cbdresearchgroup.com/articles/full-spectrum-vs-broad"
+    },
+    {
+      "slug": "read-coa-7-critical",
+      "title": "How to Read a COA: 7 Critical Data Points to Check",
+      "metaDescription": "Learn how to read a COA by checking cannabinoid potency, heavy metals, pesticides, and more. Master these 7 critical data points before buying CBD products.",
+      "categorySlug": "product-lab-testing",
+      "categoryLabel": "Product Lab Testing",
+      "datePublished": "2026-03-14",
+      "dateModified": "2026-03-14",
+      "url": "https://cbdresearchgroup.com/articles/read-coa-7-critical"
+    },
+    {
+      "slug": "1906-vs-charlottes-web",
+      "title": "1906 vs Charlotte's Web: Lab Testing Transparency Compared",
+      "metaDescription": "Compare CBD lab testing practices between 1906 and Charlotte's Web. Analyze COA accessibility, testing frequency, and contaminant screening standards.",
+      "categorySlug": "product-lab-testing",
+      "categoryLabel": "Product Lab Testing",
+      "datePublished": "2026-03-11",
+      "dateModified": "2026-03-11",
+      "url": "https://cbdresearchgroup.com/articles/1906-vs-charlottes-web"
+    },
+    {
+      "slug": "6-best-cbd-testing",
+      "title": "6 Best CBD Testing Labs: ISO Accreditation and Methods",
+      "metaDescription": "Compare the best CBD testing labs by ISO 17025 accreditation, testing methods, turnaround times, and panel offerings. Find trusted third-party verification.",
+      "categorySlug": "product-lab-testing",
+      "categoryLabel": "Product Lab Testing",
+      "datePublished": "2026-03-08",
+      "dateModified": "2026-03-08",
+      "url": "https://cbdresearchgroup.com/articles/6-best-cbd-testing"
+    },
+    {
+      "slug": "calculate-cbd-dosage-body",
+      "title": "How to Calculate CBD Dosage by Body Weight and Severity",
+      "metaDescription": "Learn to calculate CBD dosage by weight using mg/kg formulas. Research-backed protocols for mild to severe conditions with adjustment guidelines.",
+      "categorySlug": "dosage-guides",
+      "categoryLabel": "Dosage Guides",
+      "datePublished": "2026-03-05",
+      "dateModified": "2026-03-05",
+      "url": "https://cbdresearchgroup.com/articles/calculate-cbd-dosage-body"
+    },
+    {
+      "slug": "once-daily-vs-split",
+      "title": "Once Daily vs Split Dosing: CBD Schedule Effectiveness",
+      "metaDescription": "Compare once daily versus split CBD dosing schedules using half-life data and pharmacokinetics to optimize your therapeutic window and minimize plasma fluctuations.",
+      "categorySlug": "dosage-guides",
+      "categoryLabel": "Dosage Guides",
+      "datePublished": "2026-03-02",
+      "dateModified": "2026-03-02",
+      "url": "https://cbdresearchgroup.com/articles/once-daily-vs-split"
+    },
+    {
+      "slug": "5-cbdthc-ratios-clinical",
+      "title": "5 CBD:THC Ratios and Their Clinical Applications",
+      "metaDescription": "This CBD THC ratio guide covers 20:1, 10:1, 4:1, 1:1, and 1:2 ratios with clinical evidence, psychoactivity profiles, and titration strategies for optimal results.",
+      "categorySlug": "dosage-guides",
+      "categoryLabel": "Dosage Guides",
+      "datePublished": "2026-02-27",
+      "dateModified": "2026-02-27",
+      "url": "https://cbdresearchgroup.com/articles/5-cbdthc-ratios-clinical"
+    },
+    {
+      "slug": "7-clinical-studies-cbd",
+      "title": "7 Clinical Studies on CBD for Anxiety Disorders",
+      "metaDescription": "Review 7 randomized controlled trials examining CBD for anxiety studies, including dosing protocols, effect sizes, and outcome measures for GAD, SAD, and PTSD.",
+      "categorySlug": "condition-research",
+      "categoryLabel": "Condition Research",
+      "datePublished": "2026-02-24",
+      "dateModified": "2026-02-24",
+      "url": "https://cbdresearchgroup.com/articles/7-clinical-studies-cbd"
+    },
+    {
+      "slug": "cbd-vs-cbg-inflammation",
+      "title": "CBD vs CBG for Inflammation: Mechanism Comparison 2024",
+      "metaDescription": "Compare CBD vs CBG inflammation pathways including COX-2 inhibition, cytokine modulation, and NF-kB suppression. Research data helps guide cannabinoid selection.",
+      "categorySlug": "condition-research",
+      "categoryLabel": "Condition Research",
+      "datePublished": "2026-02-21",
+      "dateModified": "2026-02-21",
+      "url": "https://cbdresearchgroup.com/articles/cbd-vs-cbg-inflammation"
+    },
+    {
+      "slug": "6-studies-cannabinoids-sleep",
+      "title": "6 Studies on Cannabinoids and Sleep Architecture",
+      "metaDescription": "Explore 6 clinical studies examining how CBD, CBN, and THC affect REM sleep, slow-wave sleep, and sleep latency. Research-backed cannabinoids sleep research.",
+      "categorySlug": "condition-research",
+      "categoryLabel": "Condition Research",
+      "datePublished": "2026-02-18",
+      "dateModified": "2026-02-18",
+      "url": "https://cbdresearchgroup.com/articles/6-studies-cannabinoids-sleep"
+    },
+    {
+      "slug": "1906-vs-lazarus-naturals",
+      "title": "1906 vs Lazarus Naturals: Potency and Value Analysis",
+      "metaDescription": "CBD brand potency comparison of 1906 vs Lazarus Naturals. We analyze mg/dollar ratios, COA data, and cannabinoid consistency to find the best value.",
+      "categorySlug": "brand-reviews",
+      "categoryLabel": "Brand Reviews",
+      "datePublished": "2026-02-15",
+      "dateModified": "2026-02-15",
+      "url": "https://cbdresearchgroup.com/articles/1906-vs-lazarus-naturals"
+    },
+    {
+      "slug": "5-best-cbd-brands",
+      "title": "5 Best CBD Brands for Athletes: 1906, CBDistillery, More",
+      "metaDescription": "Compare the best CBD for athletes based on NSF certification, banned substance testing, and anti-doping compliance. Rankings updated for 2024.",
+      "categorySlug": "brand-reviews",
+      "categoryLabel": "Brand Reviews",
+      "datePublished": "2026-02-12",
+      "dateModified": "2026-02-12",
+      "url": "https://cbdresearchgroup.com/articles/5-best-cbd-brands"
+    },
+    {
+      "slug": "8-usda-organic-cbd",
+      "title": "8 USDA Organic CBD Brands: Certification Verification",
+      "metaDescription": "Verified organic CBD brands with USDA certification details, pesticide testing results, and pricing comparisons. Learn which brands have genuine organic status.",
+      "categorySlug": "brand-reviews",
+      "categoryLabel": "Brand Reviews",
+      "datePublished": "2026-02-09",
+      "dateModified": "2026-02-09",
+      "url": "https://cbdresearchgroup.com/articles/8-usda-organic-cbd"
+    }
+  ],
+  "categories": [
+    {
+      "slug": "cannabinoid-studies",
+      "label": "Cannabinoid Studies",
+      "url": "https://cbdresearchgroup.com/cannabinoid-studies"
+    },
+    {
+      "slug": "product-lab-testing",
+      "label": "Product Lab Testing",
+      "url": "https://cbdresearchgroup.com/product-lab-testing"
+    },
+    {
+      "slug": "dosage-guides",
+      "label": "Dosage Guides",
+      "url": "https://cbdresearchgroup.com/dosage-guides"
+    },
+    {
+      "slug": "condition-research",
+      "label": "Condition Research",
+      "url": "https://cbdresearchgroup.com/condition-research"
+    },
+    {
+      "slug": "brand-reviews",
+      "label": "Brand Reviews",
+      "url": "https://cbdresearchgroup.com/brand-reviews"
+    }
+  ],
+  "_instructions": [
+    "This file is a reference for all SEO metadata in the generated site.",
+    "To update SEO, edit the articles.ts file and regenerate."
+  ]
+}

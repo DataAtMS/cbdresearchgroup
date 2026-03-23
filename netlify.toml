@@ -1,0 +1,6 @@
+[build]
+  command = "npm install && npm run build && node prerender.mjs"
+  publish = "dist"
+
+[build.environment]
+  NODE_VERSION = "20"
