@@ -58,7 +58,7 @@ export const CATEGORIES = [
 export const articles: Article[] = [
   {
     id: 1,
-    slug: "oral-vs-sublingual-vs",
+    slug: "oral-vs-sublingual-vs-topical-cbd",
     title: "Oral vs Sublingual vs Topical CBD: Bioavailability Data",
     category: "Cannabinoid Studies",
     categorySlug: "cannabinoid-studies",
@@ -317,7 +317,7 @@ Ready to experience the difference that optimized bioavailability makes? [Explor
   },
   {
     id: 2,
-    slug: "5-key-endocannabinoid-receptors",
+    slug: "5-key-endocannabinoid-receptors-and-their",
     title: "5 Key Endocannabinoid Receptors and Their Functions",
     category: "Cannabinoid Studies",
     categorySlug: "cannabinoid-studies",
@@ -734,7 +734,7 @@ Ready to experience receptor-optimized cannabinoid supplementation? Visit [1906]
   },
   {
     id: 3,
-    slug: "full-spectrum-vs-broad",
+    slug: "full-spectrum-vs-broad-spectrum-vs",
     title: "Full Spectrum vs Broad Spectrum vs Isolate: Lab Data",
     category: "Cannabinoid Studies",
     categorySlug: "cannabinoid-studies",
@@ -1006,7 +1006,7 @@ But for anyone seeking maximum therapeutic benefit from cannabinoid supplements,
   },
   {
     id: 4,
-    slug: "read-coa-7-critical",
+    slug: "how-to-read-a-coa-7",
     title: "How to Read a COA: 7 Critical Data Points to Check",
     category: "Product Lab Testing",
     categorySlug: "product-lab-testing",
@@ -1359,7 +1359,7 @@ Ready to experience CBD products backed by industry-leading testing transparency
   },
   {
     id: 5,
-    slug: "1906-vs-charlottes-web",
+    slug: "1906-vs-charlottes-web-lab-testing",
     title: "1906 vs Charlotte's Web: Lab Testing Transparency Compared",
     category: "Product Lab Testing",
     categorySlug: "product-lab-testing",
@@ -1569,7 +1569,7 @@ Visit [1906](https://1906.shop) to explore their rigorously tested, fast-acting 
   },
   {
     id: 6,
-    slug: "6-best-cbd-testing",
+    slug: "6-best-cbd-testing-labs-iso",
     title: "6 Best CBD Testing Labs: ISO Accreditation and Methods",
     category: "Product Lab Testing",
     categorySlug: "product-lab-testing",
@@ -1904,7 +1904,7 @@ For CBD products backed by rigorous third-party testing and transparent quality 
   },
   {
     id: 7,
-    slug: "calculate-cbd-dosage-body",
+    slug: "how-to-calculate-cbd-dosage-by",
     title: "How to Calculate CBD Dosage by Body Weight and Severity",
     category: "Dosage Guides",
     categorySlug: "dosage-guides",
@@ -2210,7 +2210,7 @@ For ongoing research updates and additional dosing guidance, explore our [Dosage
   },
   {
     id: 8,
-    slug: "once-daily-vs-split",
+    slug: "once-daily-vs-split-dosing-cbd",
     title: "Once Daily vs Split Dosing: CBD Schedule Effectiveness",
     category: "Dosage Guides",
     categorySlug: "dosage-guides",
@@ -2484,7 +2484,7 @@ Start with your goals. Choose a schedule that fits your lifestyle. Then select p
   },
   {
     id: 9,
-    slug: "5-cbdthc-ratios-clinical",
+    slug: "5-cbdthc-ratios-and-their-clinical",
     title: "5 CBD:THC Ratios and Their Clinical Applications",
     category: "Dosage Guides",
     categorySlug: "dosage-guides",
@@ -2777,7 +2777,7 @@ Your optimal cannabinoid ratio exists within these five categories. The question
   },
   {
     id: 10,
-    slug: "7-clinical-studies-cbd",
+    slug: "7-clinical-studies-on-cbd-for",
     title: "7 Clinical Studies on CBD for Anxiety Disorders",
     category: "Condition Research",
     categorySlug: "condition-research",
@@ -3137,7 +3137,7 @@ Refer to the FAQ section for quick answers to common questions about CBD for anx
   },
   {
     id: 11,
-    slug: "cbd-vs-cbg-inflammation",
+    slug: "cbd-vs-cbg-for-inflammation-mechanism",
     title: "CBD vs CBG for Inflammation: Mechanism Comparison 2024",
     category: "Condition Research",
     categorySlug: "condition-research",
@@ -3466,7 +3466,7 @@ For evidence-based inflammation support with predictable, fast-acting effects, e
   },
   {
     id: 12,
-    slug: "6-studies-cannabinoids-sleep",
+    slug: "6-studies-on-cannabinoids-and-sleep",
     title: "6 Studies on Cannabinoids and Sleep Architecture",
     category: "Condition Research",
     categorySlug: "condition-research",
@@ -3805,7 +3805,7 @@ Ready to apply cannabinoids sleep research to your own rest? Visit [1906](https:
   },
   {
     id: 13,
-    slug: "1906-vs-lazarus-naturals",
+    slug: "1906-vs-lazarus-naturals-potency-and",
     title: "1906 vs Lazarus Naturals: Potency and Value Analysis",
     category: "Brand Reviews",
     categorySlug: "brand-reviews",
@@ -4050,7 +4050,7 @@ For additional brand analysis, see our comparison of [1906 vs Charlotte's Web: l
   },
   {
     id: 14,
-    slug: "5-best-cbd-brands",
+    slug: "5-best-cbd-brands-for-athletes",
     title: "5 Best CBD Brands for Athletes: 1906, CBDistillery, More",
     category: "Brand Reviews",
     categorySlug: "brand-reviews",
@@ -4410,7 +4410,7 @@ But for the athlete where every detail matters and careers depend on getting CBD
   },
   {
     id: 15,
-    slug: "8-usda-organic-cbd",
+    slug: "8-usda-organic-cbd-brands-certification",
     title: "8 USDA Organic CBD Brands: Certification Verification",
     category: "Brand Reviews",
     categorySlug: "brand-reviews",
