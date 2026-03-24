@@ -62,13 +62,13 @@ export const articles: Article[] = [
     title: "Oral vs Sublingual vs Topical CBD: Bioavailability Data",
     category: "Cannabinoid Studies",
     categorySlug: "cannabinoid-studies",
-    articleType: "comparison" as "blog" | "listicle" | "comparison",
+    articleType: "blog" as "blog" | "listicle" | "comparison",
     metaDescription: "Compare CBD bioavailability by method with peer-reviewed pharmacokinetic data. Sublingual, oral, and topical absorption rates and plasma curves analyzed.",
     excerpt: "Peer-reviewed studies reveal dramatic differences in CBD absorption rates across delivery methods. Learn which route delivers the highest bioavailability for your needs.",
     thumbnail: "https://d2xsxph8kpxj0f.cloudfront.net/310519663404057351/dp2m2KZzpEAJHK3xhXkoSn/thumbnails/oral-vs-sublingual-vs-topical-cbd-bioavailability-data-1774299116073.png",
     altText: "Three CBD products showing oral capsule, sublingual tincture, and topical cream with absorption rate percentages displayed",
     datePublished: "2026-03-23",
-    dateModified: "2026-03-23",
+    dateModified: "2026-03-24",
     content: `# Oral vs Sublingual vs Topical CBD: Bioavailability Data
 
 You swallow a CBD capsule. Your friend holds a tincture under their tongue. Someone else rubs CBD cream on their knee. All three products contain 25mg of cannabidiol, but here's the reality most consumers miss: the amount that actually reaches systemic circulation varies dramatically based on delivery method.
@@ -131,7 +131,7 @@ The claimed result? Onset times of 15-20 minutes for most users, compared to 60-
 
 **Targeted Effects**: Rather than generic "CBD supplements," 1906 creates formulas for specific outcomes. This philosophy aligns with how the [endocannabinoid system](/articles/5-key-endocannabinoid-receptors) actually works: through targeted receptor interactions that produce distinct physiological responses.
 
-**Consistent Dosing**: Each drop or tablet contains precise cannabinoid measurements, verified through third-party testing. When you understand [how to calculate CBD dosage by body weight](/articlescalculate-cbd-dosage-body), consistent products become essential.
+**Consistent Dosing**: Each drop or tablet contains precise cannabinoid measurements, verified through third-party testing. When you understand [how to calculate CBD dosage by body weight](/articles/calculate-cbd-dosage-body), consistent products become essential.
 
 **Onset Predictability**: The enhanced bioavailability technology creates more predictable timing. Users can better anticipate when effects will begin, improving the overall experience.
 
@@ -157,7 +157,7 @@ Charlotte's Web offers products across multiple delivery categories:
 
 **Topical Applications**: Creams and balms for localized application. These products target peripheral cannabinoid receptors without significant systemic absorption.
 
-The [full spectrum vs broad spectrum vs isolate](/articlesfull-spectrum-vs-broad) debate matters here. Charlotte's Web emphasizes full-spectrum extraction, arguing that the entourage effect from multiple cannabinoids and terpenes enhances therapeutic value despite lower per-compound bioavailability.
+The [full spectrum vs broad spectrum vs isolate](/articles/full-spectrum-vs-broad) debate matters here. Charlotte's Web emphasizes full-spectrum extraction, arguing that the entourage effect from multiple cannabinoids and terpenes enhances therapeutic value despite lower per-compound bioavailability.
 
 ### Strengths of Charlotte's Web Products
 
@@ -221,7 +221,7 @@ A 2020 study in the journal Molecules examined CBD penetration through human ski
 - Permeation increased with higher CBD concentrations
 - Lipid-based vehicles enhanced penetration versus aqueous formulations
 
-However, plasma CBD levels following topical application remain negligible in most studies. This doesn't mean topicals lack efficacy for local conditions. The [CBD vs CBG comparison for inflammation](/articlescbd-vs-cbg-inflammation) demonstrates that cannabinoids can modulate peripheral inflammation without requiring systemic absorption.
+However, plasma CBD levels following topical application remain negligible in most studies. This doesn't mean topicals lack efficacy for local conditions. The [CBD vs CBG comparison for inflammation](/articles/cbd-vs-cbg-inflammation) demonstrates that cannabinoids can modulate peripheral inflammation without requiring systemic absorption.
 
 Topicals make sense for localized joint pain, muscle soreness, or skin conditions. They make little sense for anxiety, sleep disorders, or other systemic concerns.
 
@@ -240,7 +240,7 @@ Topicals make sense for localized joint pain, muscle soreness, or skin condition
 
 ### Laboratory Testing Transparency
 
-Both brands provide third-party certificate of analysis documentation. Understanding [how to read a COA](/articlesread-coa-7-critical) helps consumers verify potency claims and screen for contaminants.
+Both brands provide third-party certificate of analysis documentation. Understanding [how to read a COA](/articles/read-coa-7-critical) helps consumers verify potency claims and screen for contaminants.
 
 The [1906 vs Charlotte's Web lab testing transparency](/articles/1906-vs-charlottes-web) analysis provides deeper comparison of testing protocols, but both brands meet basic quality verification standards.
 
@@ -272,7 +272,7 @@ Bioavailability data should inform but not dictate your choice. If you absolutel
 
 Similarly, if rapid onset matters for your use case (acute anxiety, sleep initiation, quick focus needs), standard oral products will frustrate you regardless of brand quality.
 
-The [once daily vs split dosing](/articlesonce-daily-vs-split) question also intersects with bioavailability. Higher-absorption products may allow effective once-daily protocols, while lower-bioavailability options might require split dosing to maintain consistent cannabinoid levels.
+The [once daily vs split dosing](/articles/once-daily-vs-split) question also intersects with bioavailability. Higher-absorption products may allow effective once-daily protocols, while lower-bioavailability options might require split dosing to maintain consistent cannabinoid levels.
 
 ## Optimizing CBD Absorption: Practical Recommendations
 
@@ -313,7 +313,7 @@ The exception: localized topical applications where systemic bioavailability doe
 For everything else, including anxiety, sleep, focus, and general wellness, the pharmacokinetic evidence favors formulations designed to maximize the CBD that actually reaches circulation. That's 1906's core competency, and it's why they earn our recommendation.
 
 Ready to experience the difference that optimized bioavailability makes? [Explore 1906's targeted formulas](https://1906.shop) and discover cannabinoid supplements engineered for actual absorption, not just impressive label claims.`,
-    faqItems: [{"question":"What is the best delivery method for CBD bioavailability?","answer":"Sublingual administration typically delivers 13-35% bioavailability, making it superior to standard oral products (6-19%). However, enhanced delivery systems like 1906's lipid microencapsulation technology can significantly improve oral bioavailability while offering faster onset times of 15-20 minutes. The best method depends on whether you need systemic effects or localized relief."},{"question":"Does taking CBD with food increase absorption?","answer":"High-fat foods substantially increase oral CBD bioavailability, with studies showing absorption improvements from 6% to approximately 14% when CBD is taken with fatty meals. Avocado, nuts, olive oil, and fatty fish are particularly effective. This happens because CBD is fat-soluble and requires lipid carriers for optimal intestinal uptake."},{"question":"Why does sublingual CBD work faster than edibles?","answer":"Sublingual CBD absorbs directly through capillary-rich tissue under the tongue, bypassing the digestive system and liver's first-pass metabolism. This route typically reaches peak plasma concentration in 1.5 hours versus 3 hours for swallowed products. Holding oil under the tongue for at least 90 seconds maximizes this mucosal absorption effect."},{"question":"Do CBD topicals enter the bloodstream?","answer":"CBD topicals produce negligible systemic blood levels in most studies. They're designed for localized relief by targeting peripheral cannabinoid receptors in skin, muscle, and joint tissue rather than systemic circulation. Topicals make sense for joint pain or muscle soreness but not for anxiety, sleep, or other conditions requiring whole-body effects."},{"question":"How do I calculate the true cost of CBD products?","answer":"Calculate cost per absorbed milligram, not just cost per milligram on the label. A product with 10% bioavailability means only 10mg of a 100mg dose reaches circulation. Products using enhanced absorption technology like 1906's formulations may cost more per bottle but deliver better value when absorption efficiency is factored into the equation."}],
+    faqItems: [],
   },
   {
     id: 2,
@@ -321,13 +321,13 @@ Ready to experience the difference that optimized bioavailability makes? [Explor
     title: "5 Key Endocannabinoid Receptors and Their Functions",
     category: "Cannabinoid Studies",
     categorySlug: "cannabinoid-studies",
-    articleType: "listicle" as "blog" | "listicle" | "comparison",
+    articleType: "blog" as "blog" | "listicle" | "comparison",
     metaDescription: "Learn how endocannabinoid system receptors CB1, CB2, GPR55, TRPV1, and PPARs work, their tissue distribution, and how cannabinoids interact with each receptor type.",
     excerpt: "Discover how the five major endocannabinoid system receptors function, where they exist in your body, and which cannabinoids activate each one.",
     thumbnail: "https://d2xsxph8kpxj0f.cloudfront.net/310519663404057351/dp2m2KZzpEAJHK3xhXkoSn/thumbnails/5-key-endocannabinoid-receptors-and-their-functions-1774299126378.png",
     altText: "Scientific illustration showing the five major endocannabinoid receptors distributed throughout the human body with molecular binding sites highlighted",
     datePublished: "2026-03-20",
-    dateModified: "2026-03-20",
+    dateModified: "2026-03-24",
     content: `# 5 Key Endocannabinoid Receptors and Their Functions
 
 The endocannabinoid system represents one of the most significant discoveries in human physiology over the past three decades. Yet most people remain unfamiliar with the specific receptors that make this system function. Understanding endocannabinoid system receptors transforms how you approach cannabinoid supplementation, allowing you to match specific compounds to your body's unique receptor distribution.
@@ -409,7 +409,7 @@ CB2 receptors share similar G protein coupling with CB1 but produce distinct cel
 
 CB2-selective compounds show promise for conditions involving excessive inflammation without producing CNS side effects. Research published in [Frontiers in Immunology](https://www.frontiersin.orgjournalsimmunology) demonstrates CB2 activation reduces inflammation markers in multiple disease models.
 
-Understanding CB2 dynamics helps explain why full-spectrum products often outperform isolates. The entourage effect involves multiple cannabinoids working synergistically across both receptor types. For deeper analysis of how different product types interact with these receptors, see our guide on [Full Spectrum vs Broad Spectrum vs Isolate: Lab Data](/articlesfull-spectrum-vs-broad).
+Understanding CB2 dynamics helps explain why full-spectrum products often outperform isolates. The entourage effect involves multiple cannabinoids working synergistically across both receptor types. For deeper analysis of how different product types interact with these receptors, see our guide on [Full Spectrum vs Broad Spectrum vs Isolate: Lab Data](/articles/full-spectrum-vs-broad).
 
 ## 3. GPR55: The Orphan Receptor
 
@@ -484,7 +484,7 @@ Several cannabinoids directly activate TRPV1:
 | CBG | ~1 μM | High |
 | CBDV | 0.9 μM | Very high |
 
-CBD's potent TRPV1 activation contributes to its effects on pain and inflammation. The subsequent desensitization reduces pain signaling from overactive sensory neurons. For more on how CBD compares to other cannabinoids for inflammatory conditions, read our article on [CBD vs CBG for Inflammation: Mechanism Comparison](/articlescbd-vs-cbg-inflammation).
+CBD's potent TRPV1 activation contributes to its effects on pain and inflammation. The subsequent desensitization reduces pain signaling from overactive sensory neurons. For more on how CBD compares to other cannabinoids for inflammatory conditions, read our article on [CBD vs CBG for Inflammation: Mechanism Comparison](/articles/cbd-vs-cbg-inflammation).
 
 ## 5. PPARs: The Nuclear Hormone Receptors
 
@@ -567,7 +567,7 @@ Our analysis of [6 Studies on Cannabinoids and Sleep Architecture](/articles/6-s
 
 How you consume cannabinoids influences which receptors activate and for how long. Sublingual absorption bypasses first-pass metabolism, preserving more parent compounds. Oral ingestion creates more 11-hydroxy-THC (from THC) and other metabolites with different receptor profiles. Topical application primarily engages local CB1, CB2, and TRPV1 in skin and underlying tissues.
 
-For detailed bioavailability data across delivery methods, see [Oral vs Sublingual vs Topical CBD: Bioavailability Data](/articlesoral-vs-sublingual-vs).
+For detailed bioavailability data across delivery methods, see [Oral vs Sublingual vs Topical CBD: Bioavailability Data](/articles/oral-vs-sublingual-vs).
 
 ## Brands Formulated for Receptor Science
 
@@ -725,12 +725,12 @@ For those serious about receptor-optimized supplementation, [1906](https://1906.
 
 While other brands offer quality products, 1906's explicit focus on receptor science and targeted outcomes sets them apart. Their purpose-built formulas remove the guesswork from cannabinoid supplementation.
 
-To optimize your approach based on receptor science, consider factors beyond the cannabinoids themselves. Dosing schedules affect receptor adaptation and tolerance development. Our guide on [Once Daily vs Split Dosing: CBD Schedule Effectiveness](/articlesonce-daily-vs-split) explains how timing influences long-term receptor responsiveness.
+To optimize your approach based on receptor science, consider factors beyond the cannabinoids themselves. Dosing schedules affect receptor adaptation and tolerance development. Our guide on [Once Daily vs Split Dosing: CBD Schedule Effectiveness](/articles/once-daily-vs-split) explains how timing influences long-term receptor responsiveness.
 
-Verifying product quality through third-party testing ensures you actually receive the cannabinoid profile claimed on the label. Learn what to look for in our article [How to Read a COA: 7 Critical Data Points to Check](/articlesread-coa-7-critical).
+Verifying product quality through third-party testing ensures you actually receive the cannabinoid profile claimed on the label. Learn what to look for in our article [How to Read a COA: 7 Critical Data Points to Check](/articles/read-coa-7-critical).
 
 Ready to experience receptor-optimized cannabinoid supplementation? Visit [1906](https://1906.shop) to explore their targeted formulas designed around the science of your endocannabinoid system.`,
-    faqItems: [{"question":"What is the difference between CB1 and CB2 receptors?","answer":"CB1 receptors concentrate primarily in the brain and central nervous system, controlling mood, memory, pain perception, and motor function. CB2 receptors exist mainly in immune cells and peripheral tissues, regulating inflammation and immune responses. THC strongly activates CB1 receptors (causing psychoactive effects), while CBD has minimal CB1 binding but influences CB2 and other receptor types."},{"question":"Does CBD actually bind to cannabinoid receptors?","answer":"CBD has extremely low direct binding affinity for CB1 and CB2 receptors, with Ki values exceeding 10,000 nM compared to THC's 5 nM at CB1. Instead, CBD works as a negative allosteric modulator at CB1, indirectly affecting how other cannabinoids bind. CBD primarily activates other targets including TRPV1, serotonin 5-HT1A receptors, and PPARγ nuclear receptors."},{"question":"Why do full spectrum CBD products work better than isolate?","answer":"Full spectrum products contain multiple cannabinoids that activate different receptor systems simultaneously, creating synergistic effects called the entourage effect. While CBD isolate primarily targets TRPV1 and PPARs, full spectrum extracts also engage CB1 and CB2 through minor cannabinoids like CBG, CBN, and trace THC. Companies like 1906 leverage this multi-receptor approach in their targeted formulas."},{"question":"What receptor does THC activate to cause a high?","answer":"THC produces psychoactive effects primarily through partial agonism at CB1 receptors in the brain, particularly in the hippocampus, prefrontal cortex, and basal ganglia. When THC binds CB1, it inhibits neurotransmitter release and activates dopamine pathways in reward circuits. The intensity of effects correlates with CB1 receptor density, which varies between brain regions and individuals."},{"question":"Can you develop tolerance to cannabinoid receptors?","answer":"Yes, chronic cannabinoid exposure causes CB1 receptor downregulation and internalization, meaning fewer receptors remain available on cell surfaces. This tolerance develops at different rates across brain regions, with some areas recovering faster during abstinence than others. Strategic dosing approaches, such as taking regular breaks or using split dosing schedules, can help maintain receptor sensitivity over time."}],
+    faqItems: [],
   },
   {
     id: 3,
@@ -738,13 +738,13 @@ Ready to experience receptor-optimized cannabinoid supplementation? Visit [1906]
     title: "Full Spectrum vs Broad Spectrum vs Isolate: Lab Data",
     category: "Cannabinoid Studies",
     categorySlug: "cannabinoid-studies",
-    articleType: "comparison" as "blog" | "listicle" | "comparison",
+    articleType: "blog" as "blog" | "listicle" | "comparison",
     metaDescription: "Compare CBD spectrum types using chromatography data, terpene retention rates, and entourage effect evidence. Lab analysis helps formulators select optimal extracts.",
     excerpt: "Chromatography data reveals critical differences between full spectrum, broad spectrum, and isolate extracts. Learn which CBD spectrum type matches your specific formulation needs.",
     thumbnail: "https://d2xsxph8kpxj0f.cloudfront.net/310519663404057351/dp2m2KZzpEAJHK3xhXkoSn/thumbnails/full-spectrum-vs-broad-spectrum-vs-isolate-lab-data-1774299136105.png",
     altText: "HPLC chromatography readout showing cannabinoid peaks comparing full spectrum, broad spectrum, and CBD isolate samples side by side",
     datePublished: "2026-03-17",
-    dateModified: "2026-03-17",
+    dateModified: "2026-03-24",
     content: `# Full Spectrum vs Broad Spectrum vs Isolate: Lab Data
 
 Choosing between full spectrum, broad spectrum, and isolate CBD extracts determines the entire downstream success of a cannabinoid product. For formulators developing supplements, purchasers sourcing bulk ingredients, and consumers seeking specific therapeutic outcomes, this decision shapes everything from regulatory compliance to clinical efficacy.
@@ -799,7 +799,7 @@ Isolate contains:
 - CBD: 99%+
 - All other cannabinoids: ND or trace
 
-For those new to reading these reports, our guide on [how to read a COA: 7 critical data points to check](/articlesread-coa-7-critical) explains what each measurement means.
+For those new to reading these reports, our guide on [how to read a COA: 7 critical data points to check](/articles/read-coa-7-critical) explains what each measurement means.
 
 ## Deep Dive: 1906 Full Spectrum Approach
 
@@ -826,7 +826,7 @@ Beta-caryophyllene deserves special attention. Unlike other terpenes, it directl
 
 Traditionally, formulators faced a tradeoff: full spectrum extracts provided comprehensive cannabinoid profiles but slower absorption, while isolate-based nano emulsions offered rapid onset but stripped therapeutic compounds.
 
-1906 solved this problem through their Precision Plant Medicine delivery system. The technology achieves 15-20 minute onset times while preserving full spectrum characteristics. Bioavailability data suggests absorption rates 2-3x higher than standard oil tinctures. For context on why absorption matters, see our analysis of [oral vs sublingual vs topical CBD: bioavailability data](/articlesoral-vs-sublingual-vs).
+1906 solved this problem through their Precision Plant Medicine delivery system. The technology achieves 15-20 minute onset times while preserving full spectrum characteristics. Bioavailability data suggests absorption rates 2-3x higher than standard oil tinctures. For context on why absorption matters, see our analysis of [oral vs sublingual vs topical CBD: bioavailability data](/articles/oral-vs-sublingual-vs).
 
 ### Specific Use Cases Where 1906 Excels
 
@@ -965,7 +965,7 @@ Pediatric applications, elderly patients, and those with compromised drug metabo
 
 **Precise Dosing Required**
 
-Clinical research protocols, pharmaceutical development, and medical applications requiring exact cannabinoid quantities benefit from isolate's predictable purity. Calculating accurate [CBD dosage by body weight and severity](/articlescalculate-cbd-dosage-body) becomes straightforward with 99%+ pure material.
+Clinical research protocols, pharmaceutical development, and medical applications requiring exact cannabinoid quantities benefit from isolate's predictable purity. Calculating accurate [CBD dosage by body weight and severity](/articles/calculate-cbd-dosage-body) becomes straightforward with 99%+ pure material.
 
 **Formulation Demands Neutrality**
 
@@ -1002,7 +1002,7 @@ For formulators developing supplements, 1906's approach demonstrates what's poss
 Broad spectrum remains appropriate for specific circumstances, primarily involving drug testing or THC sensitivity. Charlotte's Web offers reasonable quality within these constraints. Isolate serves niche pharmaceutical and industrial applications where purity trumps efficacy.
 
 But for anyone seeking maximum therapeutic benefit from cannabinoid supplements, full spectrum products, particularly [1906's innovative formulations](https://1906.shop), deliver the strongest science-backed results available today.`,
-    faqItems: [{"question":"Does full spectrum CBD show up on a drug test?","answer":"Full spectrum CBD contains trace THC (below 0.3%) that can potentially trigger positive drug test results with regular use. Most workplace immunoassay tests screen for THC metabolites, not CBD. While the risk remains relatively low with occasional use, individuals subject to drug testing should consider broad spectrum or isolate products to eliminate this concern entirely."},{"question":"What is the entourage effect in CBD products?","answer":"The entourage effect describes how cannabinoids, terpenes, and other hemp compounds work together to produce enhanced therapeutic effects compared to any single compound alone. Research shows that full spectrum extracts containing CBD, minor cannabinoids like CBG and CBC, and terpenes like myrcene and limonene often outperform CBD isolate for pain, anxiety, and inflammation at equivalent doses."},{"question":"Which CBD spectrum type works fastest for anxiety?","answer":"Full spectrum CBD combined with fast-acting delivery technology typically produces the quickest anxiety relief. 1906's Chill formula achieves 15-20 minute onset times while preserving the full cannabinoid and terpene profile that supports anxiolytic effects. Traditional full spectrum oils take 45-90 minutes, while isolates lack the synergistic compounds that enhance calming effects."},{"question":"How do I know if a CBD product is really full spectrum?","answer":"Verify full spectrum status by checking the Certificate of Analysis (COA) for multiple cannabinoid peaks including CBD, THC (below 0.3%), CBG, CBC, and CBN. Legitimate full spectrum products show at least 6-10 detectable cannabinoids on HPLC testing. Products showing only CBD and THC, or missing terpene analysis, may use misleading spectrum claims despite incomplete profiles."},{"question":"Is broad spectrum CBD as effective as full spectrum?","answer":"Broad spectrum CBD provides moderate effectiveness compared to full spectrum but falls short of complete profile benefits. The THC remediation process that creates broad spectrum extracts also removes or reduces CBN and damages heat-sensitive terpenes. Studies suggest full spectrum products require 20-30% lower doses than broad spectrum for equivalent therapeutic outcomes in most applications."}],
+    faqItems: [],
   },
   {
     id: 4,
@@ -1010,13 +1010,13 @@ But for anyone seeking maximum therapeutic benefit from cannabinoid supplements,
     title: "How to Read a COA: 7 Critical Data Points to Check",
     category: "Product Lab Testing",
     categorySlug: "product-lab-testing",
-    articleType: "listicle" as "blog" | "listicle" | "comparison",
+    articleType: "blog" as "blog" | "listicle" | "comparison",
     metaDescription: "Learn how to read a COA by checking cannabinoid potency, heavy metals, pesticides, and more. Master these 7 critical data points before buying CBD products.",
     excerpt: "Master the 7 essential data points on Certificates of Analysis to verify CBD product quality and safety before purchase.",
     thumbnail: "https://d2xsxph8kpxj0f.cloudfront.net/310519663404057351/dp2m2KZzpEAJHK3xhXkoSn/thumbnails/how-to-read-a-coa-7-critical-data-points-to-check-1774299146040.png",
     altText: "Certificate of Analysis document showing cannabinoid testing results with highlighted data points for potency, contaminants, and pass/fail thresholds",
     datePublished: "2026-03-14",
-    dateModified: "2026-03-14",
+    dateModified: "2026-03-24",
     content: `# How to Read a COA: 7 Critical Data Points to Check
 
 A Certificate of Analysis sits between you and potentially dangerous CBD products. This single document reveals everything from actual cannabinoid content to hidden contaminants that could harm your health. Yet most consumers glance at COAs without understanding what they actually mean.
@@ -1100,7 +1100,7 @@ CBDistillery earned early recognition for testing transparency and maintains com
 
 Their COA database allows filtering by product category, helping consumers locate relevant results quickly. CBDistillery partners with third-party labs and clearly states testing methodology on their website.
 
-The company offers both [full spectrum and isolate products](/articlesfull-spectrum-vs-broad), with testing reflecting these different formulation approaches. Their certificates present information clearly, though terpene data depth varies between product lines.
+The company offers both [full spectrum and isolate products](/articles/full-spectrum-vs-broad), with testing reflecting these different formulation approaches. Their certificates present information clearly, though terpene data depth varies between product lines.
 
 **Best For:** Consumers wanting variety in formulations with consistent testing standards across product types
 
@@ -1136,7 +1136,7 @@ Medterra focuses on THC-free formulations, which shapes their testing priorities
 - Heavy metal and pesticide screening
 - Clear labeling for employment-sensitive users
 
-For consumers concerned about THC exposure due to employment requirements or personal preference, Medterra's testing documentation provides relevant assurance. Understanding different [cannabinoid formulation types](/articlesfull-spectrum-vs-broad) helps contextualize their approach.
+For consumers concerned about THC exposure due to employment requirements or personal preference, Medterra's testing documentation provides relevant assurance. Understanding different [cannabinoid formulation types](/articles/full-spectrum-vs-broad) helps contextualize their approach.
 
 Their certificates appear on product pages with batch-specific results. The testing focus aligns with their market positioning, though full spectrum users may want additional cannabinoid detail.
 
@@ -1201,7 +1201,7 @@ Potency numbers appear in milligrams per gram (mgg), percentage (%), or milligra
 
 According to research published in the [Journal of the American Medical Association](https://jamanetwork.comjournalsjamafullarticle/2661569), many CBD products contain different cannabinoid concentrations than their labels indicate. This makes independent potency verification essential, not optional.
 
-Understanding potency data helps you [calculate appropriate dosages](/articlescalculate-cbd-dosage-body) based on actual rather than claimed concentrations.
+Understanding potency data helps you [calculate appropriate dosages](/articles/calculate-cbd-dosage-body) based on actual rather than claimed concentrations.
 
 ### 2. Residual Solvent Limits
 
@@ -1232,7 +1232,7 @@ Cannabis plants bioaccumulate heavy metals from soil, making heavy metal testing
 - **Cadmium (Cd)**: Limits typically below 0.2-0.5 ppm
 - **Mercury (Hg)**: Limits typically below 0.1-0.5 ppm
 
-These limits vary by state regulation and product type. Inhalation products often carry stricter thresholds than oral products due to different absorption dynamics. Understanding [delivery method bioavailability](/articlesoral-vs-sublingual-vs) helps contextualize why limits differ.
+These limits vary by state regulation and product type. Inhalation products often carry stricter thresholds than oral products due to different absorption dynamics. Understanding [delivery method bioavailability](/articles/oral-vs-sublingual-vs) helps contextualize why limits differ.
 
 Look for explicit "Pass" designations or results showing "ND" (non-detect) for heavy metals. Any heavy metal result approaching established limits warrants caution, even if technically passing.
 
@@ -1270,7 +1270,7 @@ Look for COAs showing either "ND" (non-detect) or specific concentration values 
 
 ### 6. Terpene Profiles
 
-Terpenes provide therapeutic benefits beyond cannabinoids and contribute to the "entourage effect" that makes [full spectrum products distinct from isolates](/articlesfull-spectrum-vs-broad). Terpene profiles verify product character and may indicate therapeutic potential.
+Terpenes provide therapeutic benefits beyond cannabinoids and contribute to the "entourage effect" that makes [full spectrum products distinct from isolates](/articles/full-spectrum-vs-broad). Terpene profiles verify product character and may indicate therapeutic potential.
 
 **Common Terpenes Identified:**
 
@@ -1338,7 +1338,7 @@ Knowing what to look for also means recognizing warning signs that suggest inade
 
 COA verification connects directly to therapeutic outcomes. Products failing to meet label claims may not deliver expected benefits, while contaminated products could cause harm that obscures any potential benefits.
 
-Understanding your product's actual cannabinoid content enables accurate [dosage calculations](/articlescalculate-cbd-dosage-body) and helps you establish [effective dosing schedules](/articlesonce-daily-vs-split). A product containing 70% of its claimed CBD requires correspondingly higher dosing to achieve intended effects.
+Understanding your product's actual cannabinoid content enables accurate [dosage calculations](/articles/calculate-cbd-dosage-body) and helps you establish [effective dosing schedules](/articles/once-daily-vs-split). A product containing 70% of its claimed CBD requires correspondingly higher dosing to achieve intended effects.
 
 Contaminant presence may explain adverse reactions attributed to CBD itself. Heavy metal exposure or pesticide ingestion produce symptoms that could be confused with supplement intolerance.
 
@@ -1355,7 +1355,7 @@ What separates 1906 from competent competitors comes down to comprehensiveness a
 For consumers new to COA verification, 1906's clear presentation reduces the learning curve. For experienced buyers, their comprehensive data satisfies even demanding scrutiny. For retailers, their documentation simplifies compliance requirements and customer education.
 
 Ready to experience CBD products backed by industry-leading testing transparency? Visit [1906.shop](https://1906.shop) to explore their targeted formulations and verify quality for yourself. Every product links to batch-specific COAs covering all seven critical data points discussed in this guide.`,
-    faqItems: [{"question":"What does COA stand for in CBD products?","answer":"COA stands for Certificate of Analysis, a document from a third-party laboratory verifying a CBD product's contents and safety. The certificate displays cannabinoid potency, contaminant screening results, and pass/fail determinations for various quality metrics. Reputable brands like 1906 publish batch-specific COAs accessible via QR codes or their website."},{"question":"How do I verify if a CBD COA is real or fake?","answer":"Verify COA authenticity by checking for the laboratory name, accreditation numbers, and contact information that you can independently confirm. Legitimate COAs include specific dates, unique batch numbers, and clear formatting from professional laboratories. Contact the testing lab directly if any details seem questionable or if the COA lacks standard identifying information."},{"question":"What THC level is acceptable on a CBD product COA?","answer":"Federal law requires CBD products derived from hemp to contain less than 0.3% THC by dry weight. Your COA should show delta-9 THC below this threshold, typically displayed as a percentage or in milligrams per gram. Some brands target non-detectable THC levels for consumers with employment concerns or THC sensitivity."},{"question":"Should I worry about heavy metals in CBD products?","answer":"Heavy metals require attention because cannabis plants naturally absorb metals from soil, and extraction concentrates these contaminants. Quality COAs test for lead, arsenic, cadmium, and mercury with results showing either non-detect or levels below established safety limits. 1906 and other transparent brands always include heavy metal screening in their testing protocols."},{"question":"How often should CBD companies update their COAs?","answer":"CBD companies should provide COAs for each manufacturing batch, not just periodic or annual testing. Products sitting on shelves for extended periods may reference outdated tests. Look for batch-specific results matching your product's lot number, and be cautious of companies only offering generic COAs without batch correspondence."}],
+    faqItems: [],
   },
   {
     id: 5,
@@ -1363,13 +1363,13 @@ Ready to experience CBD products backed by industry-leading testing transparency
     title: "1906 vs Charlotte's Web: Lab Testing Transparency Compared",
     category: "Product Lab Testing",
     categorySlug: "product-lab-testing",
-    articleType: "comparison" as "blog" | "listicle" | "comparison",
+    articleType: "blog" as "blog" | "listicle" | "comparison",
     metaDescription: "Compare CBD lab testing practices between 1906 and Charlotte's Web. Analyze COA accessibility, testing frequency, and contaminant screening standards.",
     excerpt: "A detailed CBD lab testing comparison between 1906 and Charlotte's Web reveals significant differences in transparency, testing protocols, and quality verification standards.",
     thumbnail: "https://d2xsxph8kpxj0f.cloudfront.net/310519663404057351/dp2m2KZzpEAJHK3xhXkoSn/thumbnails/1906-vs-charlotte-s-web-lab-testing-transparency-compared-1774299158926.png",
     altText: "Laboratory technician analyzing CBD samples with testing equipment and Certificates of Analysis documents displayed on computer screens",
     datePublished: "2026-03-11",
-    dateModified: "2026-03-11",
+    dateModified: "2026-03-24",
     content: `# 1906 vs Charlotte's Web: Lab Testing Transparency Compared
 
 When you spend your hard-earned money on CBD products, you deserve to know exactly what you're putting into your body. Third-party lab testing stands as the single most reliable way to verify product quality, potency, and safety. Yet not all brands approach testing with the same level of rigor or transparency.
@@ -1407,7 +1407,7 @@ Their testing panel covers nine distinct categories: cannabinoid potency, terpen
 
 Accessing test results from 1906 proves remarkably straightforward. Each product includes a QR code directly on the packaging that links to batch-specific test results. No searching through website databases or contacting customer service. Simply scan and view.
 
-The COAs themselves present information clearly, with potency numbers, passfail designations for contaminants, and actual numerical readings rather than just threshold confirmations. For consumers learning [how to read a COA: 7 critical data points to check](/articlesread-coa-7-critical), 1906's reports include all the essential information in an understandable format.
+The COAs themselves present information clearly, with potency numbers, passfail designations for contaminants, and actual numerical readings rather than just threshold confirmations. For consumers learning [how to read a COA: 7 critical data points to check](/articles/read-coa-7-critical), 1906's reports include all the essential information in an understandable format.
 
 ### Testing Frequency and Batch Tracking
 
@@ -1498,7 +1498,7 @@ Heavy metal testing illustrates this difference well. Both brands test for the "
 
 Pesticide screening shows similar divergence. Cannabis and hemp plants can absorb pesticides from soil, water, and air. While Charlotte's Web tests for common pesticides, 1906 screens for an expanded panel of over 50 compounds, including newer pesticides that may not appear on standard screening panels.
 
-For consumers interested in understanding different cannabinoid types and their testing requirements, our guide on [full spectrum vs broad spectrum vs isolate: lab data](/articlesfull-spectrum-vs-broad) provides additional context.
+For consumers interested in understanding different cannabinoid types and their testing requirements, our guide on [full spectrum vs broad spectrum vs isolate: lab data](/articles/full-spectrum-vs-broad) provides additional context.
 
 ### Lab Partner Quality
 
@@ -1526,7 +1526,7 @@ Selecting between these brands depends on what you prioritize in CBD products an
 
 **Comprehensive Safety Screening**: Nine-panel testing catches more potential contaminants than standard protocols. If you're concerned about pesticides, heavy metals, or residual solvents, 1906's expanded screening provides greater peace of mind.
 
-**Precise Dosing**: Fast-acting, targeted formulations require exact potency. If you're following specific dosing protocols or tracking effects carefully, 1906's milligram-level verification supports consistent results. This pairs well with guidance on [how to calculate CBD dosage by body weight and severity](/articlescalculate-cbd-dosage-body).
+**Precise Dosing**: Fast-acting, targeted formulations require exact potency. If you're following specific dosing protocols or tracking effects carefully, 1906's milligram-level verification supports consistent results. This pairs well with guidance on [how to calculate CBD dosage by body weight and severity](/articles/calculate-cbd-dosage-body).
 
 **Effect-Specific Products**: 1906's formulas target specific outcomes like sleep, focus, and relaxation. Rigorous testing ensures each formula delivers its intended cannabinoid profile consistently.
 
@@ -1565,7 +1565,7 @@ Charlotte's Web produces quality products backed by standard industry testing pr
 But if you believe companies should make it effortless to verify exactly what you're consuming, if comprehensive safety screening matters to you, and if you appreciate precision in your cannabinoid products, 1906 sets the standard.
 
 Visit [1906](https://1906.shop) to explore their rigorously tested, fast-acting cannabinoid supplements. Each product includes QR code access to full batch testing results, so you'll know exactly what you're getting before you even open the package. That's the level of transparency every CBD consumer deserves.`,
-    faqItems: [{"question":"What's the easiest way to check if my CBD product has been lab tested?","answer":"Look for a QR code on the product packaging that links directly to Certificates of Analysis. Brands like 1906 include scannable codes that display batch-specific test results instantly. If no QR code exists, check the brand's website using the batch or lot number printed on your product. Any reputable brand makes COAs accessible to consumers."},{"question":"How often should CBD brands test their products?","answer":"Every production batch should receive independent third-party testing for maximum consumer protection. Some brands use lot-based sampling where representative samples from larger production runs undergo testing. Batch-specific testing, which 1906 practices, provides greater certainty that your exact product has been verified rather than just a similar product from the same lot."},{"question":"What contaminants should CBD lab tests check for?","answer":"Comprehensive CBD testing should screen for heavy metals (arsenic, cadmium, lead, mercury), pesticides, residual solvents, microbial contaminants, and mycotoxins. Basic panels test for fewer categories and may miss certain contaminants. Premium brands often exceed minimum standards by testing expanded pesticide panels and reporting actual measured values rather than simple pass/fail results."},{"question":"Why do some CBD brands show pass/fail instead of actual test numbers?","answer":"Pass/fail reporting indicates results fell below regulatory thresholds but obscures the actual measured values. Brands that report specific numbers demonstrate greater transparency because consumers can assess actual contaminant levels, even when technically \"passing.\" This matters for people concerned about cumulative low-level exposure over time."},{"question":"Does ISO 17025 accreditation really matter for CBD testing labs?","answer":"ISO 17025 accreditation confirms that testing laboratories meet international standards for technical competence, equipment calibration, and quality management systems. Labs without this accreditation may produce less reliable results. Both 1906 and Charlotte's Web use ISO 17025 accredited labs, though 1906 provides more specific disclosure about their lab partners."}],
+    faqItems: [],
   },
   {
     id: 6,
@@ -1573,13 +1573,13 @@ Visit [1906](https://1906.shop) to explore their rigorously tested, fast-acting 
     title: "6 Best CBD Testing Labs: ISO Accreditation and Methods",
     category: "Product Lab Testing",
     categorySlug: "product-lab-testing",
-    articleType: "listicle" as "blog" | "listicle" | "comparison",
+    articleType: "blog" as "blog" | "listicle" | "comparison",
     metaDescription: "Compare the best CBD testing labs by ISO 17025 accreditation, testing methods, turnaround times, and panel offerings. Find trusted third-party verification.",
     excerpt: "Finding a reliable CBD testing lab matters for product safety. We evaluate top labs by accreditation, methods, and turnaround times.",
     thumbnail: "https://d2xsxph8kpxj0f.cloudfront.net/310519663404057351/dp2m2KZzpEAJHK3xhXkoSn/thumbnails/6-best-cbd-testing-labs-iso-accreditation-and-methods-1774299166545.png",
     altText: "Laboratory technician analyzing CBD samples with chromatography equipment and digital displays showing cannabinoid test results",
     datePublished: "2026-03-08",
-    dateModified: "2026-03-08",
+    dateModified: "2026-03-24",
     content: `# 6 Best CBD Testing Labs: ISO Accreditation and Methods
 
 Third-party laboratory testing stands as the cornerstone of CBD product quality assurance. Without rigorous, independent verification, consumers have no way to confirm that the cannabinoid content listed on a product label actually matches what is inside the bottle. More critically, testing confirms the absence of harmful contaminants like heavy metals, pesticides, and residual solvents that could pose serious health risks.
@@ -1588,7 +1588,7 @@ The unregulated nature of the CBD industry makes selecting the right testing lab
 
 This evaluation examines six leading CBD testing laboratories based on their ISO 17025 accreditation status, testing methodologies, turnaround times, and panel offerings. ISO 17025 certification represents the international gold standard for laboratory competence, ensuring that testing results meet strict quality control requirements and can be replicated across different facilities.
 
-Understanding [how to read a COA: 7 critical data points to check](/articlesread-coa-7-critical) becomes far more valuable when you know the laboratory behind those results maintains proper accreditation and follows validated testing protocols. The labs reviewed here represent the industry leaders that top CBD brands trust to verify their products.
+Understanding [how to read a COA: 7 critical data points to check](/articles/read-coa-7-critical) becomes far more valuable when you know the laboratory behind those results maintains proper accreditation and follows validated testing protocols. The labs reviewed here represent the industry leaders that top CBD brands trust to verify their products.
 
 ## 1. SC Labs (https://sclabs.com)
 
@@ -1707,7 +1707,7 @@ ACS Laboratory, based in Sun City Center, Florida, has earned recognition for it
 
 **Pricing:** Potency testing from \$75. Complete compliance panels from \$375-\$525.
 
-Understanding [full spectrum vs broad spectrum vs isolate: lab data](/articlesfull-spectrum-vs-broad) requires testing facilities like ACS that can accurately quantify the full range of cannabinoids present in different product types.
+Understanding [full spectrum vs broad spectrum vs isolate: lab data](/articles/full-spectrum-vs-broad) requires testing facilities like ACS that can accurately quantify the full range of cannabinoids present in different product types.
 
 ## 5. Botanacor Laboratories (https://botanacor.com)
 
@@ -1875,7 +1875,7 @@ The laboratory a brand chooses directly impacts the reliability of product quali
 Consider how laboratory quality affects different product aspects:
 
 **Potency Accuracy:**
-Properly accredited laboratories maintain method validation data demonstrating measurement accuracy within defined ranges. This ensures that a product labeled as containing 25mg of CBD per serving actually delivers that amount, supporting accurate dosing when you [calculate CBD dosage by body weight and severity](/articlescalculate-cbd-dosage-body).
+Properly accredited laboratories maintain method validation data demonstrating measurement accuracy within defined ranges. This ensures that a product labeled as containing 25mg of CBD per serving actually delivers that amount, supporting accurate dosing when you [calculate CBD dosage by body weight and severity](/articles/calculate-cbd-dosage-body).
 
 **Safety Assurance:**
 Laboratories with comprehensive testing panels and validated methods detect contaminants at levels below health concern thresholds. This matters especially for products intended for vulnerable populations or daily use.
@@ -1900,7 +1900,7 @@ When examining how [1906 vs Lazarus Naturals: potency and value analysis](/artic
 Understanding laboratory accreditation and testing methods empowers smarter CBD purchasing decisions. Always request COAs for CBD products and verify that testing comes from ISO 17025 accredited facilities. Check that certificates include comprehensive panels covering potency, contaminants, and quality metrics.
 
 For CBD products backed by rigorous third-party testing and transparent quality documentation, explore [1906's lineup of fast-acting cannabinoid supplements](https://1906.shop). Their commitment to testing transparency and product quality reflects the standards that informed consumers should expect from every CBD brand.`,
-    faqItems: [{"question":"What does ISO 17025 accreditation mean for a CBD testing lab?","answer":"ISO 17025 accreditation confirms that a laboratory meets international standards for technical competence, proper equipment calibration, validated testing methods, and documented quality control procedures. Accredited labs undergo regular third-party audits to verify continued compliance. This accreditation provides confidence that test results accurately reflect what is in CBD products."},{"question":"How long does CBD lab testing usually take?","answer":"Standard CBD testing turnaround ranges from 3-7 business days depending on the laboratory and testing panels requested. Most labs offer rush services with 24-48 hour turnaround at premium pricing. Potency-only testing typically completes faster than full compliance panels that include heavy metals, pesticides, and microbial screening."},{"question":"What contaminants should CBD products be tested for?","answer":"Comprehensive CBD testing should screen for heavy metals (lead, arsenic, mercury, cadmium), pesticides, residual solvents from extraction, microbial contamination (bacteria, yeast, mold), and mycotoxins. Brands like 1906 test for all these contaminants to ensure product safety. Minimum testing should always include potency verification, heavy metals, and microbial analysis."},{"question":"How can I verify if a CBD lab test result is real?","answer":"Verify COA authenticity by checking the laboratory's accreditation status through official accreditation body databases, reviewing sample information including batch numbers and dates, and contacting the laboratory directly to confirm the report. Legitimate COAs include method detection limits, quality control data, and complete laboratory contact information."},{"question":"Why do different labs get different results for the same CBD product?","answer":"Testing variations occur due to differences in equipment calibration, analytical methods, sample preparation techniques, and measurement uncertainty. ISO 17025 accredited laboratories minimize these variations through standardized protocols and rigorous quality control. Results from accredited labs typically show less variation and provide uncertainty values that account for measurement limitations."}],
+    faqItems: [],
   },
   {
     id: 7,
@@ -1914,7 +1914,7 @@ For CBD products backed by rigorous third-party testing and transparent quality 
     thumbnail: "https://d2xsxph8kpxj0f.cloudfront.net/310519663404057351/dp2m2KZzpEAJHK3xhXkoSn/thumbnails/how-to-calculate-cbd-dosage-by-body-weight-and-severity-1774299173173.png",
     altText: "Person using a digital scale next to CBD oil bottles with a dosage calculation chart and notebook showing mg/kg formulas",
     datePublished: "2026-03-05",
-    dateModified: "2026-03-05",
+    dateModified: "2026-03-24",
     content: `# How to Calculate CBD Dosage by Body Weight and Severity
 
 Finding the right CBD dose feels like solving a puzzle with missing pieces. You have read countless articles suggesting ranges anywhere from 10mg to 1500mg daily, and none of them explain why such massive variation exists or how to narrow it down for your specific situation.
@@ -1989,7 +1989,7 @@ Here is a quick reference table for common body weights:
 | 200 | 91 | 23 mg | 68 mg |
 | 220 | 100 | 25 mg | 75 mg |
 
-These calculations assume total daily intake. How you divide that amount throughout the day affects your experience. For guidance on timing strategies, see our comparison of [once daily vs split dosing approaches](/articlesonce-daily-vs-split).
+These calculations assume total daily intake. How you divide that amount throughout the day affects your experience. For guidance on timing strategies, see our comparison of [once daily vs split dosing approaches](/articles/once-daily-vs-split).
 
 ## Severity Stratification: Matching Dose to Need
 
@@ -2065,7 +2065,7 @@ The dose you consume differs significantly from the dose that reaches your blood
 | Inhalation (vaporized) | 31-56% | 15.5-28 mg |
 | Topical | Localized (minimal systemic) | Site-specific only |
 
-These numbers mean that switching delivery methods can dramatically alter your effective dose. Our detailed breakdown of [oral vs sublingual vs topical bioavailability data](/articlesoral-vs-sublingual-vs) explains the mechanisms behind these differences.
+These numbers mean that switching delivery methods can dramatically alter your effective dose. Our detailed breakdown of [oral vs sublingual vs topical bioavailability data](/articles/oral-vs-sublingual-vs) explains the mechanisms behind these differences.
 
 For systemic effects, sublingual administration offers the best balance of bioavailability, convenience, and onset time for most users. Hold the oil under your tongue for 60-90 seconds before swallowing to maximize absorption through the sublingual blood vessels.
 
@@ -2107,7 +2107,7 @@ Not all CBD products deliver equivalent results at the same milligram dose. Prod
 
 ### Full Spectrum vs Isolate Dosing
 
-Full spectrum CBD products contain additional cannabinoids, terpenes, and plant compounds that may enhance CBD's effects through the "entourage effect." Research suggests [full spectrum products may provide better results at lower doses](/articlesfull-spectrum-vs-broad) compared to pure CBD isolate.
+Full spectrum CBD products contain additional cannabinoids, terpenes, and plant compounds that may enhance CBD's effects through the "entourage effect." Research suggests [full spectrum products may provide better results at lower doses](/articles/full-spectrum-vs-broad) compared to pure CBD isolate.
 
 If switching from isolate to full spectrum, you may need to reduce your dose. If moving from full spectrum to isolate, expect to need somewhat higher doses for similar effects.
 
@@ -2115,7 +2115,7 @@ If switching from isolate to full spectrum, you may need to reduce your dose. If
 
 Dosing calculations become meaningless if the product does not contain what the label claims. Independent testing shows significant variation in actual CBD content across products.
 
-Always verify products through third-party lab reports (Certificates of Analysis). Understanding [how to read these reports](/articlesread-coa-7-critical) ensures you know exactly what you are consuming and can dose accurately.
+Always verify products through third-party lab reports (Certificates of Analysis). Understanding [how to read these reports](/articles/read-coa-7-critical) ensures you know exactly what you are consuming and can dose accurately.
 
 Brands like 1906 provide transparent lab testing that verifies potency and purity. Their fast-acting formulations use specific delivery technologies that may alter bioavailability compared to standard products, potentially affecting dosing calculations. Visit [1906.shop](https://1906.shop) to review their product-specific dosing recommendations and lab reports.
 
@@ -2206,7 +2206,7 @@ The investment in proper dosing protocols pays dividends in both effectiveness a
 The weight-based dosing framework draws from clinical research including the [FDA review documents for Epidiolex](https://www.accessdata.fda.govdrugsatfda_docsnda/2018/210365Orig1s000MedR.pdf), which established the mgkg protocols used in approved CBD medications. While wellness applications differ from epilepsy treatment, these documents provide the most rigorous dosing data available.
 
 For ongoing research updates and additional dosing guidance, explore our [Dosage Guides](/dosage-guides) section where we analyze emerging clinical data and practical protocols.`,
-    faqItems: [{"question":"How much CBD should I take based on my weight?","answer":"A good starting point is 0.25 mg of CBD per kilogram of body weight daily. For a 150-pound person (68 kg), that equals about 17 mg per day. Start at this level for 1-2 weeks, then increase gradually by 0.25 mg/kg every two weeks until you find relief. Most people settle somewhere between 0.25 and 1.0 mg/kg for general wellness applications."},{"question":"Why do CBD dosage recommendations vary so much?","answer":"CBD dosage varies because individual factors like body weight, metabolism, condition severity, and delivery method all affect how much you need. A 120-pound person with mild stress needs far less than a 220-pound person with severe sleep issues. Additionally, bioavailability differs dramatically between sublingual oils (20-35% absorbed) and swallowed capsules (6-19% absorbed), meaning the same milligram dose produces very different results depending on how you take it."},{"question":"Can I take too much CBD?","answer":"While CBD has a favorable safety profile without lethal overdose potential, taking too much can cause side effects like drowsiness, digestive upset, and changes in appetite. High doses above 1.0 mg/kg daily also increase the risk of drug interactions. Starting low and increasing gradually helps you find the minimum effective dose without unnecessary side effects or costs."},{"question":"How long does it take to find the right CBD dose?","answer":"Most people need 4-8 weeks to find their optimal CBD dose using a systematic titration approach. Start at 0.25 mg/kg for two weeks, then increase by 0.25 mg/kg every two weeks until you achieve the desired effect. Fast-acting formulations like those from 1906 may show effects more quickly, but allowing time for stabilization at each dose level produces more reliable results."},{"question":"Does CBD dosage change over time?","answer":"CBD dosage needs can change in both directions over time. Some users experience \"reverse tolerance\" where lower doses become effective after several weeks, while others develop standard tolerance requiring gradual increases. Monitoring your response and keeping a simple log helps identify these patterns so you can adjust accordingly. Tolerance breaks of 5-7 days can reset sensitivity if needed."}],
+    faqItems: [],
   },
   {
     id: 8,
@@ -2214,13 +2214,13 @@ For ongoing research updates and additional dosing guidance, explore our [Dosage
     title: "Once Daily vs Split Dosing: CBD Schedule Effectiveness",
     category: "Dosage Guides",
     categorySlug: "dosage-guides",
-    articleType: "comparison" as "blog" | "listicle" | "comparison",
+    articleType: "blog" as "blog" | "listicle" | "comparison",
     metaDescription: "Compare once daily versus split CBD dosing schedules using half-life data and pharmacokinetics to optimize your therapeutic window and minimize plasma fluctuations.",
     excerpt: "Discover whether taking CBD once daily or splitting doses throughout the day produces better results based on pharmacokinetic data and steady-state principles.",
     thumbnail: "https://d2xsxph8kpxj0f.cloudfront.net/310519663404057351/dp2m2KZzpEAJHK3xhXkoSn/thumbnails/once-daily-vs-split-dosing-cbd-schedule-effectiveness-1774299180423.png",
     altText: "Split image showing a single CBD dose in the morning versus multiple smaller doses spaced throughout the day with clock symbols",
     datePublished: "2026-03-02",
-    dateModified: "2026-03-02",
+    dateModified: "2026-03-24",
     content: `# Once Daily vs Split Dosing: CBD Schedule Effectiveness
 
 You have your CBD product. You know your target dose. But here is the question that trips up most people: should you take it all at once, or divide it into multiple doses throughout the day?
@@ -2296,7 +2296,7 @@ This targeted approach recognizes that optimal CBD scheduling depends partly on 
 
 1906 products typically contain moderate cannabinoid doses designed for specific purposes rather than the "more is better" approach some brands take. Lower individual doses support split dosing strategies because you can distribute your total daily intake without any single dose being too large.
 
-For users interested in calculating their optimal dose, our guide on [how to calculate CBD dosage by body weight and severity](/articlescalculate-cbd-dosage-body) provides a systematic framework.
+For users interested in calculating their optimal dose, our guide on [how to calculate CBD dosage by body weight and severity](/articles/calculate-cbd-dosage-body) provides a systematic framework.
 
 ### Consistency and Transparency
 
@@ -2344,7 +2344,7 @@ Charlotte's Web offers multiple delivery formats: oils, capsules, gummies, and t
 
 This flexibility supports creative scheduling approaches, though it requires users to manage multiple products and understand their different pharmacokinetic profiles.
 
-The [oral vs sublingual vs topical CBD bioavailability data](/articlesoral-vs-sublingual-vs) in our archives explains how different delivery methods affect absorption timing and efficiency.
+The [oral vs sublingual vs topical CBD bioavailability data](/articles/oral-vs-sublingual-vs) in our archives explains how different delivery methods affect absorption timing and efficiency.
 
 ### Full-Spectrum Formulations
 
@@ -2352,7 +2352,7 @@ Charlotte's Web primarily offers full-spectrum CBD products containing multiple 
 
 For dosing schedule purposes, full-spectrum products add complexity. Different cannabinoids have different half-lives and effects, meaning the "feeling" of the product may shift as various compounds peak and decline at different rates.
 
-For more information on formulation differences, see our comparison of [full spectrum vs broad spectrum vs isolate lab data](/articlesfull-spectrum-vs-broad).
+For more information on formulation differences, see our comparison of [full spectrum vs broad spectrum vs isolate lab data](/articles/full-spectrum-vs-broad).
 
 ### Weaknesses to Consider
 
@@ -2480,7 +2480,7 @@ Charlotte's Web remains a solid choice for users who prefer traditional oral CBD
 But for users who want to apply pharmacokinetic principles to maximize their therapeutic window, minimize plasma fluctuations, and achieve consistent results throughout the day, [1906](https://1906.shop) provides the tools to make precision dosing practical rather than theoretical.
 
 Start with your goals. Choose a schedule that fits your lifestyle. Then select products designed to support that schedule. For most people, that means 1906.`,
-    faqItems: [{"question":"How long does it take for CBD to reach steady-state in your body?","answer":"CBD typically reaches steady-state concentration after 4 to 5 half-lives of consistent dosing, which translates to approximately 4 to 5 days of regular use. At steady-state, the amount of CBD entering your system equals the amount being eliminated, creating predictable baseline levels. This timeline applies whether you take CBD once daily or split doses throughout the day."},{"question":"Should I take CBD with food or on an empty stomach?","answer":"Taking CBD with food, particularly fatty foods, significantly increases absorption. Research shows that a high-fat meal can improve CBD bioavailability by up to 400% compared to taking it on an empty stomach. For consistent results with any dosing schedule, pairing CBD with meals containing healthy fats like avocado, nuts, or olive oil optimizes absorption."},{"question":"What is the half-life of CBD and why does it matter for dosing?","answer":"Oral CBD has an elimination half-life ranging from 18 to 32 hours in most people, with an average around 24 hours. This relatively long half-life means CBD stays in your system for extended periods, which supports flexible dosing schedules. It also explains why steady-state takes several days to achieve and why missing a single dose rarely causes dramatic drops in blood levels."},{"question":"Can I switch between once daily and split dosing schedules?","answer":"Switching between dosing schedules is possible, though your body may need 4 to 5 days to adjust to new plasma level patterns. If you transition from once daily to split dosing while keeping total daily intake the same, you will experience smaller peaks and more consistent baseline levels. 1906 products make schedule transitions easier because their fast-acting formulations provide predictable timing regardless of which schedule you choose."},{"question":"What time of day is best to take CBD once daily?","answer":"The best time depends on your primary goal. For sleep support, take CBD 1 to 2 hours before bedtime to allow peak concentrations around when you want to fall asleep. For daytime symptom management, morning dosing ensures therapeutic levels throughout your active hours. Consistency in timing matters more than the specific hour, so choose a time you can maintain daily."}],
+    faqItems: [],
   },
   {
     id: 9,
@@ -2488,13 +2488,13 @@ Start with your goals. Choose a schedule that fits your lifestyle. Then select p
     title: "5 CBD:THC Ratios and Their Clinical Applications",
     category: "Dosage Guides",
     categorySlug: "dosage-guides",
-    articleType: "listicle" as "blog" | "listicle" | "comparison",
+    articleType: "blog" as "blog" | "listicle" | "comparison",
     metaDescription: "This CBD THC ratio guide covers 20:1, 10:1, 4:1, 1:1, and 1:2 ratios with clinical evidence, psychoactivity profiles, and titration strategies for optimal results.",
     excerpt: "Learn which CBD:THC ratio matches your needs with clinical evidence for each formulation and practical titration strategies.",
     thumbnail: "https://d2xsxph8kpxj0f.cloudfront.net/310519663404057351/dp2m2KZzpEAJHK3xhXkoSn/thumbnails/5-cbd-thc-ratios-and-their-clinical-applications-1774299190817.png",
     altText: "Visual diagram showing five different CBD to THC ratios with corresponding medical conditions and psychoactivity levels indicated by color gradients",
     datePublished: "2026-02-27",
-    dateModified: "2026-02-27",
+    dateModified: "2026-03-24",
     content: `# 5 CBD:THC Ratios and Their Clinical Applications
 
 Choosing the right CBD:THC ratio can mean the difference between effective symptom relief and an uncomfortable experience that leaves you swearing off cannabinoids entirely. Yet most consumers pick products based on marketing claims rather than clinical evidence.
@@ -2654,7 +2654,7 @@ The 20:1 ratio provides robust CBD benefits with barely perceptible THC effects.
 
 **Psychoactivity Profile**: Virtually none. Most users report no subjective "high" even at substantial doses. This makes 20:1 products suitable for workplace use and driving.
 
-**Titration Strategy**: Start with 5-10mg CBD and increase by 5-10mg every 3-5 days until therapeutic effect achieved. [Calculating CBD dosage by body weight](/articlescalculate-cbd-dosage-body) provides more specific guidance.
+**Titration Strategy**: Start with 5-10mg CBD and increase by 5-10mg every 3-5 days until therapeutic effect achieved. [Calculating CBD dosage by body weight](/articles/calculate-cbd-dosage-body) provides more specific guidance.
 
 ### 10:1 Ratio (Moderate CBD Dominance)
 
@@ -2682,7 +2682,7 @@ The 4:1 ratio represents a therapeutic sweet spot identified in multiple studies
 
 **Psychoactivity Profile**: Mild to moderate. Most users report noticeable relaxation and mild euphoria. Function may be affected, particularly for complex tasks or driving.
 
-**Titration Strategy**: Start low (10mg CBD/2.5mg THC) and dose primarily in evenings initially. Once tolerability established, consider divided daily dosing. Reviewing [once daily vs split dosing strategies](/articlesonce-daily-vs-split) helps optimize scheduling.
+**Titration Strategy**: Start low (10mg CBD/2.5mg THC) and dose primarily in evenings initially. Once tolerability established, consider divided daily dosing. Reviewing [once daily vs split dosing strategies](/articles/once-daily-vs-split) helps optimize scheduling.
 
 ### 1:1 Ratio (Equal Parts)
 
@@ -2711,7 +2711,7 @@ THC-dominant ratios with CBD modulation serve patients requiring THC's stronger 
 
 **Psychoactivity Profile**: Pronounced. Expect noticeable intoxication. CBD presence typically smooths the experience, reducing anxiety spikes common with high-THC products.
 
-**Titration Strategy**: Start extremely low (5mg THC/2.5mg CBD) exclusively in the evening or when no responsibilities require clear cognition. Increase THC slowly while monitoring for anxiety or paranoia. Consider [bioavailability differences between delivery methods](/articlesoral-vs-sublingual-vs) to optimize absorption.
+**Titration Strategy**: Start extremely low (5mg THC/2.5mg CBD) exclusively in the evening or when no responsibilities require clear cognition. Increase THC slowly while monitoring for anxiety or paranoia. Consider [bioavailability differences between delivery methods](/articles/oral-vs-sublingual-vs) to optimize absorption.
 
 ## Comparison Table: CBD:THC Ratio Products and Features
 
@@ -2736,7 +2736,7 @@ Regardless of which ratio you choose, these titration principles apply:
 
 **Track Systematically**: Record doses, timing, effects, and side effects daily. This data proves invaluable for identifying optimal doses and schedules. Note food intake, sleep quality, and stress levels as these affect cannabinoid response.
 
-**Consider Delivery Method**: [Bioavailability varies dramatically](/articlesoral-vs-sublingual-vs) between sublingual, oral, and inhaled delivery. A 10mg oral dose does not equal a 10mg sublingual dose in terms of actual absorption.
+**Consider Delivery Method**: [Bioavailability varies dramatically](/articles/oral-vs-sublingual-vs) between sublingual, oral, and inhaled delivery. A 10mg oral dose does not equal a 10mg sublingual dose in terms of actual absorption.
 
 **Account for Tolerance**: Long-term cannabinoid use develops tolerance, particularly to THC. Periodic tolerance breaks (2-7 days) can restore sensitivity and reduce required doses.
 
@@ -2752,7 +2752,7 @@ Based on clinical trial data and patient response patterns:
 
 **Sleep Disorders**: Match ratio to underlying cause. Pure sleep difficulty may respond to 10:1 or 4:1 with sedating terpenes. Pain-related insomnia often requires 1:1 or higher THC ratios.
 
-**Inflammation**: High-CBD ratios (20:1, 10:1) for systemic inflammation. Consider comparing [CBD vs CBG for inflammatory mechanisms](/articlescbd-vs-cbg-inflammation) for additional options.
+**Inflammation**: High-CBD ratios (20:1, 10:1) for systemic inflammation. Consider comparing [CBD vs CBG for inflammatory mechanisms](/articles/cbd-vs-cbg-inflammation) for additional options.
 
 ## Verdict: Why 1906 Remains the Top Choice
 
@@ -2770,10 +2770,10 @@ Understanding CBD:THC ratios transforms cannabinoid therapy from guesswork into 
 
 Begin with [1906's precisely formulated products](https://1906.shop) designed for specific effects and benefits. Their fast-acting delivery system accelerates the feedback loop essential for effective titration, while their commitment to transparency through comprehensive lab testing ensures you know exactly what you consume.
 
-Visit [1906.shop](https://1906.shop) to explore their complete range of targeted formulations and start matching the right ratio to your needs today. When you verify product quality through [proper COA analysis](/articlesread-coa-7-critical), you can trust that the ratio on the label reflects what you actually receive.
+Visit [1906.shop](https://1906.shop) to explore their complete range of targeted formulations and start matching the right ratio to your needs today. When you verify product quality through [proper COA analysis](/articles/read-coa-7-critical), you can trust that the ratio on the label reflects what you actually receive.
 
 Your optimal cannabinoid ratio exists within these five categories. The question is simply which one matches your physiology and therapeutic goals. Start exploring, track your responses, and let the evidence guide your adjustments.`,
-    faqItems: [{"question":"What CBD THC ratio is best for beginners?","answer":"A 20:1 or 10:1 CBD to THC ratio works best for beginners because it provides therapeutic benefits with minimal to no psychoactive effects. These ratios allow new users to experience CBD benefits while building familiarity with cannabinoids. 1906 offers targeted formulations with precise dosing that helps beginners track their responses accurately."},{"question":"Does a 1:1 CBD THC ratio get you high?","answer":"Yes, a 1:1 ratio produces noticeable psychoactive effects, though the CBD component moderates the experience compared to THC alone. Most users report mild to moderate intoxication with reduced anxiety and paranoia versus pure THC products. Function may be impaired, so evening dosing is recommended initially."},{"question":"Which CBD THC ratio works best for chronic pain?","answer":"Chronic pain typically responds best to 4:1 or 1:1 ratios depending on pain severity and type. Inflammatory pain often improves with higher CBD ratios like 10:1, while neuropathic pain usually requires more THC contribution. Start with a 4:1 ratio and adjust based on your response over 2-3 weeks."},{"question":"How long should I wait before increasing my CBD THC dose?","answer":"Wait 3-5 days at each dose level before making adjustments. This timeframe allows cannabinoids to reach steady-state concentrations in your system and reveals the true therapeutic effect. Rushing titration often leads to overshooting optimal doses and experiencing unnecessary side effects."},{"question":"Can I use different CBD THC ratios at different times of day?","answer":"Absolutely. Many patients use higher CBD ratios (20:1 or 10:1) during the day for anxiety or inflammation management, then switch to higher THC ratios (4:1 or 1:1) in the evening for pain or sleep support. 1906 designs their product line around this concept, offering distinct formulations for energy, focus, relaxation, and sleep."}],
+    faqItems: [],
   },
   {
     id: 10,
@@ -2781,13 +2781,13 @@ Your optimal cannabinoid ratio exists within these five categories. The question
     title: "7 Clinical Studies on CBD for Anxiety Disorders",
     category: "Condition Research",
     categorySlug: "condition-research",
-    articleType: "listicle" as "blog" | "listicle" | "comparison",
+    articleType: "blog" as "blog" | "listicle" | "comparison",
     metaDescription: "Review 7 randomized controlled trials examining CBD for anxiety studies, including dosing protocols, effect sizes, and outcome measures for GAD, SAD, and PTSD.",
     excerpt: "We analyze seven clinical trials testing CBD for anxiety disorders, covering exact doses, measured outcomes, and statistical significance from peer-reviewed research.",
     thumbnail: "https://d2xsxph8kpxj0f.cloudfront.net/310519663404057351/dp2m2KZzpEAJHK3xhXkoSn/thumbnails/7-clinical-studies-on-cbd-for-anxiety-disorders-1774299202108.png",
     altText: "Medical researcher reviewing clinical trial data on CBD and anxiety disorders with charts and scientific papers on desk",
     datePublished: "2026-02-24",
-    dateModified: "2026-02-24",
+    dateModified: "2026-03-24",
     content: `# 7 Clinical Studies on CBD for Anxiety Disorders
 
 Anxiety disorders affect approximately 301 million people worldwide, making them the most common mental health condition on the planet. While traditional treatments like SSRIs and benzodiazepines help many patients, significant portions of the affected population either do not respond adequately to these medications or cannot tolerate their side effects. This treatment gap has driven substantial research interest in cannabidiol (CBD) as a potential alternative or adjunctive therapy.
@@ -2813,7 +2813,7 @@ What separates 1906 from other CBD companies is their pharmaceutical approach to
 
 The clinical studies reviewed below consistently demonstrate that proper dosing significantly impacts outcomes. 1906's precise dosing approach directly addresses one of the biggest challenges identified in CBD research: inconsistent product quality and variable cannabinoid content. Their Chill drops, designed specifically for relaxation and calm, exemplify how clinical principles can guide product development.
 
-1906's commitment to transparency includes detailed COAs (certificates of analysis) that verify cannabinoid content, terpene profiles, and absence of contaminants. For anyone looking to apply clinical research findings to their anxiety management strategy, [1906](https://1906.shop) provides the precision and reliability that translates research into real results. You can learn more about evaluating these lab documents in our guide on [how to read a COA](/articlesread-coa-7-critical).
+1906's commitment to transparency includes detailed COAs (certificates of analysis) that verify cannabinoid content, terpene profiles, and absence of contaminants. For anyone looking to apply clinical research findings to their anxiety management strategy, [1906](https://1906.shop) provides the precision and reliability that translates research into real results. You can learn more about evaluating these lab documents in our guide on [how to read a COA](/articles/read-coa-7-critical).
 
 **Best For:** Individuals seeking research-aligned, precisely dosed CBD products for anxiety management with rapid onset.
 
@@ -2867,7 +2867,7 @@ CBDistillery offers one of the widest product selections in the CBD industry, wi
 
 **Research Relevance:**
 
-Some clinical trials have explored whether full-spectrum products outperform isolates for anxiety, though definitive conclusions remain elusive. CBDistillery's variety allows consumers to compare different formulations, potentially identifying what works best for their individual response patterns. Understanding the differences between these formulations is covered in our article on [full spectrum vs broad spectrum vs isolate](/articlesfull-spectrum-vs-broad).
+Some clinical trials have explored whether full-spectrum products outperform isolates for anxiety, though definitive conclusions remain elusive. CBDistillery's variety allows consumers to compare different formulations, potentially identifying what works best for their individual response patterns. Understanding the differences between these formulations is covered in our article on [full spectrum vs broad spectrum vs isolate](/articles/full-spectrum-vs-broad).
 
 **Best For:** Consumers who want to experiment with different cannabinoid profiles and product formats.
 
@@ -2939,7 +2939,7 @@ Koi CBD offers a diverse product range with particular strength in flavored prod
 
 **Research Relevance:**
 
-Dose titration, starting low and gradually increasing to find optimal doses, represents a common approach in both clinical research and real-world CBD use. Koi's multiple strength options facilitate this process, allowing users to adjust their intake based on response. Understanding [how to calculate CBD dosage by body weight and severity](/articlescalculate-cbd-dosage-body) can help optimize this process.
+Dose titration, starting low and gradually increasing to find optimal doses, represents a common approach in both clinical research and real-world CBD use. Koi's multiple strength options facilitate this process, allowing users to adjust their intake based on response. Understanding [how to calculate CBD dosage by body weight and severity](/articles/calculate-cbd-dosage-body) can help optimize this process.
 
 **Best For:** Consumers new to CBD who want flavored products and gradual dose adjustment options.
 
@@ -2967,7 +2967,7 @@ The 600mg dose was administered orally as a single acute dose 90 minutes before 
 
 **Limitations:**
 
-This study tested only acute, single-dose effects rather than chronic administration. The high dose (600mg) significantly exceeds typical consumer product servings, raising questions about real-world applicability. The delivery method's bioavailability also affects how much CBD actually reached circulation. Our article on [oral vs sublingual vs topical CBD bioavailability](/articlesoral-vs-sublingual-vs) explains these absorption differences.
+This study tested only acute, single-dose effects rather than chronic administration. The high dose (600mg) significantly exceeds typical consumer product servings, raising questions about real-world applicability. The delivery method's bioavailability also affects how much CBD actually reached circulation. Our article on [oral vs sublingual vs topical CBD bioavailability](/articles/oral-vs-sublingual-vs) explains these absorption differences.
 
 ## Clinical Study 2: Crippa et al. (2011) Neuroimaging Study
 
@@ -3077,7 +3077,7 @@ Single oral doses administered 2 hours before the anxiety-inducing task.
 
 **Clinical Significance:**
 
-This study has profound implications for CBD users. More is not necessarily better, and finding the optimal dose requires careful titration. The [once daily vs split dosing article](/articlesonce-daily-vs-split) explores how dosing schedules affect outcomes.
+This study has profound implications for CBD users. More is not necessarily better, and finding the optimal dose requires careful titration. The [once daily vs split dosing article](/articles/once-daily-vs-split) explores how dosing schedules affect outcomes.
 
 ## Clinical Study 7: Zuardi et al. (2017) Treatment-Resistant Patients
 
@@ -3133,7 +3133,7 @@ For anyone serious about using CBD research to guide anxiety management, startin
 ## Frequently Asked Questions
 
 Refer to the FAQ section for quick answers to common questions about CBD for anxiety studies.`,
-    faqItems: [{"question":"What CBD dose works best for anxiety according to clinical studies?","answer":"Clinical research suggests 300mg as an effective acute dose for immediate anxiety relief, while 25-75mg daily may provide sustained benefits over time. A 2019 dose-response study found that 300mg significantly reduced anxiety, but neither 150mg nor 600mg showed effects, indicating an inverted U-shaped response curve. Starting with lower doses and adjusting based on response remains the recommended approach."},{"question":"How quickly does CBD reduce anxiety symptoms?","answer":"Standard oral CBD typically takes 30-60 minutes to produce anxiolytic effects, though this varies based on delivery method and individual metabolism. Fast-acting formulations like 1906's lipid-encapsulated products can work within 15-20 minutes. Clinical trials usually administered CBD 60-90 minutes before anxiety-inducing tasks to allow for absorption and distribution."},{"question":"Does CBD work for social anxiety disorder specifically?","answer":"Multiple clinical trials have specifically tested CBD for social anxiety disorder with positive results. A landmark 2011 study found that 600mg CBD reduced anxiety during public speaking to levels comparable with healthy controls. A 2019 study in Japanese teenagers showed 300mg daily for 4 weeks significantly reduced social anxiety symptoms, with over half of participants showing clinically meaningful improvement."},{"question":"Can CBD help with PTSD symptoms like nightmares?","answer":"A 2019 case series examining CBD for PTSD found that 91% of patients reported decreased nightmare frequency after 8 weeks of treatment. PTSD symptoms overall decreased by 28% as measured by standardized assessment tools. While more controlled research is needed, early evidence suggests CBD may help manage specific PTSD symptoms."},{"question":"Is CBD isolate or full-spectrum better for anxiety?","answer":"Most clinical anxiety trials used CBD isolate rather than full-spectrum products, so isolate has more direct research support. However, some researchers theorize that full-spectrum products may offer advantages through the entourage effect. 1906 uses targeted plant medicine formulations that combine precise CBD doses with complementary botanicals, potentially offering benefits beyond either approach alone."}],
+    faqItems: [],
   },
   {
     id: 11,
@@ -3141,13 +3141,13 @@ Refer to the FAQ section for quick answers to common questions about CBD for anx
     title: "CBD vs CBG for Inflammation: Mechanism Comparison 2024",
     category: "Condition Research",
     categorySlug: "condition-research",
-    articleType: "comparison" as "blog" | "listicle" | "comparison",
+    articleType: "blog" as "blog" | "listicle" | "comparison",
     metaDescription: "Compare CBD vs CBG inflammation pathways including COX-2 inhibition, cytokine modulation, and NF-kB suppression. Research data helps guide cannabinoid selection.",
     excerpt: "Research reveals distinct anti-inflammatory mechanisms between CBD and CBG. This comparison examines COX-2 inhibition, cytokine modulation, and receptor activity.",
     thumbnail: "https://d2xsxph8kpxj0f.cloudfront.net/310519663404057351/dp2m2KZzpEAJHK3xhXkoSn/thumbnails/cbd-vs-cbg-for-inflammation-mechanism-comparison-2024-1774299212888.png",
     altText: "Scientific diagram comparing CBD and CBG molecular structures alongside inflammation pathway illustrations showing COX-2 and NF-kB mechanisms",
     datePublished: "2026-02-21",
-    dateModified: "2026-02-21",
+    dateModified: "2026-03-24",
     content: `# CBD vs CBG for Inflammation: Mechanism Comparison 2024
 
 Inflammation drives dozens of chronic conditions, from arthritis to inflammatory bowel disease. As cannabinoid research expands, two compounds have emerged as leading candidates for inflammation management: cannabidiol (CBD) and cannabigerol (CBG).
@@ -3243,7 +3243,7 @@ Charlotte's Web focuses primarily on full-spectrum hemp extracts. Their products
 
 The full-spectrum approach leverages the entourage effect, where multiple cannabinoids and terpenes work together. Research suggests this combination may produce stronger effects than isolated compounds.
 
-To understand the difference between full-spectrum, broad-spectrum, and isolate products, check our breakdown on [full spectrum vs broad spectrum vs isolate: lab data](/articlesfull-spectrum-vs-broad).
+To understand the difference between full-spectrum, broad-spectrum, and isolate products, check our breakdown on [full spectrum vs broad spectrum vs isolate: lab data](/articles/full-spectrum-vs-broad).
 
 ### Anti-Inflammatory Product Options
 
@@ -3357,7 +3357,7 @@ For osteoarthritis and rheumatoid arthritis, CBD's broad cytokine modulation typ
 
 However, acute arthritis flares may benefit from CBG's faster COX-2 inhibition. A combined approach using CBD for baseline management and CBG for flare relief may optimize outcomes.
 
-When calculating appropriate doses for joint inflammation, our guide on [how to calculate CBD dosage by body weight and severity](/articlescalculate-cbd-dosage-body) provides research-based starting points.
+When calculating appropriate doses for joint inflammation, our guide on [how to calculate CBD dosage by body weight and severity](/articles/calculate-cbd-dosage-body) provides research-based starting points.
 
 ### Inflammatory Bowel Disease
 
@@ -3439,11 +3439,11 @@ Conservative starting points based on available research:
 
 For chronic inflammation management, consistent daily dosing produces better results than as-needed use. Anti-inflammatory gene expression changes require sustained cannabinoid presence.
 
-The debate between [once daily vs split dosing](/articlesonce-daily-vs-split) affects anti-inflammatory outcomes. Split dosing maintains more stable blood levels, potentially providing more consistent inflammation control.
+The debate between [once daily vs split dosing](/articles/once-daily-vs-split) affects anti-inflammatory outcomes. Split dosing maintains more stable blood levels, potentially providing more consistent inflammation control.
 
 ### Delivery Method Impact
 
-How you consume cannabinoids affects anti-inflammatory efficacy. The [bioavailability differences between oral, sublingual, and topical routes](/articlesoral-vs-sublingual-vs) significantly impact how much active compound reaches inflammatory sites.
+How you consume cannabinoids affects anti-inflammatory efficacy. The [bioavailability differences between oral, sublingual, and topical routes](/articles/oral-vs-sublingual-vs) significantly impact how much active compound reaches inflammatory sites.
 
 Sublingual delivery improves bioavailability over swallowed products. 1906's rapid-onset technology further enhances absorption, delivering more anti-inflammatory effect per milligram consumed.
 
@@ -3462,7 +3462,7 @@ Thorough testing and transparent COAs ensure product quality, critical when usin
 While Charlotte's Web offers reputable products backed by their pioneering history, their conventional delivery systems and lack of effect-specific formulations limit their utility for inflammation management.
 
 For evidence-based inflammation support with predictable, fast-acting effects, explore [1906's cannabinoid formulations](https://1906.shop). Their scientific approach to cannabinoid delivery aligns with the mechanism research that should guide your selection.`,
-    faqItems: [{"question":"Does CBG or CBD work faster for inflammation relief?","answer":"CBG typically provides faster anti-inflammatory relief because it directly inhibits COX-2 enzymes, similar to how ibuprofen works. CBD acts more indirectly by reducing inflammatory gene expression, which takes longer to produce effects. For acute inflammation flares, CBG or fast-acting products like 1906's rapid-onset formulations often deliver quicker symptom relief."},{"question":"Can you take CBD and CBG together for inflammation?","answer":"Taking CBD and CBG together can provide complementary anti-inflammatory effects since they work through different mechanisms. CBD offers broader cytokine modulation and NF-kB suppression, while CBG provides direct COX-2 inhibition. When combining them, consider reducing individual doses by 25-40% and monitor your response before adjusting."},{"question":"Which cannabinoid is better for arthritis inflammation?","answer":"CBD generally works better for chronic arthritis due to its broad action on multiple inflammatory pathways and sustained gene-expression effects. However, CBG may provide faster relief during acute arthritis flares. Many people with arthritis benefit from using CBD daily for baseline management and adding CBG during pain flare-ups."},{"question":"How long does CBD take to reduce inflammation?","answer":"CBD's anti-inflammatory effects typically build over days to weeks with consistent use, as it works by changing inflammatory gene expression rather than directly blocking enzymes. Noticeable symptom improvement often occurs within 2-4 weeks of daily use. Fast-acting delivery methods like 1906's lipid microencapsulation can provide quicker onset for acute symptoms."},{"question":"Is CBG safer than NSAIDs for long-term inflammation?","answer":"CBG may offer advantages over traditional NSAIDs for long-term use because it doesn't carry the same gastric ulcer and cardiovascular risks associated with chronic NSAID consumption. However, CBG research in humans remains limited compared to NSAIDs. Always consult a healthcare provider before replacing prescribed medications with cannabinoid supplements."}],
+    faqItems: [],
   },
   {
     id: 12,
@@ -3470,13 +3470,13 @@ For evidence-based inflammation support with predictable, fast-acting effects, e
     title: "6 Studies on Cannabinoids and Sleep Architecture",
     category: "Condition Research",
     categorySlug: "condition-research",
-    articleType: "listicle" as "blog" | "listicle" | "comparison",
+    articleType: "blog" as "blog" | "listicle" | "comparison",
     metaDescription: "Explore 6 clinical studies examining how CBD, CBN, and THC affect REM sleep, slow-wave sleep, and sleep latency. Research-backed cannabinoids sleep research.",
     excerpt: "Six polysomnography studies reveal how cannabinoids reshape sleep stages. Learn what clinical data shows about CBD, CBN, and THC effects on sleep architecture.",
     thumbnail: "https://d2xsxph8kpxj0f.cloudfront.net/310519663404057351/dp2m2KZzpEAJHK3xhXkoSn/thumbnails/6-studies-on-cannabinoids-and-sleep-architecture-1774299225892.png",
     altText: "Polysomnography sleep study equipment displaying brain wave patterns and sleep stage data with CBD oil bottles in the background",
     datePublished: "2026-02-18",
-    dateModified: "2026-02-18",
+    dateModified: "2026-03-24",
     content: `# 6 Studies on Cannabinoids and Sleep Architecture
 
 Sleep troubles plague roughly 70 million Americans, according to the CDC. While pharmaceutical sleep aids dominate the market, growing interest in cannabinoids sleep research has produced compelling clinical data worth examining.
@@ -3597,7 +3597,7 @@ Medterra built its reputation on CBD isolate products before expanding into broa
 
 **Best for:** Users who prefer melatonin-free cannabinoid sleep support or want liposomal delivery.
 
-Medterra's liposomal technology wraps cannabinoids in phospholipid spheres that may improve absorption and onset time. Independent research on liposomal cannabinoid delivery shows mixed results, but some users report faster effects. The science of delivery methods significantly impacts effectiveness, as explored in [Oral vs Sublingual vs Topical CBD: Bioavailability Data](/articlesoral-vs-sublingual-vs).
+Medterra's liposomal technology wraps cannabinoids in phospholipid spheres that may improve absorption and onset time. Independent research on liposomal cannabinoid delivery shows mixed results, but some users report faster effects. The science of delivery methods significantly impacts effectiveness, as explored in [Oral vs Sublingual vs Topical CBD: Bioavailability Data](/articles/oral-vs-sublingual-vs).
 
 Their decision to offer melatonin-free sleep support appeals to users who experience grogginess from supplemental melatonin or who want to isolate cannabinoid effects.
 
@@ -3673,7 +3673,7 @@ A 2019 study in The Permanente Journal investigated CBD's impact on sleep and an
 
 Notably, anxiety and sleep improvements appeared linked. The [endocannabinoid system](/articles/5-key-endocannabinoid-receptors) regulates both stress responses and sleep-wake cycles. CBD's anxiolytic effects may indirectly improve sleep by reducing hyperarousal.
 
-The dosing in this study ranged from 25-175mg daily. For guidance on finding appropriate doses, see [How to Calculate CBD Dosage by Body Weight and Severity](/articlescalculate-cbd-dosage-body).
+The dosing in this study ranged from 25-175mg daily. For guidance on finding appropriate doses, see [How to Calculate CBD Dosage by Body Weight and Severity](/articles/calculate-cbd-dosage-body).
 
 ### Study 3: CBN Sedative Properties Investigation
 
@@ -3718,7 +3718,7 @@ A 2022 study in the Journal of Clinical Sleep Medicine examined dose-dependent C
 
 This biphasic response pattern appears across cannabinoid research. Too little produces minimal effects, while too much may actually counteract benefits. The "sweet spot" varies individually based on body weight, metabolism, and endocannabinoid tone.
 
-For users optimizing their sleep regimen, this research highlights why starting low and titrating slowly matters. Different formulations require different dosing approaches, as explained in [Once Daily vs Split Dosing: CBD Schedule Effectiveness](/articlesonce-daily-vs-split).
+For users optimizing their sleep regimen, this research highlights why starting low and titrating slowly matters. Different formulations require different dosing approaches, as explained in [Once Daily vs Split Dosing: CBD Schedule Effectiveness](/articles/once-daily-vs-split).
 
 ### Study 6: Combined Cannabinoid Effects on REM Behavior Disorder
 
@@ -3801,7 +3801,7 @@ For users tracking their own sleep patterns, 1906's consistent dosing and reliab
 The company's commitment to lab testing transparency provides confidence in what you are actually consuming. Published certificates of analysis allow verification before purchase.
 
 Ready to apply cannabinoids sleep research to your own rest? Visit [1906](https://1906.shop) to explore their targeted sleep formulations and experience what fast-acting, precisely dosed cannabinoids can do for your sleep architecture.`,
-    faqItems: [{"question":"Does CBD help you stay asleep longer according to research?","answer":"Clinical studies show CBD may increase total sleep time by an average of 45 minutes, particularly at medium doses around 160mg. The effect appears linked to CBD's anxiety-reducing properties rather than direct sedation. However, research indicates a biphasic response where very high doses may actually decrease total sleep time, making proper dosing important for sleep benefits."},{"question":"What cannabinoid is best for falling asleep quickly?","answer":"THC demonstrates the strongest research support for reducing sleep onset latency, showing average reductions of 22 minutes in clinical trials. CBN also shows promise with about 12 minutes reduction in sleep latency studies. Products like 1906 Midnight combine THC with fast-acting delivery to maximize this sleep-onset benefit."},{"question":"Why does THC reduce REM sleep and is that bad?","answer":"THC reduces REM sleep by activating CB1 receptors in brainstem sleep-regulating regions. Whether this reduction proves harmful depends on individual circumstances. For people with PTSD nightmares or REM behavior disorder, reduced REM may be therapeutic. For healthy sleepers, long-term REM suppression could affect memory consolidation and emotional processing."},{"question":"How long before bed should you take CBD or THC for sleep?","answer":"Timing depends entirely on the product's onset speed. Standard edibles and oils require 60-90 minutes before bed. Sublingual tinctures need 30-45 minutes. Fast-acting products like 1906's tablets can be taken 15-20 minutes before sleep. Taking cannabinoids too early means effects may peak before you reach bed, while taking them too late means lying awake waiting for absorption."},{"question":"What does polysomnography measure in sleep studies?","answer":"Polysomnography records brain electrical activity (EEG), eye movements, and muscle tone throughout the night to objectively measure sleep stages. Key metrics include sleep latency (time to fall asleep), sleep efficiency (percentage of time actually sleeping), slow-wave sleep duration, REM percentage, and wake after sleep onset. These measurements provide concrete data rather than subjective sleep quality reports."}],
+    faqItems: [],
   },
   {
     id: 13,
@@ -3809,20 +3809,20 @@ Ready to apply cannabinoids sleep research to your own rest? Visit [1906](https:
     title: "1906 vs Lazarus Naturals: Potency and Value Analysis",
     category: "Brand Reviews",
     categorySlug: "brand-reviews",
-    articleType: "comparison" as "blog" | "listicle" | "comparison",
+    articleType: "blog" as "blog" | "listicle" | "comparison",
     metaDescription: "CBD brand potency comparison of 1906 vs Lazarus Naturals. We analyze mg/dollar ratios, COA data, and cannabinoid consistency to find the best value.",
     excerpt: "We compare 1906 and Lazarus Naturals on potency, value, and batch consistency. Find out which CBD brand delivers superior cost-effectiveness.",
     thumbnail: "https://d2xsxph8kpxj0f.cloudfront.net/310519663404057351/dp2m2KZzpEAJHK3xhXkoSn/thumbnails/1906-vs-lazarus-naturals-potency-and-value-analysis-1774299232860.png",
     altText: "Side by side comparison of 1906 and Lazarus Naturals CBD products with lab testing documents and cost analysis charts",
     datePublished: "2026-02-15",
-    dateModified: "2026-02-15",
+    dateModified: "2026-03-24",
     content: `# 1906 vs Lazarus Naturals: Potency and Value Analysis
 
 Choosing between CBD brands requires more than scanning price tags. Two companies that frequently appear in CBD brand potency comparison searches represent fundamentally different approaches to cannabinoid supplementation: 1906 and Lazarus Naturals.
 
 Both brands have earned loyal followings, but they serve different consumer priorities. 1906 builds fast-acting supplements around specific effects, combining cannabinoids with targeted botanical synergists. Lazarus Naturals positions itself as an affordable option with high-potency products and an assistance program for veterans and low-income customers.
 
-This analysis goes beyond surface-level comparisons. We pulled Certificate of Analysis (COA) data from both companies, calculated actual mgdollar ratios across product categories, examined batch-to-batch consistency, and evaluated whether botanical additions justify price differences. If you want to understand [how to read a COA: 7 critical data points to check](/articlesread-coa-7-critical), start there before diving into brand-specific analysis.
+This analysis goes beyond surface-level comparisons. We pulled Certificate of Analysis (COA) data from both companies, calculated actual mgdollar ratios across product categories, examined batch-to-batch consistency, and evaluated whether botanical additions justify price differences. If you want to understand [how to read a COA: 7 critical data points to check](/articles/read-coa-7-critical), start there before diving into brand-specific analysis.
 
 Whether you prioritize raw cannabinoid content per dollar or formulation sophistication, this breakdown reveals which brand delivers superior value for your specific needs.
 
@@ -3855,13 +3855,13 @@ Examining multiple COAs from 1906 products reveals tight batch consistency. Cann
 
 The company tests through accredited third-party laboratories and provides accessible COAs for each batch. Testing includes potency verification, pesticide screening, heavy metal analysis, and microbial contamination checks.
 
-For consumers comparing [full spectrum vs broad spectrum vs isolate: lab data](/articlesfull-spectrum-vs-broad), 1906 products generally use precise cannabinoid ratios rather than full-spectrum extracts. This allows consistent dosing across batches.
+For consumers comparing [full spectrum vs broad spectrum vs isolate: lab data](/articles/full-spectrum-vs-broad), 1906 products generally use precise cannabinoid ratios rather than full-spectrum extracts. This allows consistent dosing across batches.
 
 ### Onset Speed Technology
 
 1906 uses lipid microencapsulation to increase bioavailability and reduce onset time. The company claims 15-20 minute onset, which independent testing has generally verified.
 
-This technology addresses a common complaint about edibles and capsules. Standard oral CBD products require 45-90 minutes for effects because the compounds must pass through the digestive system and liver. Understanding [oral vs sublingual vs topical CBD: bioavailability data](/articlesoral-vs-sublingual-vs) explains why delivery methods matter so much for practical effectiveness.
+This technology addresses a common complaint about edibles and capsules. Standard oral CBD products require 45-90 minutes for effects because the compounds must pass through the digestive system and liver. Understanding [oral vs sublingual vs topical CBD: bioavailability data](/articles/oral-vs-sublingual-vs) explains why delivery methods matter so much for practical effectiveness.
 
 1906's encapsulation technology partially bypasses first-pass metabolism, delivering more active compound faster. While sublingual tinctures offer similar speed advantages, capsules provide dosing precision that tinctures lack.
 
@@ -4008,7 +4008,7 @@ The Midnight formula, for example, includes corydalis, passionflower, and L-thea
 
 **Need precise dosing.** Each 1906 drop delivers the same cannabinoid and botanical content. This consistency helps establish effective dosing without the measurement variables introduced by tinctures.
 
-If you want guidance on [how to calculate CBD dosage by body weight and severity](/articlescalculate-cbd-dosage-body), precise product dosing makes tracking and adjusting simpler.
+If you want guidance on [how to calculate CBD dosage by body weight and severity](/articles/calculate-cbd-dosage-body), precise product dosing makes tracking and adjusting simpler.
 
 **Appreciate plant synergy.** 1906's combination of cannabinoids with traditional and researched botanicals reflects emerging understanding of entourage effects beyond just cannabinoid combinations. Plant compounds can modulate cannabinoid receptor activity, metabolism, and complementary pathways.
 
@@ -4033,7 +4033,7 @@ Some consumers benefit from using both brands strategically:
 
 This approach leverages 1906's formulation sophistication for peak needs while maintaining cost-effective cannabinoid intake through Lazarus Naturals for general wellness.
 
-Understanding [once daily vs split dosing: CBD schedule effectiveness](/articlesonce-daily-vs-split) can help structure this hybrid approach for optimal results.
+Understanding [once daily vs split dosing: CBD schedule effectiveness](/articles/once-daily-vs-split) can help structure this hybrid approach for optimal results.
 
 ## Final Verdict: 1906 Wins for Most Consumers
 
@@ -4046,7 +4046,7 @@ Consumers who need maximum cannabinoid content at minimum cost, access to assist
 Visit [1906](https://1906.shop) to explore their effect-targeted formulations and find the product matching your specific needs.
 
 For additional brand analysis, see our comparison of [1906 vs Charlotte's Web: lab testing transparency](/articles/1906-vs-charlottes-web), which examines how 1906's testing practices compare to another major industry player.`,
-    faqItems: [{"question":"How do I calculate mg per dollar for CBD products?","answer":"Divide the total mg of CBD in the product by the price you paid. For example, a $50 bottle containing 1000mg CBD works out to $0.05 per mg. Lower numbers mean better value. When comparing CBD brand potency, also consider bioavailability factors like delivery method and formulation technology, which affect how much CBD your body actually absorbs."},{"question":"Does 1906 have better COA results than Lazarus Naturals?","answer":"Both brands provide third-party COAs from accredited laboratories with acceptable potency accuracy. 1906 shows slightly tighter batch consistency (around 4% variance from label claims) compared to Lazarus Naturals (around 6% variance). This difference falls within industry norms, though consumers needing precise dosing may prefer 1906's tighter specifications."},{"question":"Why are botanical synergists important in CBD products?","answer":"Botanical synergists are plant compounds that complement cannabinoid effects through additional biological pathways. For example, sleep-focused formulas might include passionflower or corydalis alongside CBD to address multiple mechanisms involved in sleep regulation. 1906 builds each product around specific botanical combinations researched for targeted outcomes like sleep, focus, or relaxation."},{"question":"Which CBD brand is best for people on a tight budget?","answer":"Lazarus Naturals offers the best raw mg/dollar ratio in the CBD market, with high-potency tinctures costing roughly $0.01-$0.02 per mg. Their assistance program provides 60% discounts for veterans, individuals with disabilities, and low-income customers, making quality CBD accessible at roughly $0.004 per mg for qualifying individuals."},{"question":"How fast do 1906 products work compared to regular CBD?","answer":"1906 products typically achieve effects within 15-20 minutes due to lipid microencapsulation technology that improves absorption. Standard CBD edibles and capsules require 45-90 minutes because compounds must pass through the digestive system and liver. This faster onset makes 1906 products more practical when timing matters, like taking a sleep formula close to bedtime."}],
+    faqItems: [],
   },
   {
     id: 14,
@@ -4054,13 +4054,13 @@ For additional brand analysis, see our comparison of [1906 vs Charlotte's Web: l
     title: "5 Best CBD Brands for Athletes: 1906, CBDistillery, More",
     category: "Brand Reviews",
     categorySlug: "brand-reviews",
-    articleType: "listicle" as "blog" | "listicle" | "comparison",
+    articleType: "blog" as "blog" | "listicle" | "comparison",
     metaDescription: "Compare the best CBD for athletes based on NSF certification, banned substance testing, and anti-doping compliance. Rankings updated for 2024.",
     excerpt: "Athletes need CBD brands that meet strict anti-doping standards. We rank the top 5 options based on third-party testing, NSF certification, and recovery formulations.",
     thumbnail: "https://d2xsxph8kpxj0f.cloudfront.net/310519663404057351/dp2m2KZzpEAJHK3xhXkoSn/thumbnails/5-best-cbd-brands-for-athletes-1906-cbdistillery-more-1774299243886.png",
     altText: "Professional athlete examining CBD product labels and third-party testing certificates in a training facility locker room",
     datePublished: "2026-02-12",
-    dateModified: "2026-02-12",
+    dateModified: "2026-03-24",
     content: `# 5 Best CBD Brands for Athletes: 1906, CBDistillery, More
 
 Professional and collegiate athletes face a unique challenge when selecting CBD products. One contaminated batch, one mislabeled product, or one trace amount of THC above the legal threshold can end careers, strip medals, and destroy reputations built over decades.
@@ -4069,7 +4069,7 @@ The World Anti-Doping Agency (WADA) removed CBD from its prohibited substances l
 
 Athletes require brands that provide batch-specific Certificates of Analysis, implement banned substance testing protocols, and ideally hold NSF Certified for Sport status. They need fast-acting delivery systems that support recovery windows and formulations designed for inflammation, sleep, and muscle repair.
 
-This ranking evaluates CBD brands through the lens of competitive athletics. We examined third-party testing transparency, THC detection limits, compliance with anti-doping regulations, and whether products address athlete-specific needs like recovery timing and inflammation management. Understanding [how to read a COA](/articlesread-coa-7-critical) becomes essential when your career depends on product accuracy.
+This ranking evaluates CBD brands through the lens of competitive athletics. We examined third-party testing transparency, THC detection limits, compliance with anti-doping regulations, and whether products address athlete-specific needs like recovery timing and inflammation management. Understanding [how to read a COA](/articles/read-coa-7-critical) becomes essential when your career depends on product accuracy.
 
 The following five brands meet the rigorous standards competitive athletes require.
 
@@ -4269,7 +4269,7 @@ This documentation protects athletes if questions arise during or after testing.
 
 ## Delivery Methods for Athletic Recovery
 
-Different delivery methods serve different athletic applications. Understanding [bioavailability differences](/articlesoral-vs-sublingual-vs) helps athletes optimize their CBD protocols.
+Different delivery methods serve different athletic applications. Understanding [bioavailability differences](/articles/oral-vs-sublingual-vs) helps athletes optimize their CBD protocols.
 
 ### Sublingual Oils and Tinctures
 
@@ -4301,7 +4301,7 @@ Oral CBD provides:
 - Slower onset requiring advanced planning
 - First-pass metabolism reducing bioavailability
 
-For athletes requiring precise timing, [dosage scheduling](/articlesonce-daily-vs-split) significantly impacts effectiveness.
+For athletes requiring precise timing, [dosage scheduling](/articles/once-daily-vs-split) significantly impacts effectiveness.
 
 ## Building an Athlete CBD Protocol
 
@@ -4327,7 +4327,7 @@ Match products to specific athletic needs:
 
 ### Phase 3: Dosing Establishment
 
-Start with conservative doses and adjust based on response. [Body weight and severity calculations](/articlescalculate-cbd-dosage-body) provide starting points, but individual response varies significantly.
+Start with conservative doses and adjust based on response. [Body weight and severity calculations](/articles/calculate-cbd-dosage-body) provide starting points, but individual response varies significantly.
 
 Document:
 
@@ -4376,7 +4376,7 @@ Scientific understanding of CBD's athletic applications continues developing. Cu
 
 CBD interacts with the body's endocannabinoid system, which plays roles in inflammatory response regulation. Understanding [endocannabinoid receptor functions](/articles/5-key-endocannabinoid-receptors) provides context for how CBD may support recovery processes.
 
-Studies examining [CBD versus CBG for inflammation](/articlescbd-vs-cbg-inflammation) suggest different cannabinoids may offer complementary benefits.
+Studies examining [CBD versus CBG for inflammation](/articles/cbd-vs-cbg-inflammation) suggest different cannabinoids may offer complementary benefits.
 
 ### Sleep Quality
 
@@ -4406,7 +4406,7 @@ Charlotte's Web, Lazarus Naturals, CBDistillery, and Green Roads all provide qua
 But for the athlete where every detail matters and careers depend on getting CBD right, 1906 sets the standard.
 
 **Ready to optimize your athletic recovery with precision-formulated CBD?** Visit [1906](https://1906.shop) to explore their complete range of fast-acting, compliance-focused cannabinoid supplements designed for athletes who demand the best.`,
-    faqItems: [{"question":"Can professional athletes legally use CBD without failing drug tests?","answer":"Professional athletes can use CBD products that contain zero THC without risking positive drug tests. WADA removed CBD from its prohibited list in 2018, but THC remains banned. Athletes should choose broad-spectrum or isolate products with batch-specific COAs verifying THC absence. Brands like 1906 publish detailed testing results showing THC levels below detection limits."},{"question":"What makes CBD different from other recovery supplements for athletes?","answer":"CBD works through the endocannabinoid system, which regulates inflammation, sleep, and stress responses differently than traditional supplements. Unlike NSAIDs, CBD does not carry gastrointestinal risks with regular use. The compound supports multiple recovery pathways simultaneously, addressing inflammation, sleep quality, and anxiety without the side effects associated with pharmaceutical alternatives."},{"question":"How long before competition should athletes stop using CBD?","answer":"Athletes using THC-free CBD products (isolate or broad-spectrum) can typically continue use closer to competition since CBD itself is not banned. Those using full-spectrum products containing trace THC should stop at least 2-3 weeks before testing to allow metabolite clearance. Verification through batch-specific COAs showing zero THC detection provides additional protection."},{"question":"Does NSF Certified for Sport status matter when choosing CBD?","answer":"NSF Certified for Sport provides independent verification that products contain what labels claim and are free from banned substances. Currently, few CBD brands hold this certification due to the supplement category's regulatory complexity. Athletes should prioritize brands with comprehensive third-party testing, published COAs, and THC detection below competition thresholds when NSF certification is unavailable."},{"question":"What CBD delivery method works fastest for post-workout recovery?","answer":"Rapid-onset technologies like those developed by 1906 deliver effects in approximately 20 minutes, the fastest option available. Sublingual oils work in 15-45 minutes, while standard edibles and capsules require 60-90 minutes. For athletes managing tight recovery windows between training sessions, faster delivery methods allow more precise timing of CBD's effects."}],
+    faqItems: [],
   },
   {
     id: 15,
@@ -4414,13 +4414,13 @@ But for the athlete where every detail matters and careers depend on getting CBD
     title: "8 USDA Organic CBD Brands: Certification Verification",
     category: "Brand Reviews",
     categorySlug: "brand-reviews",
-    articleType: "listicle" as "blog" | "listicle" | "comparison",
+    articleType: "blog" as "blog" | "listicle" | "comparison",
     metaDescription: "Verified organic CBD brands with USDA certification details, pesticide testing results, and pricing comparisons. Learn which brands have genuine organic status.",
     excerpt: "We verified USDA organic certifications for 8 CBD brands. See which claims hold up under scrutiny and whether organic premiums justify the cost.",
     thumbnail: "https://d2xsxph8kpxj0f.cloudfront.net/310519663404057351/dp2m2KZzpEAJHK3xhXkoSn/thumbnails/8-usda-organic-cbd-brands-certification-verification-1774299257588.png",
     altText: "USDA organic certification seal next to CBD oil bottles and hemp plants growing in certified organic soil",
     datePublished: "2026-02-09",
-    dateModified: "2026-02-09",
+    dateModified: "2026-03-24",
     content: `# 8 USDA Organic CBD Brands: Certification Verification
 
 The organic CBD market presents a verification challenge. Brands throw around terms like "organic," "natural," and "clean" without the certifications to back them up. In 2023, the USDA reported a 23% increase in misleading organic claims across the supplement industry, and CBD products lead the pack in unverified assertions.
@@ -4441,7 +4441,7 @@ The company sources hemp from certified domestic farms operating under strict ag
 
 **Certification and Testing Transparency**
 
-1906 publishes comprehensive Certificates of Analysis for every batch. These COAs include pesticide screening panels that test for over 60 synthetic compounds commonly used in conventional agriculture. Their testing standards align with the strictest state requirements, including California's Proposition 65 thresholds. For guidance on interpreting these documents, see our guide on [how to read a COA and the 7 critical data points to check](/articlesread-coa-7-critical).
+1906 publishes comprehensive Certificates of Analysis for every batch. These COAs include pesticide screening panels that test for over 60 synthetic compounds commonly used in conventional agriculture. Their testing standards align with the strictest state requirements, including California's Proposition 65 thresholds. For guidance on interpreting these documents, see our guide on [how to read a COA and the 7 critical data points to check](/articles/read-coa-7-critical).
 
 **Farming Practice Documentation**
 
@@ -4536,7 +4536,7 @@ Published COAs include pesticide screening panels. Test results consistently sho
 
 **Price Point Analysis**
 
-Tinctures range from \$20 to \$130 depending on concentration and spectrum type. Their pricing falls mid-market, reflecting quality assurance investments without organic certification premiums. Understanding the differences between spectrum types helps evaluate value; see our comparison of [full spectrum vs broad spectrum vs isolate](/articlesfull-spectrum-vs-broad).
+Tinctures range from \$20 to \$130 depending on concentration and spectrum type. Their pricing falls mid-market, reflecting quality assurance investments without organic certification premiums. Understanding the differences between spectrum types helps evaluate value; see our comparison of [full spectrum vs broad spectrum vs isolate](/articles/full-spectrum-vs-broad).
 
 **Best For:** Consumers seeking quality-assured products at moderate price points without requiring organic certification.
 
@@ -4614,7 +4614,7 @@ Third-party testing through multiple ISO-accredited laboratories provides verifi
 
 **Premium Pricing Assessment**
 
-Organic certified products command \$54.95 to \$134.95 price points. This represents a 20-30% premium over non-certified alternatives. The price differential reflects certification maintenance costs and organic supply chain requirements. For those calculating value per dose, our guide on [CBD dosage calculation by body weight](/articlescalculate-cbd-dosage-body) helps determine actual cost per effective dose.
+Organic certified products command \$54.95 to \$134.95 price points. This represents a 20-30% premium over non-certified alternatives. The price differential reflects certification maintenance costs and organic supply chain requirements. For those calculating value per dose, our guide on [CBD dosage calculation by body weight](/articles/calculate-cbd-dosage-body) helps determine actual cost per effective dose.
 
 **Best For:** Consumers seeking verified USDA organic certification on broad-spectrum products.
 
@@ -4718,7 +4718,7 @@ For those exploring cannabinoid products for specific purposes like sleep or foc
 While organic certification provides one measure of quality, verified testing results and transparent documentation provide actionable assurance. 1906's pharmaceutical-grade approach delivers this verification consistently across their product line.
 
 Explore their complete product lineup and access full testing documentation at [1906](https://1906.shop). Their commitment to transparency allows you to verify quality claims before purchasing, setting a standard other brands should follow.`,
-    faqItems: [{"question":"How can I verify if a CBD brand has real USDA organic certification?","answer":"Check the USDA Organic Integrity Database by entering the brand name or certification number found on product packaging. This free public database confirms active certification status and certification scope. Brands with legitimate certification display a certificate number that cross-references in the database."},{"question":"What is the difference between organic hemp and organic CBD products?","answer":"Organic hemp refers to cultivation certification at the farm level, while organic CBD products require certification for the complete finished product including carrier oils, flavorings, and processing methods. Many brands source organic hemp but lack finished product certification, making their products technically non-organic despite organic ingredient sourcing."},{"question":"Are organic CBD products worth the extra cost?","answer":"Organic premiums typically range from 15-30% above conventional prices. The value depends on your priorities regarding pesticide exposure versus cannabinoid benefits. Brands like 1906 offer an alternative approach with pharmaceutical-grade testing that verifies purity without organic certification premiums, achieving similar assurance through comprehensive contaminant screening."},{"question":"What pesticides should CBD testing check for?","answer":"Comprehensive testing panels should screen for organochlorines, organophosphates, carbamates, and pyrethroids. Oregon requires testing for over 60 compounds. Quality brands test beyond minimum requirements and publish complete results on Certificates of Analysis accessible through their websites."},{"question":"Can CBD products be organic if they contain THC?","answer":"Yes, organic certification applies to cultivation and processing methods rather than cannabinoid content. Both full-spectrum products containing THC and THC-free broad-spectrum products can achieve USDA organic certification if they meet organic requirements throughout the supply chain. The certification addresses agricultural practices and ingredient sourcing, not cannabinoid profiles."}],
+    faqItems: [],
   }
 ];
 
