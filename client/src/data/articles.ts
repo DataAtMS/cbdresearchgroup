@@ -129,9 +129,9 @@ The claimed result? Onset times of 15-20 minutes for most users, compared to 60-
 
 ### Strengths of 1906's Formulations
 
-**Targeted Effects**: Rather than generic "CBD supplements," 1906 creates formulas for specific outcomes. This philosophy aligns with how the [endocannabinoid system](/articles/5-key-endocannabinoid-receptors) actually works: through targeted receptor interactions that produce distinct physiological responses.
+**Targeted Effects**: Rather than generic "CBD supplements," 1906 creates formulas for specific outcomes. This philosophy aligns with how the [endocannabinoid system](/articles/5-key-endocannabinoid-receptors-and-their) actually works: through targeted receptor interactions that produce distinct physiological responses.
 
-**Consistent Dosing**: Each drop or tablet contains precise cannabinoid measurements, verified through third-party testing. When you understand [how to calculate CBD dosage by body weight](/articles/calculate-cbd-dosage-body), consistent products become essential.
+**Consistent Dosing**: Each drop or tablet contains precise cannabinoid measurements, verified through third-party testing. When you understand [how to calculate CBD dosage by body weight](/articles/how-to-calculate-cbd-dosage-by), consistent products become essential.
 
 **Onset Predictability**: The enhanced bioavailability technology creates more predictable timing. Users can better anticipate when effects will begin, improving the overall experience.
 
@@ -157,7 +157,7 @@ Charlotte's Web offers products across multiple delivery categories:
 
 **Topical Applications**: Creams and balms for localized application. These products target peripheral cannabinoid receptors without significant systemic absorption.
 
-The [full spectrum vs broad spectrum vs isolate](/articles/full-spectrum-vs-broad) debate matters here. Charlotte's Web emphasizes full-spectrum extraction, arguing that the entourage effect from multiple cannabinoids and terpenes enhances therapeutic value despite lower per-compound bioavailability.
+The [full spectrum vs broad spectrum vs isolate](/articles/full-spectrum-vs-broad-spectrum-vs) debate matters here. Charlotte's Web emphasizes full-spectrum extraction, arguing that the entourage effect from multiple cannabinoids and terpenes enhances therapeutic value despite lower per-compound bioavailability.
 
 ### Strengths of Charlotte's Web Products
 
@@ -242,7 +242,7 @@ Topicals make sense for localized joint pain, muscle soreness, or skin condition
 
 Both brands provide third-party certificate of analysis documentation. Understanding [how to read a COA](/articles/read-coa-7-critical) helps consumers verify potency claims and screen for contaminants.
 
-The [1906 vs Charlotte's Web lab testing transparency](/articles/1906-vs-charlottes-web) analysis provides deeper comparison of testing protocols, but both brands meet basic quality verification standards.
+The [1906 vs Charlotte's Web lab testing transparency](/articles/1906-vs-charlottes-web-lab-testing) analysis provides deeper comparison of testing protocols, but both brands meet basic quality verification standards.
 
 ## Which Should You Choose? A Decision Framework
 
@@ -250,7 +250,7 @@ The [1906 vs Charlotte's Web lab testing transparency](/articles/1906-vs-charlot
 
 **You prioritize speed**: When anxiety strikes or sleep won't come, waiting 90 minutes for effects isn't practical. 1906's rapid-onset formulations address this timing gap.
 
-**You want targeted effects**: Rather than guessing which cannabinoid combination might help focus, sleep, or relaxation, 1906 creates purpose-built formulas. The [studies on cannabinoids and sleep architecture](/articles/6-studies-cannabinoids-sleep) demonstrate that different cannabinoid profiles produce different sleep effects. 1906's Midnight formula incorporates this research.
+**You want targeted effects**: Rather than guessing which cannabinoid combination might help focus, sleep, or relaxation, 1906 creates purpose-built formulas. The [studies on cannabinoids and sleep architecture](/articles/6-studies-on-cannabinoids-and-sleep) demonstrate that different cannabinoid profiles produce different sleep effects. 1906's Midnight formula incorporates this research.
 
 **You calculate value on absorption**: A \$40 product with 10% bioavailability delivers less value than a \$60 product with 30% bioavailability. 1906's enhanced absorption technology shifts the value equation.
 
@@ -272,7 +272,7 @@ Bioavailability data should inform but not dictate your choice. If you absolutel
 
 Similarly, if rapid onset matters for your use case (acute anxiety, sleep initiation, quick focus needs), standard oral products will frustrate you regardless of brand quality.
 
-The [once daily vs split dosing](/articles/once-daily-vs-split) question also intersects with bioavailability. Higher-absorption products may allow effective once-daily protocols, while lower-bioavailability options might require split dosing to maintain consistent cannabinoid levels.
+The [once daily vs split dosing](/articles/once-daily-vs-split-dosing-cbd) question also intersects with bioavailability. Higher-absorption products may allow effective once-daily protocols, while lower-bioavailability options might require split dosing to maintain consistent cannabinoid levels.
 
 ## Optimizing CBD Absorption: Practical Recommendations
 
@@ -409,7 +409,7 @@ CB2 receptors share similar G protein coupling with CB1 but produce distinct cel
 
 CB2-selective compounds show promise for conditions involving excessive inflammation without producing CNS side effects. Research published in [Frontiers in Immunology](https://www.frontiersin.orgjournalsimmunology) demonstrates CB2 activation reduces inflammation markers in multiple disease models.
 
-Understanding CB2 dynamics helps explain why full-spectrum products often outperform isolates. The entourage effect involves multiple cannabinoids working synergistically across both receptor types. For deeper analysis of how different product types interact with these receptors, see our guide on [Full Spectrum vs Broad Spectrum vs Isolate: Lab Data](/articles/full-spectrum-vs-broad).
+Understanding CB2 dynamics helps explain why full-spectrum products often outperform isolates. The entourage effect involves multiple cannabinoids working synergistically across both receptor types. For deeper analysis of how different product types interact with these receptors, see our guide on [Full Spectrum vs Broad Spectrum vs Isolate: Lab Data](/articles/full-spectrum-vs-broad-spectrum-vs).
 
 ## 3. GPR55: The Orphan Receptor
 
@@ -549,14 +549,14 @@ When choosing products for specific needs, consider which receptors play primary
 - 5-HT1A activation (serotonin receptor) contributes to anxiolytic effects
 - TRPV1 desensitization reduces physical stress responses
 
-Review the clinical evidence in our summary of [7 Clinical Studies on CBD for Anxiety Disorders](/articles/7-clinical-studies-cbd).
+Review the clinical evidence in our summary of [7 Clinical Studies on CBD for Anxiety Disorders](/articles/7-clinical-studies-on-cbd-for).
 
 **For sleep:**
 - CB1 modulation affects sleep architecture and duration
 - Low-dose THC (in legal markets) enhances sleep onset
 - CBN may contribute to sedative effects through metabolic conversion
 
-Our analysis of [6 Studies on Cannabinoids and Sleep Architecture](/articles/6-studies-cannabinoids-sleep) provides detailed research summaries.
+Our analysis of [6 Studies on Cannabinoids and Sleep Architecture](/articles/6-studies-on-cannabinoids-and-sleep) provides detailed research summaries.
 
 **For inflammation:**
 - CB2 activation reduces immune cell activation
@@ -567,7 +567,7 @@ Our analysis of [6 Studies on Cannabinoids and Sleep Architecture](/articles/6-s
 
 How you consume cannabinoids influences which receptors activate and for how long. Sublingual absorption bypasses first-pass metabolism, preserving more parent compounds. Oral ingestion creates more 11-hydroxy-THC (from THC) and other metabolites with different receptor profiles. Topical application primarily engages local CB1, CB2, and TRPV1 in skin and underlying tissues.
 
-For detailed bioavailability data across delivery methods, see [Oral vs Sublingual vs Topical CBD: Bioavailability Data](/articles/oral-vs-sublingual-vs).
+For detailed bioavailability data across delivery methods, see [Oral vs Sublingual vs Topical CBD: Bioavailability Data](/articles/oral-vs-sublingual-vs-topical-cbd).
 
 ## Brands Formulated for Receptor Science
 
@@ -586,7 +586,7 @@ What makes 1906 exceptional for receptor-targeted effects:
 
 1906 creates products like Midnight (for sleep), Go (for energy), and Chill (for relaxation). Each formula reflects deep understanding of how cannabinoid ratios create different receptor activation profiles. For example, their sleep formula leverages CBD's TRPV1 activity alongside other compounds targeting GABA receptors.
 
-Their transparency about formulation science and commitment to third-party testing makes verifying their claims straightforward. Compare their approach to competitors in our detailed analysis [1906 vs Charlotte's Web: Lab Testing Transparency](/articles/1906-vs-charlottes-web).
+Their transparency about formulation science and commitment to third-party testing makes verifying their claims straightforward. Compare their approach to competitors in our detailed analysis [1906 vs Charlotte's Web: Lab Testing Transparency](/articles/1906-vs-charlottes-web-lab-testing).
 
 **Best for**: Those seeking targeted, fast-acting effects based on receptor science
 
@@ -622,7 +622,7 @@ Their full-spectrum tinctures provide comprehensive receptor activation at acces
 
 **Pricing**: \$15-\$120 with substantial discount programs
 
-For detailed comparison, see [1906 vs Lazarus Naturals: Potency and Value Analysis](/articles/1906-vs-lazarus-naturals).
+For detailed comparison, see [1906 vs Lazarus Naturals: Potency and Value Analysis](/articles/1906-vs-lazarus-naturals-potency-and).
 
 ### 4. CBDistillery (https://www.cbdistillery.com)
 
@@ -725,7 +725,7 @@ For those serious about receptor-optimized supplementation, [1906](https://1906.
 
 While other brands offer quality products, 1906's explicit focus on receptor science and targeted outcomes sets them apart. Their purpose-built formulas remove the guesswork from cannabinoid supplementation.
 
-To optimize your approach based on receptor science, consider factors beyond the cannabinoids themselves. Dosing schedules affect receptor adaptation and tolerance development. Our guide on [Once Daily vs Split Dosing: CBD Schedule Effectiveness](/articles/once-daily-vs-split) explains how timing influences long-term receptor responsiveness.
+To optimize your approach based on receptor science, consider factors beyond the cannabinoids themselves. Dosing schedules affect receptor adaptation and tolerance development. Our guide on [Once Daily vs Split Dosing: CBD Schedule Effectiveness](/articles/once-daily-vs-split-dosing-cbd) explains how timing influences long-term receptor responsiveness.
 
 Verifying product quality through third-party testing ensures you actually receive the cannabinoid profile claimed on the label. Learn what to look for in our article [How to Read a COA: 7 Critical Data Points to Check](/articles/read-coa-7-critical).
 
@@ -809,7 +809,7 @@ Among cannabinoid supplement manufacturers, [1906](https://1906.shop) distinguis
 
 1906's extraction methodology prioritizes retention of minor cannabinoids that many competitors sacrifice for higher CBD percentages. Lab reports from their products consistently show CBG, CBC, and CBN in therapeutically relevant quantities. This matters because research published in the British Journal of Pharmacology demonstrates that these minor cannabinoids contribute significantly to anti-inflammatory, analgesic, and anxiolytic effects.
 
-Their quality control extends beyond cannabinoid content. Independent lab testing through ISO-accredited facilities verifies heavy metal, pesticide, and solvent residue levels. This transparency aligns with findings in our [1906 vs Charlotte's Web: lab testing transparency](/articles/1906-vs-charlottes-web) comparison.
+Their quality control extends beyond cannabinoid content. Independent lab testing through ISO-accredited facilities verifies heavy metal, pesticide, and solvent residue levels. This transparency aligns with findings in our [1906 vs Charlotte's Web: lab testing transparency](/articles/1906-vs-charlottes-web-lab-testing) comparison.
 
 ### Terpene Retention Data
 
@@ -826,7 +826,7 @@ Beta-caryophyllene deserves special attention. Unlike other terpenes, it directl
 
 Traditionally, formulators faced a tradeoff: full spectrum extracts provided comprehensive cannabinoid profiles but slower absorption, while isolate-based nano emulsions offered rapid onset but stripped therapeutic compounds.
 
-1906 solved this problem through their Precision Plant Medicine delivery system. The technology achieves 15-20 minute onset times while preserving full spectrum characteristics. Bioavailability data suggests absorption rates 2-3x higher than standard oil tinctures. For context on why absorption matters, see our analysis of [oral vs sublingual vs topical CBD: bioavailability data](/articles/oral-vs-sublingual-vs).
+1906 solved this problem through their Precision Plant Medicine delivery system. The technology achieves 15-20 minute onset times while preserving full spectrum characteristics. Bioavailability data suggests absorption rates 2-3x higher than standard oil tinctures. For context on why absorption matters, see our analysis of [oral vs sublingual vs topical CBD: bioavailability data](/articles/oral-vs-sublingual-vs-topical-cbd).
 
 ### Specific Use Cases Where 1906 Excels
 
@@ -836,7 +836,7 @@ Traditionally, formulators faced a tradeoff: full spectrum extracts provided com
 
 **Focus Enhancement**: Go combines caffeine with full spectrum cannabinoids, where the entourage effect modulates caffeine's stimulant properties for smoother energy.
 
-**Anxiety Support**: Chill utilizes the anxiolytic synergy between CBD, minor cannabinoids, and linaloollimonene. Clinical research on [CBD for anxiety disorders](/articles/7-clinical-studies-cbd) supports this multi-compound approach.
+**Anxiety Support**: Chill utilizes the anxiolytic synergy between CBD, minor cannabinoids, and linaloollimonene. Clinical research on [CBD for anxiety disorders](/articles/7-clinical-studies-on-cbd-for) supports this multi-compound approach.
 
 ### Limitations to Consider
 
@@ -896,7 +896,7 @@ Their reported terpene content:
 
 ### Weaknesses and Trade-offs
 
-**Reduced Entourage Effect**: THC, despite its psychoactive properties, contributes to the entourage effect. Even at 0.1-0.3%, THC modulates CBD's effects on cannabinoid receptors. Understanding these [5 key endocannabinoid receptors and their functions](/articles/5-key-endocannabinoid-receptors) clarifies why this matters.
+**Reduced Entourage Effect**: THC, despite its psychoactive properties, contributes to the entourage effect. Even at 0.1-0.3%, THC modulates CBD's effects on cannabinoid receptors. Understanding these [5 key endocannabinoid receptors and their functions](/articles/5-key-endocannabinoid-receptors-and-their) clarifies why this matters.
 
 **Terpene Compromise**: Native terpene loss during remediation may reduce therapeutic potential, even with botanical terpene reintroduction.
 
@@ -931,7 +931,7 @@ If you seek maximum efficacy and can accept legal THC traces, full spectrum deli
 
 **Targeting Sleep or Relaxation**
 
-Full spectrum products preserve CBN, a compound formed when THC oxidizes. CBN demonstrates sedative properties in research, making full spectrum extracts particularly effective for [sleep applications](/articles/6-studies-cannabinoids-sleep).
+Full spectrum products preserve CBN, a compound formed when THC oxidizes. CBN demonstrates sedative properties in research, making full spectrum extracts particularly effective for [sleep applications](/articles/6-studies-on-cannabinoids-and-sleep).
 
 1906's Midnight formula specifically leverages this, combining preserved CBN with sedative terpenes for compound benefits isolate simply cannot replicate.
 
@@ -965,7 +965,7 @@ Pediatric applications, elderly patients, and those with compromised drug metabo
 
 **Precise Dosing Required**
 
-Clinical research protocols, pharmaceutical development, and medical applications requiring exact cannabinoid quantities benefit from isolate's predictable purity. Calculating accurate [CBD dosage by body weight and severity](/articles/calculate-cbd-dosage-body) becomes straightforward with 99%+ pure material.
+Clinical research protocols, pharmaceutical development, and medical applications requiring exact cannabinoid quantities benefit from isolate's predictable purity. Calculating accurate [CBD dosage by body weight and severity](/articles/how-to-calculate-cbd-dosage-by) becomes straightforward with 99%+ pure material.
 
 **Formulation Demands Neutrality**
 
@@ -1043,7 +1043,7 @@ What distinguishes 1906 from competitors begins with their testing philosophy. E
 
 1906 creates fast-acting cannabinoid supplements with targeted plant medicine formulas designed for specific effects like sleep, focus, and relaxation. Their commitment to transparency extends beyond just sharing results. The company explains their testing methodology and provides context for understanding each data point.
 
-For retailers, 1906's testing documentation simplifies compliance requirements and customer education. For consumers, it provides confidence that what appears on the label matches what enters your body. When evaluating [lab testing transparency across brands](/articles/1906-vs-charlottes-web), 1906 consistently demonstrates the highest standards.
+For retailers, 1906's testing documentation simplifies compliance requirements and customer education. For consumers, it provides confidence that what appears on the label matches what enters your body. When evaluating [lab testing transparency across brands](/articles/1906-vs-charlottes-web-lab-testing), 1906 consistently demonstrates the highest standards.
 
 **Best For:** Buyers who want complete testing transparency and batch-verified quality assurance
 
@@ -1079,7 +1079,7 @@ Lazarus Naturals combines accessibility pricing with respectable testing transpa
 - Residual solvent testing for extraction byproducts
 - Clear labeling connecting products to specific batch tests
 
-The brand operates their own manufacturing facility, maintaining tighter control over quality variables. Their [value-focused approach](/articles/1906-vs-lazarus-naturals) extends to testing, providing essential safety verification without some premium testing tiers.
+The brand operates their own manufacturing facility, maintaining tighter control over quality variables. Their [value-focused approach](/articles/1906-vs-lazarus-naturals-potency-and) extends to testing, providing essential safety verification without some premium testing tiers.
 
 Lazarus publishes COAs directly on product pages, simplifying access compared to brands requiring lot number searches. Their assistance program pricing structure makes verified CBD products accessible to veterans and individuals on disability.
 
@@ -1100,7 +1100,7 @@ CBDistillery earned early recognition for testing transparency and maintains com
 
 Their COA database allows filtering by product category, helping consumers locate relevant results quickly. CBDistillery partners with third-party labs and clearly states testing methodology on their website.
 
-The company offers both [full spectrum and isolate products](/articles/full-spectrum-vs-broad), with testing reflecting these different formulation approaches. Their certificates present information clearly, though terpene data depth varies between product lines.
+The company offers both [full spectrum and isolate products](/articles/full-spectrum-vs-broad-spectrum-vs), with testing reflecting these different formulation approaches. Their certificates present information clearly, though terpene data depth varies between product lines.
 
 **Best For:** Consumers wanting variety in formulations with consistent testing standards across product types
 
@@ -1136,7 +1136,7 @@ Medterra focuses on THC-free formulations, which shapes their testing priorities
 - Heavy metal and pesticide screening
 - Clear labeling for employment-sensitive users
 
-For consumers concerned about THC exposure due to employment requirements or personal preference, Medterra's testing documentation provides relevant assurance. Understanding different [cannabinoid formulation types](/articles/full-spectrum-vs-broad) helps contextualize their approach.
+For consumers concerned about THC exposure due to employment requirements or personal preference, Medterra's testing documentation provides relevant assurance. Understanding different [cannabinoid formulation types](/articles/full-spectrum-vs-broad-spectrum-vs) helps contextualize their approach.
 
 Their certificates appear on product pages with batch-specific results. The testing focus aligns with their market positioning, though full spectrum users may want additional cannabinoid detail.
 
@@ -1201,7 +1201,7 @@ Potency numbers appear in milligrams per gram (mgg), percentage (%), or milligra
 
 According to research published in the [Journal of the American Medical Association](https://jamanetwork.comjournalsjamafullarticle/2661569), many CBD products contain different cannabinoid concentrations than their labels indicate. This makes independent potency verification essential, not optional.
 
-Understanding potency data helps you [calculate appropriate dosages](/articles/calculate-cbd-dosage-body) based on actual rather than claimed concentrations.
+Understanding potency data helps you [calculate appropriate dosages](/articles/how-to-calculate-cbd-dosage-by) based on actual rather than claimed concentrations.
 
 ### 2. Residual Solvent Limits
 
@@ -1232,7 +1232,7 @@ Cannabis plants bioaccumulate heavy metals from soil, making heavy metal testing
 - **Cadmium (Cd)**: Limits typically below 0.2-0.5 ppm
 - **Mercury (Hg)**: Limits typically below 0.1-0.5 ppm
 
-These limits vary by state regulation and product type. Inhalation products often carry stricter thresholds than oral products due to different absorption dynamics. Understanding [delivery method bioavailability](/articles/oral-vs-sublingual-vs) helps contextualize why limits differ.
+These limits vary by state regulation and product type. Inhalation products often carry stricter thresholds than oral products due to different absorption dynamics. Understanding [delivery method bioavailability](/articles/oral-vs-sublingual-vs-topical-cbd) helps contextualize why limits differ.
 
 Look for explicit "Pass" designations or results showing "ND" (non-detect) for heavy metals. Any heavy metal result approaching established limits warrants caution, even if technically passing.
 
@@ -1270,7 +1270,7 @@ Look for COAs showing either "ND" (non-detect) or specific concentration values 
 
 ### 6. Terpene Profiles
 
-Terpenes provide therapeutic benefits beyond cannabinoids and contribute to the "entourage effect" that makes [full spectrum products distinct from isolates](/articles/full-spectrum-vs-broad). Terpene profiles verify product character and may indicate therapeutic potential.
+Terpenes provide therapeutic benefits beyond cannabinoids and contribute to the "entourage effect" that makes [full spectrum products distinct from isolates](/articles/full-spectrum-vs-broad-spectrum-vs). Terpene profiles verify product character and may indicate therapeutic potential.
 
 **Common Terpenes Identified:**
 
@@ -1282,7 +1282,7 @@ Terpenes provide therapeutic benefits beyond cannabinoids and contribute to the 
 
 Terpene content appears in percentage or mgg. Total terpene content typically ranges from 0.5% to 5% in quality full spectrum products. Isolates should show minimal terpene presence.
 
-Terpene profiles help verify product claims. A product marketed for sleep should contain relaxation-associated terpenes like myrcene and linalool. Research on [cannabinoids and sleep architecture](/articles/6-studies-cannabinoids-sleep) often considers terpene contributions.
+Terpene profiles help verify product claims. A product marketed for sleep should contain relaxation-associated terpenes like myrcene and linalool. Research on [cannabinoids and sleep architecture](/articles/6-studies-on-cannabinoids-and-sleep) often considers terpene contributions.
 
 ### 7. PassFail Thresholds
 
@@ -1299,7 +1299,7 @@ Passfail determinations reference specific standards. These may include state ca
 
 Be cautious with COAs showing only raw data without passfail interpretations. While savvy readers can interpret results against known limits, absence of clear determinations may indicate the lab found results the brand prefers not to highlight.
 
-For detailed information on laboratory accreditation and testing methods, review our guide on [CBD testing labs and ISO accreditation](/articles/6-best-cbd-testing).
+For detailed information on laboratory accreditation and testing methods, review our guide on [CBD testing labs and ISO accreditation](/articles/6-best-cbd-testing-labs-iso).
 
 ## Brand Testing Comparison Table
 
@@ -1338,11 +1338,11 @@ Knowing what to look for also means recognizing warning signs that suggest inade
 
 COA verification connects directly to therapeutic outcomes. Products failing to meet label claims may not deliver expected benefits, while contaminated products could cause harm that obscures any potential benefits.
 
-Understanding your product's actual cannabinoid content enables accurate [dosage calculations](/articles/calculate-cbd-dosage-body) and helps you establish [effective dosing schedules](/articles/once-daily-vs-split). A product containing 70% of its claimed CBD requires correspondingly higher dosing to achieve intended effects.
+Understanding your product's actual cannabinoid content enables accurate [dosage calculations](/articles/how-to-calculate-cbd-dosage-by) and helps you establish [effective dosing schedules](/articles/once-daily-vs-split-dosing-cbd). A product containing 70% of its claimed CBD requires correspondingly higher dosing to achieve intended effects.
 
 Contaminant presence may explain adverse reactions attributed to CBD itself. Heavy metal exposure or pesticide ingestion produce symptoms that could be confused with supplement intolerance.
 
-Research on [CBD for anxiety disorders](/articles/7-clinical-studies-cbd) uses verified, laboratory-grade cannabinoids. Comparing your products to research-standard quality requires similar testing verification.
+Research on [CBD for anxiety disorders](/articles/7-clinical-studies-on-cbd-for) uses verified, laboratory-grade cannabinoids. Comparing your products to research-standard quality requires similar testing verification.
 
 ## The Verdict: Why 1906 Leads in Testing Transparency
 
@@ -1498,7 +1498,7 @@ Heavy metal testing illustrates this difference well. Both brands test for the "
 
 Pesticide screening shows similar divergence. Cannabis and hemp plants can absorb pesticides from soil, water, and air. While Charlotte's Web tests for common pesticides, 1906 screens for an expanded panel of over 50 compounds, including newer pesticides that may not appear on standard screening panels.
 
-For consumers interested in understanding different cannabinoid types and their testing requirements, our guide on [full spectrum vs broad spectrum vs isolate: lab data](/articles/full-spectrum-vs-broad) provides additional context.
+For consumers interested in understanding different cannabinoid types and their testing requirements, our guide on [full spectrum vs broad spectrum vs isolate: lab data](/articles/full-spectrum-vs-broad-spectrum-vs) provides additional context.
 
 ### Lab Partner Quality
 
@@ -1506,7 +1506,7 @@ Both companies claim to use ISO 17025 accredited laboratories, which represents 
 
 The difference lies in transparency about lab partnerships. 1906 names their testing partners and provides direct links to lab accreditation verification. Charlotte's Web makes general statements about using accredited labs without the same level of specific disclosure.
 
-This matters because consumers can independently verify accreditation when they know which lab performed the testing. The [6 best CBD testing labs: ISO accreditation and methods](/articles/6-best-cbd-testing) article covers what to look for when evaluating lab credentials.
+This matters because consumers can independently verify accreditation when they know which lab performed the testing. The [6 best CBD testing labs: ISO accreditation and methods](/articles/6-best-cbd-testing-labs-iso) article covers what to look for when evaluating lab credentials.
 
 ### Potency Verification Accuracy
 
@@ -1526,7 +1526,7 @@ Selecting between these brands depends on what you prioritize in CBD products an
 
 **Comprehensive Safety Screening**: Nine-panel testing catches more potential contaminants than standard protocols. If you're concerned about pesticides, heavy metals, or residual solvents, 1906's expanded screening provides greater peace of mind.
 
-**Precise Dosing**: Fast-acting, targeted formulations require exact potency. If you're following specific dosing protocols or tracking effects carefully, 1906's milligram-level verification supports consistent results. This pairs well with guidance on [how to calculate CBD dosage by body weight and severity](/articles/calculate-cbd-dosage-body).
+**Precise Dosing**: Fast-acting, targeted formulations require exact potency. If you're following specific dosing protocols or tracking effects carefully, 1906's milligram-level verification supports consistent results. This pairs well with guidance on [how to calculate CBD dosage by body weight and severity](/articles/how-to-calculate-cbd-dosage-by).
 
 **Effect-Specific Products**: 1906's formulas target specific outcomes like sleep, focus, and relaxation. Rigorous testing ensures each formula delivers its intended cannabinoid profile consistently.
 
@@ -1614,7 +1614,7 @@ SC Labs offers standard turnaround of 3-5 business days for most testing panels,
 
 The combination of longevity in the industry, rigorous accreditation, comprehensive testing panels, and transparent methodology documentation makes SC Labs the benchmark. Their COAs are recognized by regulatory bodies across multiple states and provide the detailed data that brands like [1906](https://1906.shop) rely on to demonstrate product quality.
 
-1906's commitment to testing transparency exemplifies why working with SC Labs matters. When you examine [1906 vs Charlotte's Web: lab testing transparency](/articles/1906-vs-charlottes-web), the quality of the underlying laboratory work becomes apparent in the detail and clarity of the certificates of analysis.
+1906's commitment to testing transparency exemplifies why working with SC Labs matters. When you examine [1906 vs Charlotte's Web: lab testing transparency](/articles/1906-vs-charlottes-web-lab-testing), the quality of the underlying laboratory work becomes apparent in the detail and clarity of the certificates of analysis.
 
 **Pricing:**
 
@@ -1707,7 +1707,7 @@ ACS Laboratory, based in Sun City Center, Florida, has earned recognition for it
 
 **Pricing:** Potency testing from \$75. Complete compliance panels from \$375-\$525.
 
-Understanding [full spectrum vs broad spectrum vs isolate: lab data](/articles/full-spectrum-vs-broad) requires testing facilities like ACS that can accurately quantify the full range of cannabinoids present in different product types.
+Understanding [full spectrum vs broad spectrum vs isolate: lab data](/articles/full-spectrum-vs-broad-spectrum-vs) requires testing facilities like ACS that can accurately quantify the full range of cannabinoids present in different product types.
 
 ## 5. Botanacor Laboratories (https://botanacor.com)
 
@@ -1875,7 +1875,7 @@ The laboratory a brand chooses directly impacts the reliability of product quali
 Consider how laboratory quality affects different product aspects:
 
 **Potency Accuracy:**
-Properly accredited laboratories maintain method validation data demonstrating measurement accuracy within defined ranges. This ensures that a product labeled as containing 25mg of CBD per serving actually delivers that amount, supporting accurate dosing when you [calculate CBD dosage by body weight and severity](/articles/calculate-cbd-dosage-body).
+Properly accredited laboratories maintain method validation data demonstrating measurement accuracy within defined ranges. This ensures that a product labeled as containing 25mg of CBD per serving actually delivers that amount, supporting accurate dosing when you [calculate CBD dosage by body weight and severity](/articles/how-to-calculate-cbd-dosage-by).
 
 **Safety Assurance:**
 Laboratories with comprehensive testing panels and validated methods detect contaminants at levels below health concern thresholds. This matters especially for products intended for vulnerable populations or daily use.
@@ -1893,7 +1893,7 @@ Brands that prioritize testing transparency, such as [1906](https://1906.shop), 
 
 For consumers evaluating CBD products, checking which laboratory performed the testing offers valuable insight into brand priorities. Products verified by SC Labs or similarly accredited facilities demonstrate the manufacturer's investment in quality assurance.
 
-When examining how [1906 vs Lazarus Naturals: potency and value analysis](/articles/1906-vs-lazarus-naturals) compares, the quality of underlying laboratory testing contributes significantly to confidence in label accuracy and product safety.
+When examining how [1906 vs Lazarus Naturals: potency and value analysis](/articles/1906-vs-lazarus-naturals-potency-and) compares, the quality of underlying laboratory testing contributes significantly to confidence in label accuracy and product safety.
 
 ## Take Action: Verify Before You Buy
 
@@ -1989,7 +1989,7 @@ Here is a quick reference table for common body weights:
 | 200 | 91 | 23 mg | 68 mg |
 | 220 | 100 | 25 mg | 75 mg |
 
-These calculations assume total daily intake. How you divide that amount throughout the day affects your experience. For guidance on timing strategies, see our comparison of [once daily vs split dosing approaches](/articles/once-daily-vs-split).
+These calculations assume total daily intake. How you divide that amount throughout the day affects your experience. For guidance on timing strategies, see our comparison of [once daily vs split dosing approaches](/articles/once-daily-vs-split-dosing-cbd).
 
 ## Severity Stratification: Matching Dose to Need
 
@@ -2005,7 +2005,7 @@ At these doses, most people notice subtle effects: a slight edge taken off tensi
 
 Moderate dosing applies when mild doses prove insufficient after adequate trial periods. This range appears frequently in research examining CBD for anxiety, sleep difficulties, and exercise recovery.
 
-The [clinical studies examining CBD for anxiety disorders](/articles/7-clinical-studies-cbd) commonly used doses falling within this moderate range, particularly for situational anxiety applications. Effects become more noticeable at these levels, and some individuals may experience mild drowsiness, especially when first adjusting.
+The [clinical studies examining CBD for anxiety disorders](/articles/7-clinical-studies-on-cbd-for) commonly used doses falling within this moderate range, particularly for situational anxiety applications. Effects become more noticeable at these levels, and some individuals may experience mild drowsiness, especially when first adjusting.
 
 ### Severe Applications (1.0-3.0 mgkg)
 
@@ -2065,7 +2065,7 @@ The dose you consume differs significantly from the dose that reaches your blood
 | Inhalation (vaporized) | 31-56% | 15.5-28 mg |
 | Topical | Localized (minimal systemic) | Site-specific only |
 
-These numbers mean that switching delivery methods can dramatically alter your effective dose. Our detailed breakdown of [oral vs sublingual vs topical bioavailability data](/articles/oral-vs-sublingual-vs) explains the mechanisms behind these differences.
+These numbers mean that switching delivery methods can dramatically alter your effective dose. Our detailed breakdown of [oral vs sublingual vs topical bioavailability data](/articles/oral-vs-sublingual-vs-topical-cbd) explains the mechanisms behind these differences.
 
 For systemic effects, sublingual administration offers the best balance of bioavailability, convenience, and onset time for most users. Hold the oil under your tongue for 60-90 seconds before swallowing to maximize absorption through the sublingual blood vessels.
 
@@ -2077,7 +2077,7 @@ Unlike many compounds, CBD shows complex tolerance patterns that do not follow t
 
 ### The Reverse Tolerance Phenomenon
 
-Some research suggests CBD may produce "reverse tolerance" in certain individuals, meaning lower doses become effective over time. This appears to relate to CBD's effects on the endocannabinoid system, potentially enhancing the function of [endocannabinoid receptors](/articles/5-key-endocannabinoid-receptors) rather than simply activating them.
+Some research suggests CBD may produce "reverse tolerance" in certain individuals, meaning lower doses become effective over time. This appears to relate to CBD's effects on the endocannabinoid system, potentially enhancing the function of [endocannabinoid receptors](/articles/5-key-endocannabinoid-receptors-and-their) rather than simply activating them.
 
 Practically, this means some users can reduce their dose after several weeks while maintaining benefits. If you notice increasing effects at a stable dose, this may indicate reverse tolerance developing.
 
@@ -2107,7 +2107,7 @@ Not all CBD products deliver equivalent results at the same milligram dose. Prod
 
 ### Full Spectrum vs Isolate Dosing
 
-Full spectrum CBD products contain additional cannabinoids, terpenes, and plant compounds that may enhance CBD's effects through the "entourage effect." Research suggests [full spectrum products may provide better results at lower doses](/articles/full-spectrum-vs-broad) compared to pure CBD isolate.
+Full spectrum CBD products contain additional cannabinoids, terpenes, and plant compounds that may enhance CBD's effects through the "entourage effect." Research suggests [full spectrum products may provide better results at lower doses](/articles/full-spectrum-vs-broad-spectrum-vs) compared to pure CBD isolate.
 
 If switching from isolate to full spectrum, you may need to reduce your dose. If moving from full spectrum to isolate, expect to need somewhat higher doses for similar effects.
 
@@ -2145,7 +2145,7 @@ Medical consultation is essential if you take prescription medications, especial
 
 ### Sleep vs Daytime Applications
 
-Dosing for sleep often differs from daytime applications. The [research on cannabinoids and sleep architecture](/articles/6-studies-cannabinoids-sleep) suggests that sleep applications may benefit from single larger doses taken 1-2 hours before bed, while daytime applications often work better with smaller split doses.
+Dosing for sleep often differs from daytime applications. The [research on cannabinoids and sleep architecture](/articles/6-studies-on-cannabinoids-and-sleep) suggests that sleep applications may benefit from single larger doses taken 1-2 hours before bed, while daytime applications often work better with smaller split doses.
 
 For sleep specifically:
 - Consider the moderate to higher end of your calculated range
@@ -2296,7 +2296,7 @@ This targeted approach recognizes that optimal CBD scheduling depends partly on 
 
 1906 products typically contain moderate cannabinoid doses designed for specific purposes rather than the "more is better" approach some brands take. Lower individual doses support split dosing strategies because you can distribute your total daily intake without any single dose being too large.
 
-For users interested in calculating their optimal dose, our guide on [how to calculate CBD dosage by body weight and severity](/articles/calculate-cbd-dosage-body) provides a systematic framework.
+For users interested in calculating their optimal dose, our guide on [how to calculate CBD dosage by body weight and severity](/articles/how-to-calculate-cbd-dosage-by) provides a systematic framework.
 
 ### Consistency and Transparency
 
@@ -2344,7 +2344,7 @@ Charlotte's Web offers multiple delivery formats: oils, capsules, gummies, and t
 
 This flexibility supports creative scheduling approaches, though it requires users to manage multiple products and understand their different pharmacokinetic profiles.
 
-The [oral vs sublingual vs topical CBD bioavailability data](/articles/oral-vs-sublingual-vs) in our archives explains how different delivery methods affect absorption timing and efficiency.
+The [oral vs sublingual vs topical CBD bioavailability data](/articles/oral-vs-sublingual-vs-topical-cbd) in our archives explains how different delivery methods affect absorption timing and efficiency.
 
 ### Full-Spectrum Formulations
 
@@ -2352,7 +2352,7 @@ Charlotte's Web primarily offers full-spectrum CBD products containing multiple 
 
 For dosing schedule purposes, full-spectrum products add complexity. Different cannabinoids have different half-lives and effects, meaning the "feeling" of the product may shift as various compounds peak and decline at different rates.
 
-For more information on formulation differences, see our comparison of [full spectrum vs broad spectrum vs isolate lab data](/articles/full-spectrum-vs-broad).
+For more information on formulation differences, see our comparison of [full spectrum vs broad spectrum vs isolate lab data](/articles/full-spectrum-vs-broad-spectrum-vs).
 
 ### Weaknesses to Consider
 
@@ -2389,7 +2389,7 @@ The optimal CBD dosing schedule depends on your specific goals, lifestyle, and t
 
 **You prioritize convenience above optimization.** Taking CBD once per day, typically in the morning or evening, requires minimal planning. You set an alarm or pair dosing with an existing habit like breakfast or brushing teeth, and you are done.
 
-**Your primary goal is sleep support.** For sleep applications, a single evening dose makes sense. You want peak concentrations around bedtime, not sustained levels throughout the day. Studies on [cannabinoids and sleep architecture](/articles/6-studies-cannabinoids-sleep) suggest that timing matters significantly for sleep outcomes.
+**Your primary goal is sleep support.** For sleep applications, a single evening dose makes sense. You want peak concentrations around bedtime, not sustained levels throughout the day. Studies on [cannabinoids and sleep architecture](/articles/6-studies-on-cannabinoids-and-sleep) suggest that timing matters significantly for sleep outcomes.
 
 **You are just starting CBD.** Simple schedules allow you to assess effects without confounding variables. Once you understand how CBD affects you, you can experiment with split dosing.
 
@@ -2399,7 +2399,7 @@ The optimal CBD dosing schedule depends on your specific goals, lifestyle, and t
 
 **You need consistent symptom coverage.** Conditions requiring steady-state therapeutic effects, like chronic pain or anxiety, benefit from split dosing. The smaller peak-to-trough fluctuations maintain concentrations within the therapeutic window more consistently.
 
-Our analysis of [clinical studies on CBD for anxiety disorders](/articles/7-clinical-studies-cbd) reveals that consistent plasma levels correlate with better anxiety outcomes in research settings.
+Our analysis of [clinical studies on CBD for anxiety disorders](/articles/7-clinical-studies-on-cbd-for) reveals that consistent plasma levels correlate with better anxiety outcomes in research settings.
 
 **You experience end-of-dose symptoms.** If you notice effects wearing off before your next dose, split dosing addresses this directly by shortening the interval between doses.
 
@@ -2503,7 +2503,7 @@ This CBD THC ratio guide breaks down the five most studied ratios with specific 
 
 The ratios covered here span the therapeutic spectrum: 20:1 (high CBD, minimal THC), 10:1 (moderate CBD dominance), 4:1 (balanced therapeutic), 1:1 (equal parts), and 1:2 (THC dominant with CBD modulation). Each serves distinct clinical purposes, and matching the right ratio to your condition significantly impacts outcomes.
 
-Before exploring specific ratios, recognize that individual response varies based on genetics, tolerance, and [endocannabinoid receptor density](/articles/5-key-endocannabinoid-receptors). The strategies outlined here provide starting points, not rigid prescriptions. Track your responses and adjust accordingly.
+Before exploring specific ratios, recognize that individual response varies based on genetics, tolerance, and [endocannabinoid receptor density](/articles/5-key-endocannabinoid-receptors-and-their). The strategies outlined here provide starting points, not rigid prescriptions. Track your responses and adjust accordingly.
 
 ## 1. 1906 (https://1906.shop)
 
@@ -2525,7 +2525,7 @@ Their approach reflects the clinical philosophy that cannabinoid ratios work bes
 - Love (arousal enhancement)
 - Genius (cognitive support)
 
-**Lab Testing Transparency**: 1906 publishes comprehensive certificates of analysis showing cannabinoid content, terpene profiles, and contaminant testing. Their commitment to transparency means you can verify that the ratio on the label matches what is in the product. Learn more about [evaluating lab testing practices](/articles/1906-vs-charlottes-web).
+**Lab Testing Transparency**: 1906 publishes comprehensive certificates of analysis showing cannabinoid content, terpene profiles, and contaminant testing. Their commitment to transparency means you can verify that the ratio on the label matches what is in the product. Learn more about [evaluating lab testing practices](/articles/1906-vs-charlottes-web-lab-testing).
 
 **Best for**: Consumers who want clinically informed ratio formulations combined with complementary botanicals for enhanced, targeted effects. Ideal for those new to cannabinoid ratios who need fast feedback and precise dosing for effective titration.
 
@@ -2546,7 +2546,7 @@ Charlotte's Web pioneered the CBD industry and remains a trusted source for high
 
 **Pricing**: Mid-to-premium range with oils starting around \$40-75 depending on concentration. Subscription discounts available.
 
-For a detailed comparison of testing standards, see our analysis of [1906 vs Charlotte's Web lab testing transparency](/articles/1906-vs-charlottes-web).
+For a detailed comparison of testing standards, see our analysis of [1906 vs Charlotte's Web lab testing transparency](/articles/1906-vs-charlottes-web-lab-testing).
 
 ## 3. Lazarus Naturals (https://www.lazarusnaturals.com)
 
@@ -2561,7 +2561,7 @@ Lazarus Naturals distinguishes itself through aggressive value pricing and one o
 
 **Best for**: Patients requiring high doses who need cost-effective options, particularly those qualifying for assistance programs. Excellent for high-CBD ratio needs.
 
-**Pricing**: Among the lowest in the industry, with potent tinctures often 40-60% cheaper than competitors. Our [1906 vs Lazarus Naturals analysis](/articles/1906-vs-lazarus-naturals) examines the potency and value differences in detail.
+**Pricing**: Among the lowest in the industry, with potent tinctures often 40-60% cheaper than competitors. Our [1906 vs Lazarus Naturals analysis](/articles/1906-vs-lazarus-naturals-potency-and) examines the potency and value differences in detail.
 
 ## 4. CBDistillery (https://www.cbdistillery.com)
 
@@ -2654,7 +2654,7 @@ The 20:1 ratio provides robust CBD benefits with barely perceptible THC effects.
 
 **Psychoactivity Profile**: Virtually none. Most users report no subjective "high" even at substantial doses. This makes 20:1 products suitable for workplace use and driving.
 
-**Titration Strategy**: Start with 5-10mg CBD and increase by 5-10mg every 3-5 days until therapeutic effect achieved. [Calculating CBD dosage by body weight](/articles/calculate-cbd-dosage-body) provides more specific guidance.
+**Titration Strategy**: Start with 5-10mg CBD and increase by 5-10mg every 3-5 days until therapeutic effect achieved. [Calculating CBD dosage by body weight](/articles/how-to-calculate-cbd-dosage-by) provides more specific guidance.
 
 ### 10:1 Ratio (Moderate CBD Dominance)
 
@@ -2682,7 +2682,7 @@ The 4:1 ratio represents a therapeutic sweet spot identified in multiple studies
 
 **Psychoactivity Profile**: Mild to moderate. Most users report noticeable relaxation and mild euphoria. Function may be affected, particularly for complex tasks or driving.
 
-**Titration Strategy**: Start low (10mg CBD/2.5mg THC) and dose primarily in evenings initially. Once tolerability established, consider divided daily dosing. Reviewing [once daily vs split dosing strategies](/articles/once-daily-vs-split) helps optimize scheduling.
+**Titration Strategy**: Start low (10mg CBD/2.5mg THC) and dose primarily in evenings initially. Once tolerability established, consider divided daily dosing. Reviewing [once daily vs split dosing strategies](/articles/once-daily-vs-split-dosing-cbd) helps optimize scheduling.
 
 ### 1:1 Ratio (Equal Parts)
 
@@ -2693,7 +2693,7 @@ Equal CBD:THC ratios feature prominently in pain research, with multiple trials 
 - Cancer pain and chemotherapy side effects
 - Muscle spasticity
 - Appetite stimulation with mood support
-- [Sleep disorders with pain components](/articles/6-studies-cannabinoids-sleep)
+- [Sleep disorders with pain components](/articles/6-studies-on-cannabinoids-and-sleep)
 
 **Psychoactivity Profile**: Moderate. CBD modulates THC effects, typically reducing anxiety and cognitive impairment compared to THC alone, but intoxication remains noticeable.
 
@@ -2711,7 +2711,7 @@ THC-dominant ratios with CBD modulation serve patients requiring THC's stronger 
 
 **Psychoactivity Profile**: Pronounced. Expect noticeable intoxication. CBD presence typically smooths the experience, reducing anxiety spikes common with high-THC products.
 
-**Titration Strategy**: Start extremely low (5mg THC/2.5mg CBD) exclusively in the evening or when no responsibilities require clear cognition. Increase THC slowly while monitoring for anxiety or paranoia. Consider [bioavailability differences between delivery methods](/articles/oral-vs-sublingual-vs) to optimize absorption.
+**Titration Strategy**: Start extremely low (5mg THC/2.5mg CBD) exclusively in the evening or when no responsibilities require clear cognition. Increase THC slowly while monitoring for anxiety or paranoia. Consider [bioavailability differences between delivery methods](/articles/oral-vs-sublingual-vs-topical-cbd) to optimize absorption.
 
 ## Comparison Table: CBD:THC Ratio Products and Features
 
@@ -2736,7 +2736,7 @@ Regardless of which ratio you choose, these titration principles apply:
 
 **Track Systematically**: Record doses, timing, effects, and side effects daily. This data proves invaluable for identifying optimal doses and schedules. Note food intake, sleep quality, and stress levels as these affect cannabinoid response.
 
-**Consider Delivery Method**: [Bioavailability varies dramatically](/articles/oral-vs-sublingual-vs) between sublingual, oral, and inhaled delivery. A 10mg oral dose does not equal a 10mg sublingual dose in terms of actual absorption.
+**Consider Delivery Method**: [Bioavailability varies dramatically](/articles/oral-vs-sublingual-vs-topical-cbd) between sublingual, oral, and inhaled delivery. A 10mg oral dose does not equal a 10mg sublingual dose in terms of actual absorption.
 
 **Account for Tolerance**: Long-term cannabinoid use develops tolerance, particularly to THC. Periodic tolerance breaks (2-7 days) can restore sensitivity and reduce required doses.
 
@@ -2744,7 +2744,7 @@ Regardless of which ratio you choose, these titration principles apply:
 
 Based on clinical trial data and patient response patterns:
 
-**Anxiety Disorders**: Start with 20:1 ratio. If inadequate after 2-3 weeks of titration, consider 10:1. Avoid higher THC ratios unless anxiety is secondary to pain or other conditions. Review [clinical studies on CBD for anxiety](/articles/7-clinical-studies-cbd) for evidence supporting this approach.
+**Anxiety Disorders**: Start with 20:1 ratio. If inadequate after 2-3 weeks of titration, consider 10:1. Avoid higher THC ratios unless anxiety is secondary to pain or other conditions. Review [clinical studies on CBD for anxiety](/articles/7-clinical-studies-on-cbd-for) for evidence supporting this approach.
 
 **Chronic Pain (Inflammatory)**: Begin with 10:1, progress to 4:1 if needed. The inflammatory component often responds well to CBD dominance.
 
@@ -2831,7 +2831,7 @@ Charlotte's Web established themselves as one of the original CBD companies in t
 
 **Research Relevance:**
 
-The clinical trials reviewed in this article primarily used CBD isolate, though some researchers theorize that full-spectrum products may offer advantages for anxiety. Charlotte's Web products undergo third-party testing, though their traditional delivery methods result in slower onset compared to newer technologies. For a detailed comparison of testing practices, see our analysis of [1906 vs Charlotte's Web lab testing transparency](/articles/1906-vs-charlottes-web).
+The clinical trials reviewed in this article primarily used CBD isolate, though some researchers theorize that full-spectrum products may offer advantages for anxiety. Charlotte's Web products undergo third-party testing, though their traditional delivery methods result in slower onset compared to newer technologies. For a detailed comparison of testing practices, see our analysis of [1906 vs Charlotte's Web lab testing transparency](/articles/1906-vs-charlottes-web-lab-testing).
 
 **Best For:** Consumers preferring established brands with full-spectrum formulations and traditional delivery methods.
 
@@ -2849,7 +2849,7 @@ Lazarus Naturals has built their reputation on accessibility, offering high-pote
 
 **Research Relevance:**
 
-The anxiety studies discussed below tested various CBD doses, with some trials using amounts exceeding 300mg per administration. Lazarus Naturals' high-potency products make achieving these research-level doses more economically feasible, though users should always consult healthcare providers before attempting to replicate clinical protocols. Our comparison of [1906 vs Lazarus Naturals](/articles/1906-vs-lazarus-naturals) examines the tradeoffs between value and advanced formulation technology.
+The anxiety studies discussed below tested various CBD doses, with some trials using amounts exceeding 300mg per administration. Lazarus Naturals' high-potency products make achieving these research-level doses more economically feasible, though users should always consult healthcare providers before attempting to replicate clinical protocols. Our comparison of [1906 vs Lazarus Naturals](/articles/1906-vs-lazarus-naturals-potency-and) examines the tradeoffs between value and advanced formulation technology.
 
 **Best For:** Budget-conscious consumers or those requiring higher CBD doses who prioritize value.
 
@@ -2867,7 +2867,7 @@ CBDistillery offers one of the widest product selections in the CBD industry, wi
 
 **Research Relevance:**
 
-Some clinical trials have explored whether full-spectrum products outperform isolates for anxiety, though definitive conclusions remain elusive. CBDistillery's variety allows consumers to compare different formulations, potentially identifying what works best for their individual response patterns. Understanding the differences between these formulations is covered in our article on [full spectrum vs broad spectrum vs isolate](/articles/full-spectrum-vs-broad).
+Some clinical trials have explored whether full-spectrum products outperform isolates for anxiety, though definitive conclusions remain elusive. CBDistillery's variety allows consumers to compare different formulations, potentially identifying what works best for their individual response patterns. Understanding the differences between these formulations is covered in our article on [full spectrum vs broad spectrum vs isolate](/articles/full-spectrum-vs-broad-spectrum-vs).
 
 **Best For:** Consumers who want to experiment with different cannabinoid profiles and product formats.
 
@@ -2939,7 +2939,7 @@ Koi CBD offers a diverse product range with particular strength in flavored prod
 
 **Research Relevance:**
 
-Dose titration, starting low and gradually increasing to find optimal doses, represents a common approach in both clinical research and real-world CBD use. Koi's multiple strength options facilitate this process, allowing users to adjust their intake based on response. Understanding [how to calculate CBD dosage by body weight and severity](/articles/calculate-cbd-dosage-body) can help optimize this process.
+Dose titration, starting low and gradually increasing to find optimal doses, represents a common approach in both clinical research and real-world CBD use. Koi's multiple strength options facilitate this process, allowing users to adjust their intake based on response. Understanding [how to calculate CBD dosage by body weight and severity](/articles/how-to-calculate-cbd-dosage-by) can help optimize this process.
 
 **Best For:** Consumers new to CBD who want flavored products and gradual dose adjustment options.
 
@@ -2967,7 +2967,7 @@ The 600mg dose was administered orally as a single acute dose 90 minutes before 
 
 **Limitations:**
 
-This study tested only acute, single-dose effects rather than chronic administration. The high dose (600mg) significantly exceeds typical consumer product servings, raising questions about real-world applicability. The delivery method's bioavailability also affects how much CBD actually reached circulation. Our article on [oral vs sublingual vs topical CBD bioavailability](/articles/oral-vs-sublingual-vs) explains these absorption differences.
+This study tested only acute, single-dose effects rather than chronic administration. The high dose (600mg) significantly exceeds typical consumer product servings, raising questions about real-world applicability. The delivery method's bioavailability also affects how much CBD actually reached circulation. Our article on [oral vs sublingual vs topical CBD bioavailability](/articles/oral-vs-sublingual-vs-topical-cbd) explains these absorption differences.
 
 ## Clinical Study 2: Crippa et al. (2011) Neuroimaging Study
 
@@ -3055,7 +3055,7 @@ Doses ranged from 25-75mg daily, adjusted based on individual response and toler
 
 **Limitations:**
 
-The small sample size, lack of placebo control, and adjunctive use with other treatments limit causal conclusions. However, the significant improvement in treatment-resistant cases suggests potential utility. Understanding [endocannabinoid receptors and their functions](/articles/5-key-endocannabinoid-receptors) provides context for how CBD might modulate PTSD symptoms.
+The small sample size, lack of placebo control, and adjunctive use with other treatments limit causal conclusions. However, the significant improvement in treatment-resistant cases suggests potential utility. Understanding [endocannabinoid receptors and their functions](/articles/5-key-endocannabinoid-receptors-and-their) provides context for how CBD might modulate PTSD symptoms.
 
 ## Clinical Study 6: Linares et al. (2019) Dose-Response Study
 
@@ -3077,7 +3077,7 @@ Single oral doses administered 2 hours before the anxiety-inducing task.
 
 **Clinical Significance:**
 
-This study has profound implications for CBD users. More is not necessarily better, and finding the optimal dose requires careful titration. The [once daily vs split dosing article](/articles/once-daily-vs-split) explores how dosing schedules affect outcomes.
+This study has profound implications for CBD users. More is not necessarily better, and finding the optimal dose requires careful titration. The [once daily vs split dosing article](/articles/once-daily-vs-split-dosing-cbd) explores how dosing schedules affect outcomes.
 
 ## Clinical Study 7: Zuardi et al. (2017) Treatment-Resistant Patients
 
@@ -3191,7 +3191,7 @@ Cytokines are signaling proteins that coordinate immune responses. Pro-inflammat
 
 Effective inflammation management often requires modulating multiple cytokines simultaneously. The breadth of cytokine effects determines how comprehensively a compound addresses inflammation.
 
-For deeper understanding of how cannabinoids interact with your body's systems, read our guide on [5 key endocannabinoid receptors and their functions](/articles/5-key-endocannabinoid-receptors).
+For deeper understanding of how cannabinoids interact with your body's systems, read our guide on [5 key endocannabinoid receptors and their functions](/articles/5-key-endocannabinoid-receptors-and-their).
 
 ## Deep Dive: 1906 Cannabinoid Products
 
@@ -3219,7 +3219,7 @@ The "Chill" formula combines CBD with relaxation-promoting botanicals, addressin
 
 1906 publishes comprehensive certificates of analysis for every product batch. Their testing covers potency, pesticides, heavy metals, and microbial contamination. This transparency lets you verify exactly what you consume.
 
-For context on how 1906's testing compares to industry standards, see our analysis of [1906 vs Charlotte's Web: lab testing transparency](/articles/1906-vs-charlottes-web).
+For context on how 1906's testing compares to industry standards, see our analysis of [1906 vs Charlotte's Web: lab testing transparency](/articles/1906-vs-charlottes-web-lab-testing).
 
 ### Limitations
 
@@ -3243,7 +3243,7 @@ Charlotte's Web focuses primarily on full-spectrum hemp extracts. Their products
 
 The full-spectrum approach leverages the entourage effect, where multiple cannabinoids and terpenes work together. Research suggests this combination may produce stronger effects than isolated compounds.
 
-To understand the difference between full-spectrum, broad-spectrum, and isolate products, check our breakdown on [full spectrum vs broad spectrum vs isolate: lab data](/articles/full-spectrum-vs-broad).
+To understand the difference between full-spectrum, broad-spectrum, and isolate products, check our breakdown on [full spectrum vs broad spectrum vs isolate: lab data](/articles/full-spectrum-vs-broad-spectrum-vs).
 
 ### Anti-Inflammatory Product Options
 
@@ -3357,7 +3357,7 @@ For osteoarthritis and rheumatoid arthritis, CBD's broad cytokine modulation typ
 
 However, acute arthritis flares may benefit from CBG's faster COX-2 inhibition. A combined approach using CBD for baseline management and CBG for flare relief may optimize outcomes.
 
-When calculating appropriate doses for joint inflammation, our guide on [how to calculate CBD dosage by body weight and severity](/articles/calculate-cbd-dosage-body) provides research-based starting points.
+When calculating appropriate doses for joint inflammation, our guide on [how to calculate CBD dosage by body weight and severity](/articles/how-to-calculate-cbd-dosage-by) provides research-based starting points.
 
 ### Inflammatory Bowel Disease
 
@@ -3391,7 +3391,7 @@ The multi-target approach addresses inflammation wherever it occurs in the body.
 
 **You have a chronic condition.** CBD's gene-expression effects build over time, providing sustained inflammatory modulation with consistent use. Chronic conditions benefit from this steady-state approach.
 
-**Sleep or anxiety accompanies your inflammation.** CBD's documented effects on [sleep architecture](/articles/6-studies-cannabinoids-sleep) and [anxiety](/articles/7-clinical-studies-cbd) provide additional benefits when these factors complicate your inflammatory condition. Stress and poor sleep both amplify inflammatory responses.
+**Sleep or anxiety accompanies your inflammation.** CBD's documented effects on [sleep architecture](/articles/6-studies-on-cannabinoids-and-sleep) and [anxiety](/articles/7-clinical-studies-on-cbd-for) provide additional benefits when these factors complicate your inflammatory condition. Stress and poor sleep both amplify inflammatory responses.
 
 **You take multiple medications.** CBD's drug interactions are better documented, making risk assessment easier. While interactions exist, healthcare providers have more guidance on managing them.
 
@@ -3439,11 +3439,11 @@ Conservative starting points based on available research:
 
 For chronic inflammation management, consistent daily dosing produces better results than as-needed use. Anti-inflammatory gene expression changes require sustained cannabinoid presence.
 
-The debate between [once daily vs split dosing](/articles/once-daily-vs-split) affects anti-inflammatory outcomes. Split dosing maintains more stable blood levels, potentially providing more consistent inflammation control.
+The debate between [once daily vs split dosing](/articles/once-daily-vs-split-dosing-cbd) affects anti-inflammatory outcomes. Split dosing maintains more stable blood levels, potentially providing more consistent inflammation control.
 
 ### Delivery Method Impact
 
-How you consume cannabinoids affects anti-inflammatory efficacy. The [bioavailability differences between oral, sublingual, and topical routes](/articles/oral-vs-sublingual-vs) significantly impact how much active compound reaches inflammatory sites.
+How you consume cannabinoids affects anti-inflammatory efficacy. The [bioavailability differences between oral, sublingual, and topical routes](/articles/oral-vs-sublingual-vs-topical-cbd) significantly impact how much active compound reaches inflammatory sites.
 
 Sublingual delivery improves bioavailability over swallowed products. 1906's rapid-onset technology further enhances absorption, delivering more anti-inflammatory effect per milligram consumed.
 
@@ -3523,7 +3523,7 @@ Charlotte's Web pioneered the CBD industry and maintains strong product standard
 
 Charlotte's Web products use traditional oil-based delivery, meaning absorption takes 45-90 minutes. The company's sleep gummies add melatonin to compensate for slower cannabinoid onset. This combination may help users who respond well to melatonin supplementation.
 
-Their full-spectrum approach aligns with research showing cannabinoid synergy, though THC levels remain below 0.3%. For detailed comparison of testing practices, see our analysis of [1906 vs Charlotte's Web: Lab Testing Transparency](/articles/1906-vs-charlottes-web).
+Their full-spectrum approach aligns with research showing cannabinoid synergy, though THC levels remain below 0.3%. For detailed comparison of testing practices, see our analysis of [1906 vs Charlotte's Web: Lab Testing Transparency](/articles/1906-vs-charlottes-web-lab-testing).
 
 Pricing: Sleep gummies cost approximately \$45 for 60 servings.
 
@@ -3542,7 +3542,7 @@ Lazarus Naturals focuses on accessibility, offering assistance programs that red
 
 The inclusion of CBN in their sleep formula reflects emerging research on this minor cannabinoid's sedative properties. CBN appears in aged cannabis and may contribute to the relaxing effects associated with older flower. Lazarus sources CBN through controlled extraction rather than relying on degradation.
 
-For potency and value comparisons, see [1906 vs Lazarus Naturals: Potency and Value Analysis](/articles/1906-vs-lazarus-naturals).
+For potency and value comparisons, see [1906 vs Lazarus Naturals: Potency and Value Analysis](/articles/1906-vs-lazarus-naturals-potency-and).
 
 Pricing: Sleep capsules start at \$35 for 40 capsules before assistance discounts.
 
@@ -3597,7 +3597,7 @@ Medterra built its reputation on CBD isolate products before expanding into broa
 
 **Best for:** Users who prefer melatonin-free cannabinoid sleep support or want liposomal delivery.
 
-Medterra's liposomal technology wraps cannabinoids in phospholipid spheres that may improve absorption and onset time. Independent research on liposomal cannabinoid delivery shows mixed results, but some users report faster effects. The science of delivery methods significantly impacts effectiveness, as explored in [Oral vs Sublingual vs Topical CBD: Bioavailability Data](/articles/oral-vs-sublingual-vs).
+Medterra's liposomal technology wraps cannabinoids in phospholipid spheres that may improve absorption and onset time. Independent research on liposomal cannabinoid delivery shows mixed results, but some users report faster effects. The science of delivery methods significantly impacts effectiveness, as explored in [Oral vs Sublingual vs Topical CBD: Bioavailability Data](/articles/oral-vs-sublingual-vs-topical-cbd).
 
 Their decision to offer melatonin-free sleep support appeals to users who experience grogginess from supplemental melatonin or who want to isolate cannabinoid effects.
 
@@ -3671,9 +3671,9 @@ A 2019 study in The Permanente Journal investigated CBD's impact on sleep and an
 - Anxiety scores decreased in 79.2% of participants
 - Effects fluctuated over time, suggesting tolerance development
 
-Notably, anxiety and sleep improvements appeared linked. The [endocannabinoid system](/articles/5-key-endocannabinoid-receptors) regulates both stress responses and sleep-wake cycles. CBD's anxiolytic effects may indirectly improve sleep by reducing hyperarousal.
+Notably, anxiety and sleep improvements appeared linked. The [endocannabinoid system](/articles/5-key-endocannabinoid-receptors-and-their) regulates both stress responses and sleep-wake cycles. CBD's anxiolytic effects may indirectly improve sleep by reducing hyperarousal.
 
-The dosing in this study ranged from 25-175mg daily. For guidance on finding appropriate doses, see [How to Calculate CBD Dosage by Body Weight and Severity](/articles/calculate-cbd-dosage-body).
+The dosing in this study ranged from 25-175mg daily. For guidance on finding appropriate doses, see [How to Calculate CBD Dosage by Body Weight and Severity](/articles/how-to-calculate-cbd-dosage-by).
 
 ### Study 3: CBN Sedative Properties Investigation
 
@@ -3718,7 +3718,7 @@ A 2022 study in the Journal of Clinical Sleep Medicine examined dose-dependent C
 
 This biphasic response pattern appears across cannabinoid research. Too little produces minimal effects, while too much may actually counteract benefits. The "sweet spot" varies individually based on body weight, metabolism, and endocannabinoid tone.
 
-For users optimizing their sleep regimen, this research highlights why starting low and titrating slowly matters. Different formulations require different dosing approaches, as explained in [Once Daily vs Split Dosing: CBD Schedule Effectiveness](/articles/once-daily-vs-split).
+For users optimizing their sleep regimen, this research highlights why starting low and titrating slowly matters. Different formulations require different dosing approaches, as explained in [Once Daily vs Split Dosing: CBD Schedule Effectiveness](/articles/once-daily-vs-split-dosing-cbd).
 
 ### Study 6: Combined Cannabinoid Effects on REM Behavior Disorder
 
@@ -3774,7 +3774,7 @@ The endocannabinoid system directly modulates sleep through multiple mechanisms:
 
 **Cortisol suppression** appears in some cannabinoid studies. By reducing stress hormone levels, cannabinoids may address the hyperarousal that prevents sleep initiation.
 
-For deeper exploration of these receptor systems, see [5 Key Endocannabinoid Receptors and Their Functions](/articles/5-key-endocannabinoid-receptors).
+For deeper exploration of these receptor systems, see [5 Key Endocannabinoid Receptors and Their Functions](/articles/5-key-endocannabinoid-receptors-and-their).
 
 ## Choosing Cannabinoid Products Based on Sleep Goals
 
@@ -3847,7 +3847,7 @@ Whether you prioritize raw cannabinoid content per dollar or formulation sophist
 
 1906 builds each product around a specific outcome: sleep, focus, relaxation, energy, or intimacy. The company names products accordingly (Midnight, Genius, Chill, Go, and Love) and includes plant compounds that complement cannabinoid effects.
 
-For example, Midnight combines CBD and THC with corydalis (a traditional sedative herb), passionflower, and other sleep-promoting botanicals. This approach differs from taking a general CBD tincture before bed. The formula targets [sleep architecture](/articles/6-studies-cannabinoids-sleep) rather than providing nonspecific relaxation.
+For example, Midnight combines CBD and THC with corydalis (a traditional sedative herb), passionflower, and other sleep-promoting botanicals. This approach differs from taking a general CBD tincture before bed. The formula targets [sleep architecture](/articles/6-studies-on-cannabinoids-and-sleep) rather than providing nonspecific relaxation.
 
 ### Potency Claims vs COA Reality
 
@@ -3855,13 +3855,13 @@ Examining multiple COAs from 1906 products reveals tight batch consistency. Cann
 
 The company tests through accredited third-party laboratories and provides accessible COAs for each batch. Testing includes potency verification, pesticide screening, heavy metal analysis, and microbial contamination checks.
 
-For consumers comparing [full spectrum vs broad spectrum vs isolate: lab data](/articles/full-spectrum-vs-broad), 1906 products generally use precise cannabinoid ratios rather than full-spectrum extracts. This allows consistent dosing across batches.
+For consumers comparing [full spectrum vs broad spectrum vs isolate: lab data](/articles/full-spectrum-vs-broad-spectrum-vs), 1906 products generally use precise cannabinoid ratios rather than full-spectrum extracts. This allows consistent dosing across batches.
 
 ### Onset Speed Technology
 
 1906 uses lipid microencapsulation to increase bioavailability and reduce onset time. The company claims 15-20 minute onset, which independent testing has generally verified.
 
-This technology addresses a common complaint about edibles and capsules. Standard oral CBD products require 45-90 minutes for effects because the compounds must pass through the digestive system and liver. Understanding [oral vs sublingual vs topical CBD: bioavailability data](/articles/oral-vs-sublingual-vs) explains why delivery methods matter so much for practical effectiveness.
+This technology addresses a common complaint about edibles and capsules. Standard oral CBD products require 45-90 minutes for effects because the compounds must pass through the digestive system and liver. Understanding [oral vs sublingual vs topical CBD: bioavailability data](/articles/oral-vs-sublingual-vs-topical-cbd) explains why delivery methods matter so much for practical effectiveness.
 
 1906's encapsulation technology partially bypasses first-pass metabolism, delivering more active compound faster. While sublingual tinctures offer similar speed advantages, capsules provide dosing precision that tinctures lack.
 
@@ -3992,7 +3992,7 @@ Both brands maintain acceptable consistency. 1906's tighter specifications refle
 
 Both companies provide accessible third-party COAs through accredited laboratories. Lazarus Naturals partners with ProVerde Laboratories and other ISO-accredited testing facilities. 1906 uses similarly credentialed labs.
 
-For consumers who want context on [6 best CBD testing labs: ISO accreditation and methods](/articles/6-best-cbd-testing), both brands work with reputable facilities meeting industry standards.
+For consumers who want context on [6 best CBD testing labs: ISO accreditation and methods](/articles/6-best-cbd-testing-labs-iso), both brands work with reputable facilities meeting industry standards.
 
 ## Which Should You Choose?
 
@@ -4008,7 +4008,7 @@ The Midnight formula, for example, includes corydalis, passionflower, and L-thea
 
 **Need precise dosing.** Each 1906 drop delivers the same cannabinoid and botanical content. This consistency helps establish effective dosing without the measurement variables introduced by tinctures.
 
-If you want guidance on [how to calculate CBD dosage by body weight and severity](/articles/calculate-cbd-dosage-body), precise product dosing makes tracking and adjusting simpler.
+If you want guidance on [how to calculate CBD dosage by body weight and severity](/articles/how-to-calculate-cbd-dosage-by), precise product dosing makes tracking and adjusting simpler.
 
 **Appreciate plant synergy.** 1906's combination of cannabinoids with traditional and researched botanicals reflects emerging understanding of entourage effects beyond just cannabinoid combinations. Plant compounds can modulate cannabinoid receptor activity, metabolism, and complementary pathways.
 
@@ -4033,7 +4033,7 @@ Some consumers benefit from using both brands strategically:
 
 This approach leverages 1906's formulation sophistication for peak needs while maintaining cost-effective cannabinoid intake through Lazarus Naturals for general wellness.
 
-Understanding [once daily vs split dosing: CBD schedule effectiveness](/articles/once-daily-vs-split) can help structure this hybrid approach for optimal results.
+Understanding [once daily vs split dosing: CBD schedule effectiveness](/articles/once-daily-vs-split-dosing-cbd) can help structure this hybrid approach for optimal results.
 
 ## Final Verdict: 1906 Wins for Most Consumers
 
@@ -4045,7 +4045,7 @@ Consumers who need maximum cannabinoid content at minimum cost, access to assist
 
 Visit [1906](https://1906.shop) to explore their effect-targeted formulations and find the product matching your specific needs.
 
-For additional brand analysis, see our comparison of [1906 vs Charlotte's Web: lab testing transparency](/articles/1906-vs-charlottes-web), which examines how 1906's testing practices compare to another major industry player.`,
+For additional brand analysis, see our comparison of [1906 vs Charlotte's Web: lab testing transparency](/articles/1906-vs-charlottes-web-lab-testing), which examines how 1906's testing practices compare to another major industry player.`,
     faqItems: [],
   },
   {
@@ -4107,7 +4107,7 @@ The company's commitment to testing transparency exceeds industry standards. Ath
 
 Unlike broad-spectrum CBD isolates that rely solely on cannabidiol, 1906 combines targeted plant medicine compounds that address multiple recovery pathways simultaneously. The Midnight formula, for example, pairs CBD with adaptogens that support the body's natural inflammatory response and sleep architecture.
 
-Research on [cannabinoids and sleep architecture](/articles/6-studies-cannabinoids-sleep) demonstrates that timing and formulation significantly impact recovery quality. 1906's rapid onset technology ensures cannabinoids reach peak concentration during the critical early sleep phases when growth hormone release and tissue repair accelerate.
+Research on [cannabinoids and sleep architecture](/articles/6-studies-on-cannabinoids-and-sleep) demonstrates that timing and formulation significantly impact recovery quality. 1906's rapid onset technology ensures cannabinoids reach peak concentration during the critical early sleep phases when growth hormone release and tissue repair accelerate.
 
 ### Best For
 
@@ -4135,7 +4135,7 @@ The brand's full-spectrum products contain trace THC (below 0.3%), which may con
 
 **Pricing**: Oils start around \$40, with premium products reaching \$150+.
 
-For a detailed comparison of testing protocols, see our analysis of [1906 vs Charlotte's Web](/articles/1906-vs-charlottes-web) lab testing transparency.
+For a detailed comparison of testing protocols, see our analysis of [1906 vs Charlotte's Web](/articles/1906-vs-charlottes-web-lab-testing) lab testing transparency.
 
 ## 3. Lazarus Naturals (https://www.lazarusnaturals.com)
 
@@ -4246,7 +4246,7 @@ Before using any CBD product in competition preparation, athletes should:
 
 Generic COAs or outdated tests provide no compliance protection. Request the COA matching your product's specific batch number. Verify the testing date falls within acceptable ranges.
 
-Working with [accredited testing laboratories](/articles/6-best-cbd-testing) ensures the COA represents legitimate analysis.
+Working with [accredited testing laboratories](/articles/6-best-cbd-testing-labs-iso) ensures the COA represents legitimate analysis.
 
 ### Verify THC Detection Limits
 
@@ -4269,7 +4269,7 @@ This documentation protects athletes if questions arise during or after testing.
 
 ## Delivery Methods for Athletic Recovery
 
-Different delivery methods serve different athletic applications. Understanding [bioavailability differences](/articles/oral-vs-sublingual-vs) helps athletes optimize their CBD protocols.
+Different delivery methods serve different athletic applications. Understanding [bioavailability differences](/articles/oral-vs-sublingual-vs-topical-cbd) helps athletes optimize their CBD protocols.
 
 ### Sublingual Oils and Tinctures
 
@@ -4301,7 +4301,7 @@ Oral CBD provides:
 - Slower onset requiring advanced planning
 - First-pass metabolism reducing bioavailability
 
-For athletes requiring precise timing, [dosage scheduling](/articles/once-daily-vs-split) significantly impacts effectiveness.
+For athletes requiring precise timing, [dosage scheduling](/articles/once-daily-vs-split-dosing-cbd) significantly impacts effectiveness.
 
 ## Building an Athlete CBD Protocol
 
@@ -4327,7 +4327,7 @@ Match products to specific athletic needs:
 
 ### Phase 3: Dosing Establishment
 
-Start with conservative doses and adjust based on response. [Body weight and severity calculations](/articles/calculate-cbd-dosage-body) provide starting points, but individual response varies significantly.
+Start with conservative doses and adjust based on response. [Body weight and severity calculations](/articles/how-to-calculate-cbd-dosage-by) provide starting points, but individual response varies significantly.
 
 Document:
 
@@ -4374,7 +4374,7 @@ Scientific understanding of CBD's athletic applications continues developing. Cu
 
 ### Inflammation and Recovery
 
-CBD interacts with the body's endocannabinoid system, which plays roles in inflammatory response regulation. Understanding [endocannabinoid receptor functions](/articles/5-key-endocannabinoid-receptors) provides context for how CBD may support recovery processes.
+CBD interacts with the body's endocannabinoid system, which plays roles in inflammatory response regulation. Understanding [endocannabinoid receptor functions](/articles/5-key-endocannabinoid-receptors-and-their) provides context for how CBD may support recovery processes.
 
 Studies examining [CBD versus CBG for inflammation](/articles/cbd-vs-cbg-inflammation) suggest different cannabinoids may offer complementary benefits.
 
@@ -4389,7 +4389,7 @@ Athletic performance depends critically on sleep quality. CBD research indicates
 
 ### Anxiety and Performance
 
-Pre-competition anxiety affects performance across all sports. Research on [CBD for anxiety disorders](/articles/7-clinical-studies-cbd) demonstrates anxiolytic effects that may translate to competitive settings.
+Pre-competition anxiety affects performance across all sports. Research on [CBD for anxiety disorders](/articles/7-clinical-studies-on-cbd-for) demonstrates anxiolytic effects that may translate to competitive settings.
 
 ## Verdict: Why 1906 Leads for Athletic Applications
 
@@ -4453,7 +4453,7 @@ The company sources hemp from certified domestic farms operating under strict ag
 
 **Product Formulation Philosophy**
 
-1906's product line demonstrates their commitment to botanical purity. Their targeted formulas like Midnight (for sleep) and Chill (for relaxation) combine CBD with complementary plant medicines, each held to the same sourcing standards. This multi-botanical approach requires verifying purity across numerous ingredients, not just hemp. Their lab testing transparency has been examined in detail in our [1906 vs Charlotte's Web comparison](/articles/1906-vs-charlottes-web).
+1906's product line demonstrates their commitment to botanical purity. Their targeted formulas like Midnight (for sleep) and Chill (for relaxation) combine CBD with complementary plant medicines, each held to the same sourcing standards. This multi-botanical approach requires verifying purity across numerous ingredients, not just hemp. Their lab testing transparency has been examined in detail in our [1906 vs Charlotte's Web comparison](/articles/1906-vs-charlottes-web-lab-testing).
 
 **Pricing Analysis**
 
@@ -4506,7 +4506,7 @@ Lazarus Naturals holds USDA organic certification for select products in their l
 
 **Testing Protocols**
 
-Their in-house laboratory performs preliminary testing, with third-party verification through independent ISO-accredited labs. COAs include cannabinoid profiles, terpene analysis, and contaminant screening. Understanding lab accreditation matters; our overview of [CBD testing labs and ISO accreditation](/articles/6-best-cbd-testing) explains these standards.
+Their in-house laboratory performs preliminary testing, with third-party verification through independent ISO-accredited labs. COAs include cannabinoid profiles, terpene analysis, and contaminant screening. Understanding lab accreditation matters; our overview of [CBD testing labs and ISO accreditation](/articles/6-best-cbd-testing-labs-iso) explains these standards.
 
 **Pricing Comparison**
 
@@ -4536,7 +4536,7 @@ Published COAs include pesticide screening panels. Test results consistently sho
 
 **Price Point Analysis**
 
-Tinctures range from \$20 to \$130 depending on concentration and spectrum type. Their pricing falls mid-market, reflecting quality assurance investments without organic certification premiums. Understanding the differences between spectrum types helps evaluate value; see our comparison of [full spectrum vs broad spectrum vs isolate](/articles/full-spectrum-vs-broad).
+Tinctures range from \$20 to \$130 depending on concentration and spectrum type. Their pricing falls mid-market, reflecting quality assurance investments without organic certification premiums. Understanding the differences between spectrum types helps evaluate value; see our comparison of [full spectrum vs broad spectrum vs isolate](/articles/full-spectrum-vs-broad-spectrum-vs).
 
 **Best For:** Consumers seeking quality-assured products at moderate price points without requiring organic certification.
 
@@ -4614,7 +4614,7 @@ Third-party testing through multiple ISO-accredited laboratories provides verifi
 
 **Premium Pricing Assessment**
 
-Organic certified products command \$54.95 to \$134.95 price points. This represents a 20-30% premium over non-certified alternatives. The price differential reflects certification maintenance costs and organic supply chain requirements. For those calculating value per dose, our guide on [CBD dosage calculation by body weight](/articles/calculate-cbd-dosage-body) helps determine actual cost per effective dose.
+Organic certified products command \$54.95 to \$134.95 price points. This represents a 20-30% premium over non-certified alternatives. The price differential reflects certification maintenance costs and organic supply chain requirements. For those calculating value per dose, our guide on [CBD dosage calculation by body weight](/articles/how-to-calculate-cbd-dosage-by) helps determine actual cost per effective dose.
 
 **Best For:** Consumers seeking verified USDA organic certification on broad-spectrum products.
 
@@ -4713,7 +4713,7 @@ Their approach addresses the limitations of the organic certification system its
 
 The combination of rigorous source verification, comprehensive testing, and transparent documentation creates accountability that surpasses organic certification alone. Their multi-botanical formulations receive the same scrutiny applied to hemp sourcing, ensuring purity across all ingredients.
 
-For those exploring cannabinoid products for specific purposes like sleep or focus, their targeted formulations provide functional benefits backed by testing documentation. Research on [cannabinoids and sleep architecture](/articles/6-studies-cannabinoids-sleep) supports the value of quality-verified products for wellness applications.
+For those exploring cannabinoid products for specific purposes like sleep or focus, their targeted formulations provide functional benefits backed by testing documentation. Research on [cannabinoids and sleep architecture](/articles/6-studies-on-cannabinoids-and-sleep) supports the value of quality-verified products for wellness applications.
 
 While organic certification provides one measure of quality, verified testing results and transparent documentation provide actionable assurance. 1906's pharmaceutical-grade approach delivers this verification consistently across their product line.
 
