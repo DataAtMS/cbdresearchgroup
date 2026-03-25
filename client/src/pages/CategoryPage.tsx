@@ -13,7 +13,7 @@ const CATEGORY_SEO: Record<string, { metaTitle: string; metaDescription: string;
 
 export default function CategoryPage() {
   const [location] = useLocation();
-  const slug = location.replace(/^\//, "");
+  const slug = location.split("/").filter(Boolean).join("/");
   const [mobileNavOpen, setMobileNavOpen] = useState(false);
 
   const catInfo = CATEGORIES.find((c) => c.slug === slug);
