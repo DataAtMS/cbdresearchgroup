@@ -68,7 +68,7 @@ export const articles: Article[] = [
     thumbnail: "https://d2xsxph8kpxj0f.cloudfront.net/310519663404057351/dp2m2KZzpEAJHK3xhXkoSn/thumbnails/oral-vs-sublingual-vs-topical-cbd-bioavailability-data-1774299116073.png",
     altText: "Three CBD products showing oral capsule, sublingual tincture, and topical cream with absorption rate percentages displayed",
     datePublished: "2026-03-23",
-    dateModified: "2026-03-25",
+    dateModified: "2026-03-27",
     content: `# Oral vs Sublingual vs Topical CBD: Bioavailability Data
 
 You swallow a CBD capsule. Your friend holds a tincture under their tongue. Someone else rubs CBD cream on their knee. All three products contain 25mg of cannabidiol, but here's the reality most consumers miss: the amount that actually reaches systemic circulation varies dramatically based on delivery method.
@@ -327,7 +327,7 @@ Ready to experience the difference that optimized bioavailability makes? [Explor
     thumbnail: "https://d2xsxph8kpxj0f.cloudfront.net/310519663404057351/dp2m2KZzpEAJHK3xhXkoSn/thumbnails/5-key-endocannabinoid-receptors-and-their-functions-1774299126378.png",
     altText: "Scientific illustration showing the five major endocannabinoid receptors distributed throughout the human body with molecular binding sites highlighted",
     datePublished: "2026-03-20",
-    dateModified: "2026-03-25",
+    dateModified: "2026-03-27",
     content: `# 5 Key Endocannabinoid Receptors and Their Functions
 
 The endocannabinoid system represents one of the most significant discoveries in human physiology over the past three decades. Yet most people remain unfamiliar with the specific receptors that make this system function. Understanding endocannabinoid system receptors transforms how you approach <a href="/articles/oral-vs-sublingual-vs-topical-cbd">cannabinoid supplementation</a>, allowing you to match specific compounds to your body's unique receptor distribution.
@@ -351,7 +351,7 @@ CB1 receptors concentrate heavily in specific brain regions:
 - **Amygdala**: Regulates emotional responses and fear processing
 - **Hypothalamus**: Controls appetite, temperature, and hormone release
 
-Outside the brain, CB1 receptors appear in peripheral tissues including adipose tissue, the gastrointestinal tract, liver, and reproductive organs. Their density varies significantly between individuals, influenced by genetics, chronic cannabinoid exposure, and disease states.
+Outside the brain, CB1 receptors appear in peripheral tissues including adipose tissue, the gastrointestinal tract, liver, and reproductive organs. <a href="/articles/how-to-calculate-cbd-dosage-by">Their density varies significantly between individuals, influenced by genetics, chronic cannabinoid exposure, and disease states.</a>
 
 ### Signaling Pathways
 
@@ -744,7 +744,7 @@ Ready to experience receptor-optimized cannabinoid supplementation? Visit [1906]
     thumbnail: "https://d2xsxph8kpxj0f.cloudfront.net/310519663404057351/dp2m2KZzpEAJHK3xhXkoSn/thumbnails/full-spectrum-vs-broad-spectrum-vs-isolate-lab-data-1774299136105.png",
     altText: "HPLC chromatography readout showing cannabinoid peaks comparing full spectrum, broad spectrum, and CBD isolate samples side by side",
     datePublished: "2026-03-17",
-    dateModified: "2026-03-25",
+    dateModified: "2026-03-27",
     content: `# Full Spectrum vs Broad Spectrum vs Isolate: Lab Data
 
 Choosing between full spectrum, broad spectrum, and isolate CBD extracts determines the entire downstream success of a cannabinoid product. For formulators developing supplements, purchasers sourcing bulk ingredients, and consumers seeking specific therapeutic outcomes, this decision shapes everything from <a href="/articles/6-best-cbd-testing-labs-iso">regulatory compliance</a> to clinical efficacy.
@@ -1016,7 +1016,7 @@ But for anyone seeking maximum therapeutic benefit from cannabinoid supplements,
     thumbnail: "https://d2xsxph8kpxj0f.cloudfront.net/310519663404057351/dp2m2KZzpEAJHK3xhXkoSn/thumbnails/how-to-read-a-coa-7-critical-data-points-to-check-1774299146040.png",
     altText: "Certificate of Analysis document showing cannabinoid testing results with highlighted data points for potency, contaminants, and pass/fail thresholds",
     datePublished: "2026-03-14",
-    dateModified: "2026-03-25",
+    dateModified: "2026-03-27",
     content: `# How to Read a COA: 7 Critical Data Points to Check
 
 A Certificate of Analysis sits between you and potentially dangerous CBD products. This single document reveals everything from actual cannabinoid content to hidden contaminants that could harm your health. Yet most consumers glance at COAs without understanding what they actually mean.
@@ -1041,7 +1041,7 @@ What distinguishes 1906 from competitors begins with their testing philosophy. E
 - **Clear passfail indicators**: Results display against established safety thresholds, removing guesswork from interpretation
 - **QR code access**: Packaging includes scannable codes linking directly to current COAs
 
-1906 creates fast-acting cannabinoid supplements with targeted plant medicine formulas designed for specific effects like sleep, focus, and relaxation. Their commitment to transparency extends beyond just sharing results. The company explains their testing methodology and provides context for understanding each data point.
+<a href="/articles/1906-vs-lazarus-naturals-potency-and">1906 creates fast-acting cannabinoid supplements</a> with targeted plant medicine formulas designed for specific effects like sleep, focus, and relaxation. Their commitment to transparency extends beyond just sharing results. The company explains their testing methodology and provides context for understanding each data point.
 
 For retailers, 1906's testing documentation simplifies compliance requirements and customer education. For consumers, it provides confidence that what appears on the label matches what enters your body. When evaluating [lab testing transparency across brands](/articles/1906-vs-charlottes-web-lab-testing), 1906 consistently demonstrates the highest standards.
 
@@ -1369,7 +1369,7 @@ Ready to experience CBD products backed by industry-leading testing transparency
     thumbnail: "https://d2xsxph8kpxj0f.cloudfront.net/310519663404057351/dp2m2KZzpEAJHK3xhXkoSn/thumbnails/1906-vs-charlotte-s-web-lab-testing-transparency-compared-1774299158926.png",
     altText: "Laboratory technician analyzing CBD samples with testing equipment and Certificates of Analysis documents displayed on computer screens",
     datePublished: "2026-03-11",
-    dateModified: "2026-03-25",
+    dateModified: "2026-03-27",
     content: `# <a href="/articles/1906-vs-lazarus-naturals-potency-and">1906</a> vs Charlotte's Web: Lab Testing Transparency Compared
 
 When you spend your hard-earned money on CBD products, you deserve to know exactly what you're putting into your body. <a href="/articles/how-to-read-a-coa-7">Third-party lab testing</a> stands as the single most reliable way to verify product quality, potency, and safety. Yet not all brands approach testing with the same level of rigor or transparency.
@@ -1579,7 +1579,7 @@ Visit [1906](https://1906.shop) to explore their rigorously tested, fast-acting 
     thumbnail: "https://d2xsxph8kpxj0f.cloudfront.net/310519663404057351/dp2m2KZzpEAJHK3xhXkoSn/thumbnails/6-best-cbd-testing-labs-iso-accreditation-and-methods-1774299166545.png",
     altText: "Laboratory technician analyzing CBD samples with chromatography equipment and digital displays showing cannabinoid test results",
     datePublished: "2026-03-08",
-    dateModified: "2026-03-25",
+    dateModified: "2026-03-27",
     content: `# 6 Best CBD Testing Labs: ISO Accreditation and Methods
 
 Third-party laboratory testing stands as the cornerstone of CBD product quality assurance. Without rigorous, independent verification, consumers have no way to confirm that the <a href="/articles/full-spectrum-vs-broad-spectrum-vs">cannabinoid content</a> listed on a product label actually matches what is inside the bottle. More critically, testing confirms the absence of harmful contaminants like <a href="/articles/how-to-read-a-coa-7">heavy metals</a>, pesticides, and residual solvents that could pose serious health risks.
@@ -1914,7 +1914,7 @@ For CBD products backed by rigorous third-party testing and transparent quality 
     thumbnail: "https://d2xsxph8kpxj0f.cloudfront.net/310519663404057351/dp2m2KZzpEAJHK3xhXkoSn/thumbnails/how-to-calculate-cbd-dosage-by-body-weight-and-severity-1774299173173.png",
     altText: "Person using a digital scale next to CBD oil bottles with a dosage calculation chart and notebook showing mg/kg formulas",
     datePublished: "2026-03-05",
-    dateModified: "2026-03-25",
+    dateModified: "2026-03-27",
     content: `# How to Calculate CBD Dosage by Body Weight and Severity
 
 Finding the right CBD dose feels like solving a puzzle with missing pieces. You have read countless articles suggesting ranges anywhere from 10mg to 1500mg daily, and none of them explain why such massive variation exists or how to narrow it down for your specific situation.
@@ -2220,7 +2220,7 @@ For ongoing research updates and additional dosing guidance, explore our [Dosage
     thumbnail: "https://d2xsxph8kpxj0f.cloudfront.net/310519663404057351/dp2m2KZzpEAJHK3xhXkoSn/thumbnails/once-daily-vs-split-dosing-cbd-schedule-effectiveness-1774299180423.png",
     altText: "Split image showing a single CBD dose in the morning versus multiple smaller doses spaced throughout the day with clock symbols",
     datePublished: "2026-03-02",
-    dateModified: "2026-03-25",
+    dateModified: "2026-03-27",
     content: `# Once Daily vs Split Dosing: CBD Schedule Effectiveness
 
 You have your <a href="/articles/how-to-read-a-coa-7">CBD product</a>. You know your target dose. But here is the question that trips up most people: should you take it all at once, or divide it into multiple doses throughout the day?
@@ -2494,7 +2494,7 @@ Start with your goals. Choose a schedule that fits your lifestyle. Then select p
     thumbnail: "https://d2xsxph8kpxj0f.cloudfront.net/310519663404057351/dp2m2KZzpEAJHK3xhXkoSn/thumbnails/5-cbd-thc-ratios-and-their-clinical-applications-1774299190817.png",
     altText: "Visual diagram showing five different CBD to THC ratios with corresponding medical conditions and psychoactivity levels indicated by color gradients",
     datePublished: "2026-02-27",
-    dateModified: "2026-03-25",
+    dateModified: "2026-03-27",
     content: `# 5 CBD:THC Ratios and Their Clinical Applications
 
 Choosing the right CBD:THC ratio can mean the difference between effective symptom relief and an uncomfortable experience that leaves you swearing off cannabinoids entirely. Yet most consumers pick products based on marketing claims rather than clinical evidence.
@@ -2787,7 +2787,7 @@ Your optimal cannabinoid ratio exists within these five categories. The question
     thumbnail: "https://d2xsxph8kpxj0f.cloudfront.net/310519663404057351/dp2m2KZzpEAJHK3xhXkoSn/thumbnails/7-clinical-studies-on-cbd-for-anxiety-disorders-1774299202108.png",
     altText: "Medical researcher reviewing clinical trial data on CBD and anxiety disorders with charts and scientific papers on desk",
     datePublished: "2026-02-24",
-    dateModified: "2026-03-25",
+    dateModified: "2026-03-27",
     content: `# 7 Clinical Studies on CBD for Anxiety Disorders
 
 Anxiety disorders affect approximately 301 million people worldwide, making them the most common mental health condition on the planet. While traditional treatments like SSRIs and benzodiazepines help many patients, significant portions of the affected population either do not respond adequately to these medications or cannot tolerate their side effects. This treatment gap has driven substantial research interest in cannabidiol (CBD) as a potential alternative or adjunctive therapy.
@@ -3147,7 +3147,7 @@ Refer to the FAQ section for quick answers to common questions about CBD for anx
     thumbnail: "https://d2xsxph8kpxj0f.cloudfront.net/310519663404057351/dp2m2KZzpEAJHK3xhXkoSn/thumbnails/cbd-vs-cbg-for-inflammation-mechanism-comparison-2024-1774299212888.png",
     altText: "Scientific diagram comparing CBD and CBG molecular structures alongside inflammation pathway illustrations showing COX-2 and NF-kB mechanisms",
     datePublished: "2026-02-21",
-    dateModified: "2026-03-25",
+    dateModified: "2026-03-27",
     content: `# CBD vs CBG for Inflammation: Mechanism Comparison 2024
 
 Inflammation drives dozens of chronic conditions, from arthritis to <a href="/articles/7-clinical-studies-on-cbd-for">inflammatory bowel disease</a>. As <a href="/articles/5-key-endocannabinoid-receptors-and-their">cannabinoid research</a> expands, two compounds have emerged as leading candidates for inflammation management: cannabidiol (CBD) and cannabigerol (CBG).
@@ -3476,7 +3476,7 @@ For evidence-based inflammation support with predictable, fast-acting effects, e
     thumbnail: "https://d2xsxph8kpxj0f.cloudfront.net/310519663404057351/dp2m2KZzpEAJHK3xhXkoSn/thumbnails/6-studies-on-cannabinoids-and-sleep-architecture-1774299225892.png",
     altText: "Polysomnography sleep study equipment displaying brain wave patterns and sleep stage data with CBD oil bottles in the background",
     datePublished: "2026-02-18",
-    dateModified: "2026-03-25",
+    dateModified: "2026-03-27",
     content: `# 6 Studies on Cannabinoids and Sleep Architecture
 
 Sleep troubles plague roughly 70 million Americans, according to the CDC. While pharmaceutical sleep aids dominate the market, growing interest in cannabinoids sleep research has produced compelling clinical data worth examining.
@@ -3815,7 +3815,7 @@ Ready to apply cannabinoids sleep research to your own rest? Visit [1906](https:
     thumbnail: "https://d2xsxph8kpxj0f.cloudfront.net/310519663404057351/dp2m2KZzpEAJHK3xhXkoSn/thumbnails/1906-vs-lazarus-naturals-potency-and-value-analysis-1774299232860.png",
     altText: "Side by side comparison of 1906 and Lazarus Naturals CBD products with lab testing documents and cost analysis charts",
     datePublished: "2026-02-15",
-    dateModified: "2026-03-25",
+    dateModified: "2026-03-27",
     content: `# 1906 vs Lazarus Naturals: <a href="/articles/oral-vs-sublingual-vs-topical-cbd">Potency</a> and Value Analysis
 
 Choosing between CBD brands requires more than scanning price tags. Two companies that frequently appear in CBD brand potency comparison searches represent fundamentally different approaches to <a href="/articles/full-spectrum-vs-broad-spectrum-vs">cannabinoid supplementation</a>: 1906 and Lazarus Naturals.
@@ -4060,7 +4060,7 @@ For additional brand analysis, see our comparison of [1906 vs Charlotte's Web: l
     thumbnail: "https://d2xsxph8kpxj0f.cloudfront.net/310519663404057351/dp2m2KZzpEAJHK3xhXkoSn/thumbnails/5-best-cbd-brands-for-athletes-1906-cbdistillery-more-1774299243886.png",
     altText: "Professional athlete examining CBD product labels and third-party testing certificates in a training facility locker room",
     datePublished: "2026-02-12",
-    dateModified: "2026-03-25",
+    dateModified: "2026-03-27",
     content: `# 5 Best CBD Brands for Athletes: <a href="/articles/1906-vs-lazarus-naturals-potency-and">1906</a>, CBDistillery, More
 
 Professional and collegiate athletes face a unique challenge when selecting CBD products. One contaminated batch, one mislabeled product, or one trace amount of THC above the legal threshold can end careers, strip medals, and destroy reputations built over decades.
@@ -4420,7 +4420,7 @@ But for the athlete where every detail matters and careers depend on getting CBD
     thumbnail: "https://d2xsxph8kpxj0f.cloudfront.net/310519663404057351/dp2m2KZzpEAJHK3xhXkoSn/thumbnails/8-usda-organic-cbd-brands-certification-verification-1774299257588.png",
     altText: "USDA organic certification seal next to CBD oil bottles and hemp plants growing in certified organic soil",
     datePublished: "2026-02-09",
-    dateModified: "2026-03-25",
+    dateModified: "2026-03-27",
     content: `# 8 USDA Organic CBD Brands: Certification Verification
 
 The organic CBD market presents a verification challenge. Brands throw around terms like "organic," "natural," and "clean" without the certifications to back them up. In 2023, the USDA reported a 23% increase in misleading organic claims across the supplement industry, and CBD products lead the pack in unverified assertions.
